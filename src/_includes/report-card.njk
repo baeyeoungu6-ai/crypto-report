@@ -1,11 +1,25 @@
-<article class="card">
-  <p class="meta">{{ report.date }} · {{ report.symbol }}</p>
-  <h2><a href="/reports/{{ report.slug }}/">{{ report.title }}</a></h2>
-  <p>{{ report.summary }}</p>
-  <p class="stats">
-    <strong>Price:</strong> {{ report.priceChange24h }}%
-    ·
-    <strong>Volume:</strong> {{ report.volumeChange24h }}%
-  </p>
-  <a class="button secondary" href="/reports/{{ report.slug }}/">Read report</a>
+<article class="report-card">
+  <div class="report-card-top">
+    <p class="meta">{{ report.date }} · {{ report.symbol }}</p>
+    <span class="price-pill positive">+{{ report.priceChange24h }}%</span>
+  </div>
+
+  <h3><a href="/reports/{{ report.slug }}/">{{ report.title }}</a></h3>
+  <p class="report-card-summary">{{ report.summary }}</p>
+
+  <div class="report-card-metrics">
+    <div>
+      <span class="metric-label">Market cap</span>
+      <strong>{{ report.marketCap }}</strong>
+    </div>
+    <div>
+      <span class="metric-label">Activity</span>
+      <strong>{{ report.volumeLabel }}</strong>
+    </div>
+  </div>
+
+  <div class="report-card-actions">
+    <a class="button secondary report-action-btn" href="/reports/{{ report.slug }}/">Read report</a>
+    <a class="button report-action-btn" href="{{ site.binanceReferralUrl }}" target="_blank" rel="noopener noreferrer">Open Binance</a>
+  </div>
 </article>
