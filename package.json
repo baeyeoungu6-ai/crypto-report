@@ -1,10 +1,11 @@
 {
-  "name": "crypto-report-site",
+  "name": "alpha-coin-report-auto",
   "version": "1.0.0",
-  "description": "Daily crypto mover report site",
+  "description": "Alpha Coin Report - daily automated crypto mover reports with 11ty and Netlify",
   "scripts": {
     "start": "npx @11ty/eleventy --serve --input=src --output=_site",
-    "build": "npx @11ty/eleventy --input=src --output=_site"
+    "build": "npx @11ty/eleventy --input=src --output=_site",
+    "generate": "node scripts/generate-report.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0"
