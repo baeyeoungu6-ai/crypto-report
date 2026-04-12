@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2026-04-10",
+    "slug": "2026-04-10-ordi",
+    "coinId": "ordi",
+    "coinName": "ORDI",
+    "symbol": "ORDI",
+    "title": "Why ORDI Went Up Yesterday",
+    "priceChange24h": 19.2,
+    "volumeLabel": "Elevated",
+    "marketCap": "$710M",
+    "summary": "ORDI was one of the strongest crypto movers yesterday, posting a sharp gain with elevated market activity.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers.",
+      "Trading activity stayed active as traders rotated into high-momentum names.",
+      "Renewed attention around the broader Bitcoin ecosystem may have supported the move."
+    ],
+    "news": [],
+    "about": "ORDI is associated with the Bitcoin Ordinals ecosystem and is often watched during narrative-driven rotations.",
+    "reportIntro": "ORDI stood out as one of yesterday's strongest movers, supported by price momentum and active trading.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
+    "date": "2026-04-09",
+    "slug": "2026-04-09-arkham",
+    "coinId": "arkham",
+    "coinName": "Arkham",
+    "symbol": "ARKM",
+    "title": "Why ARKM Went Up Yesterday",
+    "priceChange24h": 28.4,
+    "volumeLabel": "High",
+    "marketCap": "$420M",
+    "summary": "ARKM moved sharply higher yesterday as market attention returned to the token.",
+    "reasons": [
+      "ARKM delivered one of the session's strongest percentage moves.",
+      "High trading activity suggested strong short-term participation.",
+      "Momentum traders may have amplified the breakout."
+    ],
+    "news": [],
+    "about": "Arkham is a blockchain intelligence platform focused on on-chain analysis and wallet tracking.",
+    "reportIntro": "ARKM moved sharply higher yesterday on strong market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
+    "date": "2026-04-08",
+    "slug": "2026-04-08-fetch-ai",
+    "coinId": "fetch-ai",
+    "coinName": "Fetch.ai",
+    "symbol": "FET",
+    "title": "Why FET Went Up Yesterday",
+    "priceChange24h": 16.7,
+    "volumeLabel": "Strong",
+    "marketCap": "$1.4B",
+    "summary": "FET was one of yesterday's notable movers as interest returned to AI-related tokens.",
+    "reasons": [
+      "AI-linked tokens regained attention across the market.",
+      "FET's percentage gain placed it among the session's best performers.",
+      "Higher activity levels suggested renewed speculative interest."
+    ],
+    "news": [],
+    "about": "Fetch.ai is a blockchain project focused on autonomous agents and AI-related infrastructure.",
+    "reportIntro": "FET posted a strong move yesterday as traders rotated back into AI-linked tokens.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  }
+]

@@ -1,6 +1,8 @@
 module.exports = {
-  title: "Daily Pump Report",
-  description: "Daily reports on the most active crypto movers, including latest news and market context.",
-  url: "https://effulgent-babka-76c352.netlify.app",
-  binanceReferralUrl: "https://www.binance.com/en/register?ref=XETYHXNR"
+  title: "Alpha Coin Report",
+  description: "Clean, daily crypto mover coverage with top gainers, latest reports, and Binance access for active traders.",
+  url: "https://alphacoinreport.com",
+  binanceReferralUrl: "https://www.binance.com/join?ref=XETYHXNR",
+  binanceReferralCode: "XETYHXNR",
+  binanceBannerImage: "/assets/binance-event-link.png"
 };
