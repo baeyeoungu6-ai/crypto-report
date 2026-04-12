@@ -28,29 +28,18 @@
       </nav>
     </div>
   </header>
-
   <main class="container page-shell">
     {{ content | safe }}
   </main>
-
-  <footer class="site-footer">
-    <div class="container footer-inner">
-      <div>
-        <strong>{{ site.title }}</strong>
-        <p>Clean market snapshots, latest mover reports, and a direct Binance access point for active crypto users.</p>
-      </div>
-      <div class="footer-links">
-        <a href="/reports/">Reports</a>
-        <a href="/about/">About</a>
-        <a href="/disclaimer/">Disclaimer</a>
-        <a href="{{ site.binanceReferralUrl }}" target="_blank" rel="noopener noreferrer">Open Binance</a>
-      </div>
-    </div>
-  <div class="footer-links">
-    <a href="/privacy/">Privacy Policy</a>
-    <a href="/disclaimer/">Disclaimer</a>
-    <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
-  </div>
-  </footer>
 </body>
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-links">
+      <a href="/privacy/">Privacy Policy</a>
+      <a href="/disclaimer/">Disclaimer</a>
+      <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+    </div>
+    <p>{{ site.title }} provides market commentary for informational purposes only.</p>
+  </div>
+</footer>
 </html>
