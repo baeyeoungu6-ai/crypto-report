@@ -1,33 +1,306 @@
 ---
 layout: layout.njk
 title: Home
-description: Daily reports on crypto movers with latest news and market context.
+description: Live Binance Futures top gainers, latest three mover reports, and a direct Binance referral gateway.
 permalink: /index.html
 ---
 
-<section class="hero">
-  <p class="eyebrow">Daily Crypto Movers</p>
-  <h1>Why a coin pumped yesterday</h1>
-  <p class="hero-text">
-    Daily reports covering one major crypto mover, including market activity, possible reasons, and related news.
-  </p>
-  <div class="hero-actions">
-    <a class="button" href="/reports/{{ featuredReport.slug }}/">Read latest report</a>
-    <a class="button secondary" href="/reports/">View all reports</a>
+<section class="hero hero-grid">
+  <div class="hero-copy">
+    <p class="eyebrow">Daily Crypto Mover Intelligence</p>
+    <h1>Live Binance Futures gainers, clean reports, and a fast route to Binance.</h1>
+    <p class="hero-text">
+      Alpha Coin Report tracks fast-moving coins, keeps only the freshest three reports live, and shows a live Binance Futures leaderboard built for active traders.
+    </p>
+
+    {% if featuredReport %}
+    <div class="hero-feature-card">
+      <div class="hero-feature-top">
+        <div>
+          <span class="section-kicker">Latest report</span>
+          <h2>{{ featuredReport.coinName }} <span>{{ featuredReport.symbol }}</span></h2>
+        </div>
+        <div class="price-pill positive">+{{ featuredReport.priceChange24h }}%</div>
+      </div>
+      <p>{{ featuredReport.summary }}</p>
+      <div class="hero-actions">
+        <a class="button" href="/reports/{{ featuredReport.slug }}/">Read latest report</a>
+        <a class="button secondary" href="{{ site.binanceReferralUrl }}" target="_blank" rel="noopener noreferrer">Open Binance</a>
+      </div>
+    </div>
+    {% endif %}
+  </div>
+
+  <aside class="hero-aside">
+    <a class="banner-link" href="{{ site.binanceReferralUrl }}" target="_blank" rel="noopener noreferrer" aria-label="Join Binance with referral">
+      <img src="{{ site.binanceBannerImage }}" alt="Binance exchange event link banner">
+    </a>
+
+    <div class="mini-stats-card">
+      <span class="section-kicker">Quick take</span>
+      <ul class="mini-stats-list">
+        <li><strong>3</strong><span>Live reports only</span></li>
+        <li><strong>10</strong><span>Top futures gainers</span></li>
+        <li><strong>Live</strong><span>WebSocket stream</span></li>
+      </ul>
+    </div>
+  </aside>
+</section>
+
+<section class="section-block">
+  <div class="section-head">
+    <div>
+      <p class="eyebrow">Leaderboard</p>
+      <h2>Top 10 Binance Futures gainers</h2>
+      <p class="section-subnote">USDT perpetual pairs only · BTC and ETH excluded</p>
+    </div>
+    <p class="section-note" id="top10-status">Loading Binance Futures data…</p>
+  </div>
+
+  <div class="table-card">
+    <div class="mover-table-wrap">
+      <table class="mover-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Pair</th>
+            <th>Last price</th>
+            <th>24h</th>
+            <th>24h volume</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="live-top10-body">
+          <tr>
+            <td colspan="6">
+              <div class="table-loading">Connecting to Binance Futures…</div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
 </section>
 
-<section>
-  <h2>Latest Report</h2>
-  {% set report = featuredReport %}
-  {% include "report-card.njk" %}
-</section>
+<section class="section-block">
+  <div class="section-head">
+    <div>
+      <p class="eyebrow">Fresh coverage</p>
+      <h2>Latest 3 reports</h2>
+    </div>
+    <a class="section-link" href="/reports/">View archive</a>
+  </div>
 
-<section>
-  <h2>Recent Reports</h2>
-  <div class="grid">
+  <div class="report-grid">
     {% for report in reports %}
       {% include "report-card.njk" %}
     {% endfor %}
   </div>
 </section>
+
+<script>
+  const BINANCE_REFERRAL_URL = {{ site.binanceReferralUrl | dump | safe }};
+  const BINANCE_EXCHANGE_INFO_URL = "https://fapi.binance.com/fapi/v1/exchangeInfo";
+  const BINANCE_24HR_URL = "https://fapi.binance.com/fapi/v1/ticker/24hr";
+  const BINANCE_WS_URL = "wss://fstream.binance.com/ws/!ticker@arr";
+
+  const EXCLUDED_SYMBOLS = new Set(["BTCUSDT", "ETHUSDT"]);
+  const allowedSymbols = new Set();
+  const tickerMap = new Map();
+  let socket = null;
+  let reconnectTimer = null;
+
+  function formatPrice(value) {
+    const num = Number(value);
+    if (!Number.isFinite(num)) return "-";
+
+    if (num >= 1000) {
+      return "$" + num.toLocaleString(undefined, { maximumFractionDigits: 2 });
+    }
+    if (num >= 1) {
+      return "$" + num.toLocaleString(undefined, { maximumFractionDigits: 4 });
+    }
+    return "$" + num.toLocaleString(undefined, { maximumFractionDigits: 6 });
+  }
+
+  function formatVolume(value) {
+    const num = Number(value);
+    if (!Number.isFinite(num)) return "-";
+
+    if (num >= 1_000_000_000) return "$" + (num / 1_000_000_000).toFixed(2) + "B";
+    if (num >= 1_000_000) return "$" + (num / 1_000_000).toFixed(2) + "M";
+    if (num >= 1_000) return "$" + (num / 1_000).toFixed(2) + "K";
+    return "$" + num.toFixed(2);
+  }
+
+  function formatTime(date) {
+    return new Intl.DateTimeFormat("en-US", {
+      month: "short",
+      day: "numeric",
+      hour: "numeric",
+      minute: "2-digit",
+      second: "2-digit"
+    }).format(date);
+  }
+
+  function renderTop10() {
+    const tbody = document.getElementById("live-top10-body");
+    const status = document.getElementById("top10-status");
+
+    const top10 = [...tickerMap.values()]
+      .filter((item) =>
+        allowedSymbols.has(item.symbol) &&
+        !EXCLUDED_SYMBOLS.has(item.symbol) &&
+        Number.isFinite(Number(item.priceChangePercent)) &&
+        Number(item.priceChangePercent) > 0
+      )
+      .sort((a, b) => Number(b.priceChangePercent) - Number(a.priceChangePercent))
+      .slice(0, 10);
+
+    if (!top10.length) {
+      tbody.innerHTML = `
+        <tr>
+          <td colspan="6">
+            <div class="table-empty">No Binance Futures gainers are available right now.</div>
+          </td>
+        </tr>
+      `;
+      status.textContent = "Waiting for Binance Futures data…";
+      return;
+    }
+
+    tbody.innerHTML = top10.map((item, index) => {
+      const pairLabel = item.symbol.replace("USDT", "/USDT");
+      const pct = Number(item.priceChangePercent);
+      const changeClass = pct >= 0 ? "positive-text" : "negative-text";
+
+      return `
+        <tr>
+          <td>${index + 1}</td>
+          <td>
+            <div class="pair-cell">
+              <strong>${pairLabel}</strong>
+              <span>Perpetual</span>
+            </div>
+          </td>
+          <td>${formatPrice(item.lastPrice)}</td>
+          <td><span class="price-pill ${changeClass === "positive-text" ? "positive" : "negative"}">${pct >= 0 ? "+" : ""}${pct.toFixed(2)}%</span></td>
+          <td>${formatVolume(item.quoteVolume)}</td>
+          <td>
+            <a class="table-link" href="${BINANCE_REFERRAL_URL}" target="_blank" rel="noopener noreferrer">Open Binance</a>
+          </td>
+        </tr>
+      `;
+    }).join("");
+
+    status.textContent = `Live Binance Futures data · updated ${formatTime(new Date())}`;
+  }
+
+  async function fetchJson(url) {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error("Request failed: " + response.status);
+    }
+    return response.json();
+  }
+
+  async function loadAllowedSymbols() {
+    const data = await fetchJson(BINANCE_EXCHANGE_INFO_URL);
+
+    (data.symbols || []).forEach((symbol) => {
+      if (
+        symbol.contractType === "PERPETUAL" &&
+        symbol.quoteAsset === "USDT" &&
+        symbol.status === "TRADING"
+      ) {
+        allowedSymbols.add(symbol.symbol);
+      }
+    });
+  }
+
+  async function loadInitialTickers() {
+    const data = await fetchJson(BINANCE_24HR_URL);
+
+    (Array.isArray(data) ? data : []).forEach((item) => {
+      tickerMap.set(item.symbol, {
+        symbol: item.symbol,
+        lastPrice: item.lastPrice,
+        priceChangePercent: item.priceChangePercent,
+        quoteVolume: item.quoteVolume
+      });
+    });
+
+    renderTop10();
+  }
+
+  function scheduleReconnect() {
+    if (reconnectTimer) return;
+    reconnectTimer = window.setTimeout(() => {
+      reconnectTimer = null;
+      connectSocket();
+    }, 3000);
+  }
+
+  function connectSocket() {
+    const status = document.getElementById("top10-status");
+
+    if (socket) {
+      try { socket.close(); } catch (error) {}
+    }
+
+    status.textContent = "Connecting to live Binance Futures stream…";
+    socket = new WebSocket(BINANCE_WS_URL);
+
+    socket.onmessage = (event) => {
+      const updates = JSON.parse(event.data);
+
+      if (!Array.isArray(updates)) return;
+
+      updates.forEach((item) => {
+        tickerMap.set(item.s, {
+          symbol: item.s,
+          lastPrice: item.c,
+          priceChangePercent: item.P,
+          quoteVolume: item.q
+        });
+      });
+
+      renderTop10();
+    };
+
+    socket.onclose = () => {
+      scheduleReconnect();
+    };
+
+    socket.onerror = () => {
+      try { socket.close(); } catch (error) {}
+    };
+  }
+
+  async function initTop10() {
+    const tbody = document.getElementById("live-top10-body");
+    const status = document.getElementById("top10-status");
+
+    try {
+      status.textContent = "Loading Binance Futures symbols…";
+      await loadAllowedSymbols();
+
+      status.textContent = "Loading 24h futures movers…";
+      await loadInitialTickers();
+
+      connectSocket();
+    } catch (error) {
+      console.error("Failed to load Binance Futures top gainers:", error);
+      tbody.innerHTML = `
+        <tr>
+          <td colspan="6">
+            <div class="table-empty">Binance Futures data could not be loaded right now.</div>
+          </td>
+        </tr>
+      `;
+      status.textContent = "Live Binance Futures feed unavailable right now.";
+    }
+  }
+
+  initTop10();
+</script>

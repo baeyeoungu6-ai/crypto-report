@@ -1,0 +1,24 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ site.url }}/</loc>
+  </url>
+  <url>
+    <loc>{{ site.url }}/reports/</loc>
+  </url>
+  <url>
+    <loc>{{ site.url }}/about/</loc>
+  </url>
+  <url>
+    <loc>{{ site.url }}/disclaimer/</loc>
+  </url>
+  {% for report in reports %}
+  <url>
+    <loc>{{ site.url }}/reports/{{ report.slug }}/</loc>
+  </url>
+  {% endfor %}
+</urlset>
