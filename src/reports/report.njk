@@ -9,29 +9,32 @@ title: "{{ report.title }}"
 description: "{{ report.summary }}"
 ---
 
-<article class="report-page">
+<article class="report-page page-card">
   <header class="report-header">
-    <p class="meta">{{ report.date }} · {{ report.coinName }} ({{ report.symbol }})</p>
+    <div class="report-header-top">
+      <p class="meta">{{ report.date }} · {{ report.coinName }} ({{ report.symbol }})</p>
+      <span class="price-pill positive">+{{ report.priceChange24h }}%</span>
+    </div>
     <h1>{{ report.title }}</h1>
     <p class="lead">{{ report.reportIntro }}</p>
   </header>
 
   <section class="metric-grid">
     <div class="metric-card">
-      <span class="metric-label">24h Price Change</span>
+      <span class="metric-label">24h Price Gain</span>
       <strong>{{ report.priceChange24h }}%</strong>
     </div>
     <div class="metric-card">
-      <span class="metric-label">24h Volume Change</span>
-      <strong>{{ report.volumeChange24h }}%</strong>
+      <span class="metric-label">Market Activity</span>
+      <strong>{{ report.volumeLabel }}</strong>
     </div>
     <div class="metric-card">
       <span class="metric-label">Market Cap</span>
       <strong>{{ report.marketCap }}</strong>
     </div>
     <div class="metric-card">
-      <span class="metric-label">Binance Listed</span>
-      <strong>{% if report.listedOnBinance %}Yes{% else %}No{% endif %}</strong>
+      <span class="metric-label">Live Archive</span>
+      <strong>Latest 3 only</strong>
     </div>
   </section>
 
@@ -41,16 +44,17 @@ description: "{{ report.summary }}"
   </section>
 
   <section>
-    <h2>Possible Reasons Behind the Move</h2>
-    <ul>
+    <h2>Possible reasons behind the move</h2>
+    <ul class="clean-list">
       {% for reason in report.reasons %}
         <li>{{ reason }}</li>
       {% endfor %}
     </ul>
   </section>
 
+  {% if report.news and report.news.length %}
   <section>
-    <h2>Latest Related News</h2>
+    <h2>Latest related news</h2>
     <div class="news-list">
       {% for item in report.news %}
         <article class="news-item">
@@ -61,6 +65,7 @@ description: "{{ report.summary }}"
       {% endfor %}
     </div>
   </section>
+  {% endif %}
 
   <section>
     <h2>About {{ report.coinName }}</h2>
@@ -68,17 +73,19 @@ description: "{{ report.summary }}"
   </section>
 
   <section class="cta-box">
-    <h2>Track {{ report.symbol }} on Binance</h2>
-    <p>
-      {{ report.coinName }} is available on Binance for users who want to monitor price action and market depth more closely.
-    </p>
-    <a class="button" href="{{ report.binanceTradeUrl }}" target="_blank" rel="noopener noreferrer">
-      Open {{ report.symbol }} on Binance
-    </a>
+    <div>
+      <p class="eyebrow">Referral access</p>
+      <h2>Open Binance with your referral bonus</h2>
+      <p>Use the main Binance link to track price action, market depth, and spot opportunities from one place.</p>
+    </div>
+    <div class="cta-actions">
+      <a class="button" href="{{ report.binanceUrl }}" target="_blank" rel="noopener noreferrer">Join Binance</a>
+      <a class="button secondary" href="{{ site.binanceReferralUrl }}" target="_blank" rel="noopener noreferrer">Use code {{ site.binanceReferralCode }}</a>
+    </div>
   </section>
 
   <section>
-    <h2>More Reports</h2>
-    <p><a href="/reports/">Browse all reports</a></p>
+    <h2>More reports</h2>
+    <p><a class="text-link" href="/reports/">Browse the latest active reports</a></p>
   </section>
 </article>
