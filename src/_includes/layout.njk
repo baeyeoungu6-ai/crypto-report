@@ -5,28 +5,46 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if title %}{{ title }} | {% endif %}{{ site.title }}</title>
   <meta name="description" content="{% if description %}{{ description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="google-site-verification" content="h-yyPjBd2taU2XTVFACfgQ9tqRL193o2vjicyY8_UmI" />
+  <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
   <link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>
   <header class="site-header">
     <div class="container header-inner">
-      <a class="logo" href="/">{{ site.title }}</a>
-      <nav>
+      <a class="logo" href="/">
+        <img class="logo-mark" src="/assets/favicon-32x32.png" alt="Alpha Coin Report logo">
+        <span>{{ site.title }}</span>
+      </a>
+      <nav class="main-nav">
         <a href="/">Home</a>
         <a href="/reports/">Reports</a>
         <a href="/about/">About</a>
         <a href="/disclaimer/">Disclaimer</a>
+        <a class="nav-cta" href="{{ site.binanceReferralUrl }}" target="_blank" rel="noopener noreferrer">Open Binance</a>
       </nav>
     </div>
   </header>
 
-  <main class="container">
+  <main class="container page-shell">
     {{ content | safe }}
   </main>
 
   <footer class="site-footer">
-    <div class="container">
-      <p>{{ site.title }} provides market commentary for informational purposes only.</p>
+    <div class="container footer-inner">
+      <div>
+        <strong>{{ site.title }}</strong>
+        <p>Clean market snapshots, latest mover reports, and a direct Binance access point for active crypto users.</p>
+      </div>
+      <div class="footer-links">
+        <a href="/reports/">Reports</a>
+        <a href="/about/">About</a>
+        <a href="/disclaimer/">Disclaimer</a>
+        <a href="{{ site.binanceReferralUrl }}" target="_blank" rel="noopener noreferrer">Open Binance</a>
+      </div>
     </div>
   </footer>
 </body>
