@@ -1,10 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>{{ title or site.title }}</title>
+  <meta name="description" content="{{ description or site.description }}" />
+
+  <!-- favicon -->
+  <link rel="icon" href="/assets/favicon.ico" />
+
+  <!-- google verification -->
+  <meta name="google-site-verification" content="h-yyPjBd2taU2XTVFACfgQ9tqRL193o2vjicyY8_UmI" />
+
+  <!-- css -->
+  <link rel="stylesheet" href="/assets/style.css" />
+</head>
+
+<body>
+
 <header class="site-header">
   <div class="container header-inner">
 
     <a href="/" class="logo">
-      <img src="/assets/favicon.ico" class="logo-icon" alt="Alpha Coin Report logo" />
+      <img src="/assets/favicon.ico" class="logo-icon" alt="Alpha Coin Report" />
       <span>Alpha Coin Report</span>
     </a>
 
@@ -14,33 +33,6 @@
     </nav>
 
     <a
-      class="header-binance-btn"
-      href="https://www.binance.com/join?ref=XETYHXNR"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      Open Binance
-    </a>
-
-  </div>
-</header>
-
-<body>
-
-<header class="site-header">
-  <div class="container header-inner">
-
-    <a href="/" class="logo">
-      <img src="/assets/favicon.ico" class="logo-icon" />
-      <span>Alpha Coin Report</span>
-    </a>
-
-    <nav class="nav">
-      <a href="/">Home</a>
-      <a href="/reports/">Reports</a>
-    </nav>
-
-    <a 
       class="header-binance-btn"
       href="https://www.binance.com/join?ref=XETYHXNR"
       target="_blank"
@@ -68,7 +60,7 @@
     </div>
 
     <p class="footer-copy">
-      © {{ site.title }}. Informational purposes only. Not financial advice.
+      © Alpha Coin Report. Informational purposes only. Not financial advice.
     </p>
 
   </div>
