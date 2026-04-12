@@ -1,0 +1,11 @@
+<article class="card">
+  <p class="meta">{{ report.date }} · {{ report.symbol }}</p>
+  <h2><a href="/reports/{{ report.slug }}/">{{ report.title }}</a></h2>
+  <p>{{ report.summary }}</p>
+  <p class="stats">
+    <strong>Price:</strong> {{ report.priceChange24h }}%
+    ·
+    <strong>Volume:</strong> {{ report.volumeChange24h }}%
+  </p>
+  <a class="button secondary" href="/reports/{{ report.slug }}/">Read report</a>
+</article>

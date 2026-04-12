@@ -1,0 +1,12 @@
+{
+  "name": "crypto-report-site",
+  "version": "1.0.0",
+  "description": "Daily crypto mover report site",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve --input=src --output=_site",
+    "build": "npx @11ty/eleventy --input=src --output=_site"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

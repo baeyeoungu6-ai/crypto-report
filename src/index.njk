@@ -1,0 +1,33 @@
+---
+layout: layout.njk
+title: Home
+description: Daily reports on crypto movers with latest news and market context.
+permalink: /index.html
+---
+
+<section class="hero">
+  <p class="eyebrow">Daily Crypto Movers</p>
+  <h1>Why a coin pumped yesterday</h1>
+  <p class="hero-text">
+    Daily reports covering one major crypto mover, including market activity, possible reasons, and related news.
+  </p>
+  <div class="hero-actions">
+    <a class="button" href="/reports/{{ featuredReport.slug }}/">Read latest report</a>
+    <a class="button secondary" href="/reports/">View all reports</a>
+  </div>
+</section>
+
+<section>
+  <h2>Latest Report</h2>
+  {% set report = featuredReport %}
+  {% include "report-card.njk" %}
+</section>
+
+<section>
+  <h2>Recent Reports</h2>
+  <div class="grid">
+    {% for report in reports %}
+      {% include "report-card.njk" %}
+    {% endfor %}
+  </div>
+</section>

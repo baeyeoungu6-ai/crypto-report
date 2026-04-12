@@ -1,0 +1,17 @@
+---
+layout: layout.njk
+title: Reports
+description: Archive of daily crypto mover reports.
+permalink: /reports/index.html
+---
+
+<section class="page-header">
+  <h1>All Reports</h1>
+  <p>Browse recent daily reports on notable crypto movers.</p>
+</section>
+
+<div class="grid">
+  {% for report in reports %}
+    {% include "report-card.njk" %}
+  {% endfor %}
+</div>

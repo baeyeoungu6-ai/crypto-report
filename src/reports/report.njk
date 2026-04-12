@@ -1,0 +1,84 @@
+---
+pagination:
+  data: reports
+  size: 1
+  alias: report
+permalink: "/reports/{{ report.slug }}/index.html"
+layout: layout.njk
+title: "{{ report.title }}"
+description: "{{ report.summary }}"
+---
+
+<article class="report-page">
+  <header class="report-header">
+    <p class="meta">{{ report.date }} · {{ report.coinName }} ({{ report.symbol }})</p>
+    <h1>{{ report.title }}</h1>
+    <p class="lead">{{ report.reportIntro }}</p>
+  </header>
+
+  <section class="metric-grid">
+    <div class="metric-card">
+      <span class="metric-label">24h Price Change</span>
+      <strong>{{ report.priceChange24h }}%</strong>
+    </div>
+    <div class="metric-card">
+      <span class="metric-label">24h Volume Change</span>
+      <strong>{{ report.volumeChange24h }}%</strong>
+    </div>
+    <div class="metric-card">
+      <span class="metric-label">Market Cap</span>
+      <strong>{{ report.marketCap }}</strong>
+    </div>
+    <div class="metric-card">
+      <span class="metric-label">Binance Listed</span>
+      <strong>{% if report.listedOnBinance %}Yes{% else %}No{% endif %}</strong>
+    </div>
+  </section>
+
+  <section>
+    <h2>Summary</h2>
+    <p>{{ report.summary }}</p>
+  </section>
+
+  <section>
+    <h2>Possible Reasons Behind the Move</h2>
+    <ul>
+      {% for reason in report.reasons %}
+        <li>{{ reason }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section>
+    <h2>Latest Related News</h2>
+    <div class="news-list">
+      {% for item in report.news %}
+        <article class="news-item">
+          <h3><a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a></h3>
+          <p class="meta">{{ item.source }}</p>
+          <p>{{ item.note }}</p>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section>
+    <h2>About {{ report.coinName }}</h2>
+    <p>{{ report.about }}</p>
+  </section>
+
+  <section class="cta-box">
+    <h2>Track {{ report.symbol }} on Binance</h2>
+    <p>
+      {{ report.coinName }} is available on Binance for users who want to monitor price action and market depth more closely.
+    </p>
+    <a class="button" href="{{ report.binanceTradeUrl }}" target="_blank" rel="noopener noreferrer">
+      Open {{ report.symbol }} on Binance
+    </a>
+  </section>
+
+  <section>
+    <h2>More Reports</h2>
+    <p><a href="/reports/">Browse all reports</a></p>
+  </section>
+</article>
