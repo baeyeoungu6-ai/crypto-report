@@ -1,70 +1,48 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <title>{{ title or site.title }}</title>
-  <meta name="description" content="{{ description or site.description }}" />
-
-  <!-- favicon -->
-  <link rel="icon" href="/assets/favicon.ico" />
-
-  <!-- google verification -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if description %}{{ description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="google-site-verification" content="h-yyPjBd2taU2XTVFACfgQ9tqRL193o2vjicyY8_UmI" />
-
-  <!-- css -->
-  <link rel="stylesheet" href="/assets/style.css" />
+  <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+  <link rel="stylesheet" href="/assets/style.css">
 </head>
-
 <body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="logo" href="/">
+        <img class="logo-mark" src="/assets/alpha-logo.png" alt="Alpha Coin Report logo">
+        <span>{{ site.title }}</span>
+      </a>
 
-<header class="site-header">
-  <div class="container header-inner">
+      <nav class="main-nav">
+        <a href="/">Home</a>
+        <a href="/reports/">Reports</a>
+      </nav>
 
-    <a href="/" class="logo">
-      <img src="/assets/favicon.ico" class="logo-icon" alt="Alpha Coin Report" />
-      <span>Alpha Coin Report</span>
-    </a>
-
-    <nav class="nav">
-      <a href="/">Home</a>
-      <a href="/reports/">Reports</a>
-    </nav>
-
-    <a
-      class="header-binance-btn"
-      href="https://www.binance.com/join?ref=XETYHXNR"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      Open Binance
-    </a>
-
-  </div>
-</header>
-
-<main class="site-main">
-  <div class="container">
-    {{ content | safe }}
-  </div>
-</main>
-
-<footer class="site-footer">
-  <div class="container">
-
-    <div class="footer-links">
-      <a href="/privacy/">Privacy Policy</a>
-      <a href="/disclaimer/">Disclaimer</a>
-      <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+      <a class="nav-cta" href="{{ site.binanceReferralUrl }}" target="_blank" rel="noopener noreferrer">Open Binance</a>
     </div>
+  </header>
 
-    <p class="footer-copy">
-      © Alpha Coin Report. Informational purposes only. Not financial advice.
-    </p>
+  <main class="container page-shell">
+    {{ content | safe }}
+  </main>
 
-  </div>
-</footer>
-
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <strong>{{ site.title }}</strong>
+        <p>Clean market snapshots, latest mover reports, and a direct Binance access point for active crypto users.</p>
+      </div>
+      <div class="footer-links">
+        <a href="/reports/">Reports</a>
+        <a href="/about/">About</a>
+        <a href="/disclaimer/">Disclaimer</a>
+        <a href="{{ site.binanceReferralUrl }}" target="_blank" rel="noopener noreferrer">Open Binance</a>
+      </div>
+    </div>
+  </footer>
 </body>
 </html>
