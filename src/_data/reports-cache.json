@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-12",
+    "slug": "2026-04-12-ravedao",
+    "coinId": "ravedao",
+    "coinName": "RaveDAO",
+    "symbol": "RAVE",
+    "title": "Why RAVE Went Up Yesterday",
+    "priceChange24h": 195.6,
+    "volumeLabel": "High",
+    "marketCap": "$1.6B",
+    "summary": "RaveDAO was one of the strongest crypto movers yesterday, gaining 195.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 195.6% move.",
+      "Roughly $466M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Oil Prices Boom After Hormuz Strait Blockade Announcement",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/oil-prices-boom-after-hormuz-strait-blockade-announcement/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "'First Crypto Bank'—Kraken's Fed Approval Sparks $100K Bitcoin Warning",
+        "source": "Forbes Digital Assets",
+        "url": "https://www.forbes.com/sites/digital-assets/2026/04/12/first-crypto-bank-krakens-fed-approval-sparks-100k-bitcoin-warning/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Bitcoin (BTC) Paints a Doubletop Formation, XRP's Volume Hints at Weakness of Bears, Ethereum's Most Bullish Picture Recently: Crypto Market Review",
+        "source": "U.Today",
+        "url": "https://u.today/bitcoin-btc-paints-double-top-formation-xrps-volume-hints-at-weakness-of-bears-ethereums-most",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "RaveDAO is a global community uniting music, technology, and purpose. Since their first sold-out event at Dubai 2024, they have expanded across Europe, the Middle East, North America, and Asia, hosting world-class experiences with over 100,000 total attendees and 3,000+ attendees for each event. RaveDAO has worked with",
+    "reportIntro": "RaveDAO stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-10",
     "slug": "2026-04-10-ordi",
     "coinId": "ordi",
@@ -39,27 +79,6 @@
     "news": [],
     "about": "Arkham is a blockchain intelligence platform focused on on-chain analysis and wallet tracking.",
     "reportIntro": "ARKM moved sharply higher yesterday on strong market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-04-08",
-    "slug": "2026-04-08-fetch-ai",
-    "coinId": "fetch-ai",
-    "coinName": "Fetch.ai",
-    "symbol": "FET",
-    "title": "Why FET Went Up Yesterday",
-    "priceChange24h": 16.7,
-    "volumeLabel": "Strong",
-    "marketCap": "$1.4B",
-    "summary": "FET was one of yesterday's notable movers as interest returned to AI-related tokens.",
-    "reasons": [
-      "AI-linked tokens regained attention across the market.",
-      "FET's percentage gain placed it among the session's best performers.",
-      "Higher activity levels suggested renewed speculative interest."
-    ],
-    "news": [],
-    "about": "Fetch.ai is a blockchain project focused on autonomous agents and AI-related infrastructure.",
-    "reportIntro": "FET posted a strong move yesterday as traders rotated back into AI-linked tokens.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
