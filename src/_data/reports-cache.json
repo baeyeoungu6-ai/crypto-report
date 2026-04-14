@@ -1,6 +1,47 @@
 [
   {
     "date": "2026-04-13",
+    "slug": "2026-04-13-alpaca",
+    "coinId": "alpaca",
+    "coinName": "ALPACA",
+    "symbol": "ALPACA",
+    "title": "Why ALPACA Went Up Yesterday",
+    "priceChange24h": 391.2,
+    "volumeChange24h": "Elevated",
+    "marketCap": "-",
+    "listedOnBinance": true,
+    "summary": "ALPACA was one of the strongest Binance Futures movers yesterday, gaining 391.2% over 24 hours.",
+    "reasons": [
+      "ALPACA posted a 391.2% 24-hour gain, making it one of the strongest Binance Futures movers.",
+      "Trading activity remained elevated, with roughly $2.91B in quote volume.",
+      "The move may have been driven by short-term momentum traders and increased speculative interest."
+    ],
+    "news": [
+      {
+        "title": "GoTyme Bank Launches Crypto Trading in the Philippines in Partnership with Alpaca - Business Wire",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTB1a2FVWk1ZQ29LN3hFdWhHS0drNUU1VFdFN3Q1cmxHM2R1aWJlUjZ6aktHd2JNWFdDOHg2SEZaeWZqVXFFNXFGdUQzM19pcVlYX1FXZHR3bzVqN3RXVnBYMXRCSVFSeTVEYXYzZkFueE54SzNDM2R2bFpzaDhqTV9aVzFmOEkzYTk2ZVhEZjA0dmh0ZFJVTWI3UmRGdTg3RWdaaE0zbW96NjE1cVNuWW4tQmhvU3paMVlkMzFHdjZsTHhGaHdEWUFhLTJ5dEdNNDJteA?oc=5",
+        "note": "Recent coverage related to ALPACA."
+      },
+      {
+        "title": "Brokerage tech firm Alpaca raises $150 million in push to compete with trading giant Interactive Brokers - Fortune",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0NoMENsLW9Zbm05TzZPdWhGVDNGWFdLcFV0Y2htRU5IQWlla3ljVUxfTk00WDc2MmkyYXlvR3RCUnM5b0ZlV2x5RE8wMElYaVNQUV9nazV3TmtCZ3hWcENaeThkd3g2VkJVQ0otZ3FpQzdLbkUzSGZEbHQ1X0Jqamw4eEp4UURJWWc?oc=5",
+        "note": "Recent coverage related to ALPACA."
+      },
+      {
+        "title": "Alpaca integrates Kraken Embed to expand crypto access for its partner network - Kraken Blog",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12RHlISUhrWk8zejNIWE5vX01ZWG1wT0d5aGpfdWkzM1d4ZFVJVGxZRzdBaWszUjNqUUdwQ1VZMW92MlFxT3dIVEliX05LdU9aRWppVmk5VDRJakhlcXBKV1hfakt6V01uMllpcUZSQkJ0SmQ0emZQOA?oc=5",
+        "note": "Recent coverage related to ALPACA."
+      }
+    ],
+    "about": "ALPACA is actively traded on Binance Futures and drew elevated trader attention during the latest 24-hour session.",
+    "reportIntro": "ALPACA stood out as one of yesterday’s strongest gainers on Binance Futures.",
+    "binanceTradeUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
+    "date": "2026-04-13",
     "slug": "2026-04-13-circle-internet-group-ondo-tokenized-stock",
     "coinId": "circle-internet-group-ondo-tokenized-stock",
     "coinName": "Circle Internet Group (Ondo Tokenized Stock)",
@@ -77,46 +118,6 @@
     ],
     "about": "Genius Terminal is the first private and final onchain terminal. It’s what comes after aggregators, intents bridges, and wallet extensions — a purpose-built trading OS for professional users who want DeFi without DeFi UX.",
     "reportIntro": "Genius stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-04-12",
-    "slug": "2026-04-12-ravedao",
-    "coinId": "ravedao",
-    "coinName": "RaveDAO",
-    "symbol": "RAVE",
-    "title": "Why RAVE Went Up Yesterday",
-    "priceChange24h": 195.6,
-    "volumeLabel": "High",
-    "marketCap": "$1.6B",
-    "summary": "RaveDAO was one of the strongest crypto movers yesterday, gaining 195.6% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 195.6% move.",
-      "Roughly $466M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Oil Prices Boom After Hormuz Strait Blockade Announcement",
-        "source": "Bitcoin.com",
-        "url": "https://news.bitcoin.com/oil-prices-boom-after-hormuz-strait-blockade-announcement/",
-        "note": "This article is related to the token's recent market attention."
-      },
-      {
-        "title": "'First Crypto Bank'—Kraken's Fed Approval Sparks $100K Bitcoin Warning",
-        "source": "Forbes Digital Assets",
-        "url": "https://www.forbes.com/sites/digital-assets/2026/04/12/first-crypto-bank-krakens-fed-approval-sparks-100k-bitcoin-warning/",
-        "note": "This article is related to the token's recent market attention."
-      },
-      {
-        "title": "Bitcoin (BTC) Paints a Doubletop Formation, XRP's Volume Hints at Weakness of Bears, Ethereum's Most Bullish Picture Recently: Crypto Market Review",
-        "source": "U.Today",
-        "url": "https://u.today/bitcoin-btc-paints-double-top-formation-xrps-volume-hints-at-weakness-of-bears-ethereums-most",
-        "note": "This article is related to the token's recent market attention."
-      }
-    ],
-    "about": "RaveDAO is a global community uniting music, technology, and purpose. Since their first sold-out event at Dubai 2024, they have expanded across Europe, the Middle East, North America, and Asia, hosting world-class experiences with over 100,000 total attendees and 3,000+ attendees for each event. RaveDAO has worked with",
-    "reportIntro": "RaveDAO stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
