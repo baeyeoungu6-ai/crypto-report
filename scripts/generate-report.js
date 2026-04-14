@@ -1,6 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
+const fetch = (...args) => 
+  import('node-fetch').then(({default: fetch}) => fetch(...args));
 const CACHE_FILE = path.join(__dirname, "..", "src", "_data", "reports-cache.json");
 const SITE_FILE = path.join(__dirname, "..", "src", "_data", "site.js");
 
