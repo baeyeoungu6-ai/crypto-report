@@ -1,211 +1,182 @@
 const fs = require("fs");
 const path = require("path");
 
-const CACHE_FILE = path.join(__dirname, "..", "src", "_data", "reports-cache.json");
-const SITE_FILE = path.join(__dirname, "..", "src", "_data", "site.js");
+// Node fetch 안전하게 사용
+const fetch = (...args) =>
+  import("node-fetch").then(({ default: fetch }) => fetch(...args));
 
-function loadSite() {
-  delete require.cache[require.resolve(SITE_FILE)];
-  return require(SITE_FILE);
-}
+const REPORTS_FILE = path.join(__dirname, "../src/_data/reports-cache.json");
+const BINANCE_REF = "https://www.binance.com/join?ref=XETYHXNR";
 
-async function fetchJson(url) {
-  const response = await fetch(url, {
-    headers: {
-      accept: "application/json"
-    }
-  });
-
-  if (!response.ok) {
-    throw new Error(`HTTP ${response.status} for ${url}`);
-  }
-
-  return response.json();
-}
-
-function loadCache() {
+function loadReports() {
   try {
-    return JSON.parse(fs.readFileSync(CACHE_FILE, "utf8"));
+    return JSON.parse(fs.readFileSync(REPORTS_FILE, "utf8"));
   } catch {
     return [];
   }
 }
 
-function saveCache(data) {
-  fs.writeFileSync(CACHE_FILE, JSON.stringify(data, null, 2) + "\n");
+function saveReports(data) {
+  fs.writeFileSync(REPORTS_FILE, JSON.stringify(data, null, 2));
 }
 
-function getYesterdayDate() {
+function getReportDate() {
   const d = new Date();
   d.setUTCDate(d.getUTCDate() - 1);
   return d.toISOString().slice(0, 10);
 }
 
-function cleanText(value = "") {
-  return value.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+function formatVolume(volume) {
+  if (!Number.isFinite(volume)) return "-";
+  if (volume >= 1_000_000_000) return `$${(volume / 1_000_000_000).toFixed(2)}B`;
+  if (volume >= 1_000_000) return `$${(volume / 1_000_000).toFixed(2)}M`;
+  if (volume >= 1_000) return `$${(volume / 1_000).toFixed(2)}K`;
+  return `$${volume.toFixed(0)}`;
 }
 
-function shortCap(n) {
-  if (!n || Number.isNaN(n)) {
-    return "$0";
+async function getBinanceTopMovers() {
+  const res = await fetch("https://fapi.binance.com/fapi/v1/ticker/24hr");
+  if (!res.ok) {
+    throw new Error(`Binance API error: ${res.status}`);
   }
 
-  if (n >= 1_000_000_000) {
-    return `$${(n / 1_000_000_000).toFixed(1)}B`;
-  }
+  const data = await res.json();
 
-  return `$${Math.round(n / 1_000_000)}M`;
+  return data
+    .filter((item) => typeof item.symbol === "string")
+    .filter((item) => item.symbol.endsWith("USDT"))
+    .filter((item) => !item.symbol.startsWith("BTC"))
+    .filter((item) => !item.symbol.startsWith("ETH"))
+    .map((item) => ({
+      rawSymbol: item.symbol,
+      symbol: item.symbol.replace("USDT", ""),
+      change: parseFloat(item.priceChangePercent || "0"),
+      volume: parseFloat(item.quoteVolume || "0"),
+      lastPrice: parseFloat(item.lastPrice || "0")
+    }))
+    .filter((item) => Number.isFinite(item.change))
+    .filter((item) => Number.isFinite(item.volume))
+    .filter((item) => item.volume > 1_000_000)
+    .sort((a, b) => b.change - a.change);
 }
 
-function activityLabel(volume) {
-  if (volume >= 500_000_000) return "Very High";
-  if (volume >= 100_000_000) return "High";
-  if (volume >= 25_000_000) return "Strong";
-  return "Elevated";
-}
-
-function buildSummary(coin) {
-  return `${coin.name} was one of the strongest crypto movers yesterday, gaining ${coin.price_change_percentage_24h.toFixed(1)}% over 24 hours while attracting active market participation.`;
-}
-
-function buildReasons(coin) {
-  const volumeText = shortCap(coin.total_volume);
-
-  return [
-    `The token ranked among the strongest 24-hour gainers with a ${coin.price_change_percentage_24h.toFixed(1)}% move.`,
-    `Roughly ${volumeText} in 24-hour trading volume suggests active short-term participation.`,
-    `The move may reflect renewed momentum interest as traders rotated into recent outperformers.`
-  ];
-}
-
-async function fetchGoogleNews(coinName, coinSymbol) {
+async function fetchGoogleNews(symbol) {
   try {
-    const query = encodeURIComponent(`${coinName} ${coinSymbol} crypto`);
-    const rssUrl = `https://news.google.com/rss/search?q=${query}&hl=en-US&gl=US&ceid=US:en`;
-    const response = await fetch(rssUrl);
+    const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(
+      symbol + " crypto"
+    )}&hl=en-US&gl=US&ceid=US:en`;
 
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status} for ${rssUrl}`);
-    }
+    const res = await fetch(rssUrl);
+    if (!res.ok) return [];
 
-    const xml = await response.text();
-    const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].slice(0, 3);
+    const xml = await res.text();
 
-    return items.map((match) => {
-      const item = match[1];
-      const cdataTitle = item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/);
-      const plainTitle = item.match(/<title>(.*?)<\/title>/);
-      const title = (cdataTitle?.[1] || plainTitle?.[1] || `${coinName} latest news`)
-        .replace(/\s+/g, " ")
-        .trim();
-      const url =
-        item.match(/<link>(.*?)<\/link>/)?.[1]?.trim() ||
-        `https://news.google.com/search?q=${encodeURIComponent(`${coinName} crypto`)}`;
+    const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)]
+      .slice(0, 3)
+      .map((match) => {
+        const item = match[1];
 
-      return {
-        title,
-        source: "Google News",
-        url,
-        note: "Latest related coverage surfaced from Google News search."
-      };
-    });
+        const titleMatch = item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>|<title>(.*?)<\/title>/);
+        const linkMatch = item.match(/<link>(.*?)<\/link>/);
+
+        const title = (titleMatch?.[1] || titleMatch?.[2] || "").trim();
+        const url = (linkMatch?.[1] || "").trim();
+
+        if (!title || !url) return null;
+
+        return {
+          title,
+          source: "Google News",
+          url,
+          note: `Recent coverage related to ${symbol}.`
+        };
+      })
+      .filter(Boolean);
+
+    return items;
   } catch {
     return [];
   }
 }
 
-async function fetchNews(coinId, coinName, coinSymbol) {
-  try {
-    const url = `https://api.coingecko.com/api/v3/news?coin_id=${coinId}&page=1&per_page=3`;
-    const payload = await fetchJson(url);
-
-    const items = (payload.data || []).slice(0, 3).map((item) => ({
-      title: item.title,
-      source: item.news_site || "CoinGecko News",
-      url: item.url,
-      note: "This article is related to the token's recent market attention."
-    }));
-
-    if (items.length) {
-      return items;
-    }
-  } catch {}
-
-  return fetchGoogleNews(coinName, coinSymbol);
+function buildSummary(symbol, change) {
+  return `${symbol} was one of the strongest Binance Futures movers yesterday, gaining ${change.toFixed(
+    1
+  )}% over 24 hours.`;
 }
 
-async function fetchDetails(coinId) {
-  const url = `https://api.coingecko.com/api/v3/coins/${coinId}?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false&sparkline=false`;
-  return fetchJson(url);
+function buildIntro(symbol) {
+  return `${symbol} stood out as one of yesterday’s strongest gainers on Binance Futures.`;
+}
+
+function buildAbout(symbol) {
+  return `${symbol} is actively traded on Binance Futures and drew elevated trader attention during the latest 24-hour session.`;
+}
+
+function buildReasons(symbol, volume, change) {
+  return [
+    `${symbol} posted a ${change.toFixed(1)}% 24-hour gain, making it one of the strongest Binance Futures movers.`,
+    `Trading activity remained elevated, with roughly ${formatVolume(volume)} in quote volume.`,
+    `The move may have been driven by short-term momentum traders and increased speculative interest.`
+  ];
 }
 
 async function main() {
-  const site = loadSite();
-  const existing = loadCache();
-  const usedCoinIds = existing.map((item) => item.coinId);
+  const existing = loadReports();
 
-  const marketUrl =
-    "https://api.coingecko.com/api/v3/coins/markets" +
-    "?vs_currency=usd" +
-    "&order=market_cap_desc" +
-    "&per_page=250" +
-    "&page=1" +
-    "&sparkline=false" +
-    "&price_change_percentage=24h";
+  // 최근 3개 리포트의 코인 중복 방지
+  const recentCoinIds = existing.slice(0, 3).map((r) => String(r.coinId || "").toLowerCase());
 
-  const markets = await fetchJson(marketUrl);
+  const movers = await getBinanceTopMovers();
 
-  const candidates = markets
-    .filter((coin) =>
-      typeof coin.price_change_percentage_24h === "number" &&
-      coin.price_change_percentage_24h > 0 &&
-      (coin.market_cap || 0) >= 20_000_000 &&
-      (coin.total_volume || 0) >= 5_000_000 &&
-      !usedCoinIds.includes(coin.id)
-    )
-    .sort((a, b) => b.price_change_percentage_24h - a.price_change_percentage_24h);
-
-  const selected = candidates[0];
+  // 최근 3개와 중복되지 않는 가장 높은 순위 코인 선택
+  const selected = movers.find(
+    (coin) => !recentCoinIds.includes(coin.symbol.toLowerCase())
+  );
 
   if (!selected) {
-    console.log("No eligible coin found. Cache unchanged.");
+    console.log("No eligible non-duplicate mover found.");
     return;
   }
 
-  const details = await fetchDetails(selected.id);
-  const news = await fetchNews(selected.id, selected.name, selected.symbol.toUpperCase());
+  const symbol = selected.symbol;
+  const date = getReportDate();
+  const news = await fetchGoogleNews(symbol);
 
-  const date = getYesterdayDate();
-  const report = {
+  const newReport = {
     date,
-    slug: `${date}-${selected.id}`,
-    coinId: selected.id,
-    coinName: selected.name,
-    symbol: selected.symbol.toUpperCase(),
-    title: `Why ${selected.symbol.toUpperCase()} Went Up Yesterday`,
-    priceChange24h: Number(selected.price_change_percentage_24h.toFixed(1)),
-    volumeLabel: activityLabel(selected.total_volume || 0),
-    marketCap: shortCap(selected.market_cap || 0),
-    summary: buildSummary(selected),
-    reasons: buildReasons(selected),
+    slug: `${date}-${symbol.toLowerCase()}`,
+    coinId: symbol.toLowerCase(),
+    coinName: symbol,
+    symbol,
+    title: `Why ${symbol} Went Up Yesterday`,
+    priceChange24h: Number(selected.change.toFixed(1)),
+    volumeChange24h: "Elevated",
+    marketCap: "-",
+    listedOnBinance: true,
+    summary: buildSummary(symbol, selected.change),
+    reasons: buildReasons(symbol, selected.volume, selected.change),
     news,
-    about:
-      cleanText(details?.description?.en || "").slice(0, 320) ||
-      `${selected.name} is a crypto asset tracked across major exchanges.`,
-    reportIntro: `${selected.name} stood out as one of yesterday's strongest movers, supported by recent market momentum.`,
-    binanceUrl: site.binanceReferralUrl
+    about: buildAbout(symbol),
+    reportIntro: buildIntro(symbol),
+    binanceTradeUrl: BINANCE_REF
   };
 
-  const nextReports = [report, ...existing]
-    .filter((item, index, arr) => arr.findIndex((x) => x.coinId === item.coinId) === index)
+  const updated = [newReport, ...existing]
+    .filter(
+      (report, index, arr) =>
+        arr.findIndex(
+          (x) => String(x.coinId || "").toLowerCase() === String(report.coinId || "").toLowerCase()
+        ) === index
+    )
     .slice(0, 3);
 
-  saveCache(nextReports);
+  saveReports(updated);
 
-  console.log(`Added report for ${selected.name} (${selected.symbol.toUpperCase()}).`);
+  console.log(`Updated reports-cache.json with: ${symbol}`);
 }
 
-main().catch((error) => {
-  console.error(error);
+main().catch((err) => {
+  console.error(err);
   process.exit(1);
 });
