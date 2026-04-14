@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-13",
+    "slug": "2026-04-13-genius-3",
+    "coinId": "genius-3",
+    "coinName": "Genius",
+    "symbol": "GENIUS",
+    "title": "Why GENIUS Went Up Yesterday",
+    "priceChange24h": 62.8,
+    "volumeLabel": "Strong",
+    "marketCap": "$180M",
+    "summary": "Genius was one of the strongest crypto movers yesterday, gaining 62.8% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 62.8% move.",
+      "Roughly $96M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Will Shiba Inu (SHIB) Return to the Bottom Again? Bitcoin's $70,000 Position Gets Complicated, Dogecoin (DOGE) Never Been This Calm: Crypto Market Review",
+        "source": "U.Today",
+        "url": "https://u.today/will-shiba-inu-shib-return-to-bottom-again-bitcoins-70000-position-gets-complicated-dogecoin-doge",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Can Bitcoin price break out of the ascending channel toward $74K?",
+        "source": "Crypto.news",
+        "url": "https://crypto.news/bitcoin-price-tests-72-6k-ascending-channel-top/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Bitcoin Price Climbs Toward $75,000 as US-Iran Strait of Hormuz Tensions Trigger Short Squeeze",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/bitcoin-price-climbs-toward-75000-as-us-iran-strait-of-hormuz-tensions-trigger-short-squeeze/",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "Genius Terminal is the first private and final onchain terminal. It’s what comes after aggregators, intents bridges, and wallet extensions — a purpose-built trading OS for professional users who want DeFi without DeFi UX.",
+    "reportIntro": "Genius stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-12",
     "slug": "2026-04-12-ravedao",
     "coinId": "ravedao",
@@ -58,27 +98,6 @@
     "news": [],
     "about": "ORDI is associated with the Bitcoin Ordinals ecosystem and is often watched during narrative-driven rotations.",
     "reportIntro": "ORDI stood out as one of yesterday's strongest movers, supported by price momentum and active trading.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-04-09",
-    "slug": "2026-04-09-arkham",
-    "coinId": "arkham",
-    "coinName": "Arkham",
-    "symbol": "ARKM",
-    "title": "Why ARKM Went Up Yesterday",
-    "priceChange24h": 28.4,
-    "volumeLabel": "High",
-    "marketCap": "$420M",
-    "summary": "ARKM moved sharply higher yesterday as market attention returned to the token.",
-    "reasons": [
-      "ARKM delivered one of the session's strongest percentage moves.",
-      "High trading activity suggested strong short-term participation.",
-      "Momentum traders may have amplified the breakout."
-    ],
-    "news": [],
-    "about": "Arkham is a blockchain intelligence platform focused on on-chain analysis and wallet tracking.",
-    "reportIntro": "ARKM moved sharply higher yesterday on strong market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
