@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-14",
+    "slug": "2026-04-14-bianrensheng",
+    "coinId": "bianrensheng",
+    "coinName": "币安人生 (BinanceLife)",
+    "symbol": "币安人生",
+    "title": "Why 币安人生 Went Up Yesterday",
+    "priceChange24h": 48.5,
+    "volumeLabel": "High",
+    "marketCap": "$343M",
+    "summary": "币安人生 (BinanceLife) was one of the strongest crypto movers yesterday, gaining 48.5% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 48.5% move.",
+      "Roughly $345M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "‘Closer Than Ever’: Ripple CEO Says CLARITY Act Window Is Open and Now Is the Moment to Act",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/closer-than-ever-ripple-ceo-says-clarity-act-window-is-open-and-now-is-the-moment-to-act/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Bitcoin Price Has Not Reached Its Real Bottom, And A ‘Big Storm’ Is Coming",
+        "source": "NewsBTC",
+        "url": "https://www.newsbtc.com/news/bitcoin/no-bitcoin-real-bottom-yet/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Why Bank And Crypto Studies Disagree Sharply On Stablecoin Yield Risks",
+        "source": "Forbes Digital Assets",
+        "url": "https://www.forbes.com/sites/jasonbrett/2026/04/14/why-bank-and-crypto-studies-disagree-sharply-on-stablecoin-yield-risks/",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "币安人生 (BinanceLife) is a crypto asset tracked across major exchanges.",
+    "reportIntro": "币安人生 (BinanceLife) stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-13",
     "slug": "2026-04-13-ravedao",
     "coinId": "ravedao",
@@ -79,45 +119,5 @@
     "about": "ALPACA is actively traded on Binance Futures and drew elevated trader attention during the latest 24-hour session.",
     "reportIntro": "ALPACA stood out as one of yesterday’s strongest gainers on Binance Futures.",
     "binanceTradeUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-04-13",
-    "slug": "2026-04-13-circle-internet-group-ondo-tokenized-stock",
-    "coinId": "circle-internet-group-ondo-tokenized-stock",
-    "coinName": "Circle Internet Group (Ondo Tokenized Stock)",
-    "symbol": "CRCLON",
-    "title": "Why CRCLON Went Up Yesterday",
-    "priceChange24h": 15.9,
-    "volumeLabel": "Elevated",
-    "marketCap": "$156M",
-    "summary": "Circle Internet Group (Ondo Tokenized Stock) was one of the strongest crypto movers yesterday, gaining 15.9% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 15.9% move.",
-      "Roughly $8M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Will Ethereum price recover to $2,440 as it bounces off a multiyear support trendline?",
-        "source": "Crypto.news",
-        "url": "https://crypto.news/ethereum-price-bounces-off-multi-year-support-trend/",
-        "note": "This article is related to the token's recent market attention."
-      },
-      {
-        "title": "Will Hyperliquid price break $46 or reverse at ascending channel resistance?",
-        "source": "Crypto.news",
-        "url": "https://crypto.news/hyperliquid-price-nears-46-channel-resistance/",
-        "note": "This article is related to the token's recent market attention."
-      },
-      {
-        "title": "Strategist Sees Bitcoin Bear Signals, Warns Crypto Bust Could Push BTC to $10K",
-        "source": "Bitcoin.com",
-        "url": "https://news.bitcoin.com/strategist-sees-bitcoin-bear-signals-warns-crypto-bust-could-push-btc-to-10k/",
-        "note": "This article is related to the token's recent market attention."
-      }
-    ],
-    "about": "CRCLon is the Ondo Tokenized version of Circle Internet Group, giving tokenholders economic exposure similar to holding CRCL and reinvesting any dividends. Ondo tokenized stocks enable non-US retail and institutional users around the world to instantly mint and redeem tokenized U.S. stocks and ETFs, 24 hours a day, fiv",
-    "reportIntro": "Circle Internet Group (Ondo Tokenized Stock) stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
