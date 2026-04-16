@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-15",
+    "slug": "2026-04-15-edgex",
+    "coinId": "edgex",
+    "coinName": "edgeX",
+    "symbol": "EDGE",
+    "title": "Why EDGE Went Up Yesterday",
+    "priceChange24h": 18.6,
+    "volumeLabel": "Elevated",
+    "marketCap": "$421M",
+    "summary": "edgeX was one of the strongest crypto movers yesterday, gaining 18.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 18.6% move.",
+      "Roughly $19M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Bitcoin Rejected At $76,000: Bears Tighten Grip As Breakdown Risks Grow",
+        "source": "NewsBTC",
+        "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-rejected-at-76000/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "3 Paths Ahead: Kraken Maps Warsh-Led Fed Scenarios That Could Shift Crypto out of Range",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/3-paths-ahead-kraken-maps-warsh-led-fed-scenarios-that-could-shift-crypto-out-of-range/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Bitcoin, Ethereum Flat, While XRP, Dogecoin Gain Amid Iran Peace Deal Optimism: Bear Market Won't Go To $30,000 For BTC, Says Analyst",
+        "source": "Benzinga",
+        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/04/51848228/bitcoin-ethereum-flat-xrp-dogecoin-iran-peace-btc-no-30k?utm_source=coingecko&utm_campaign=partner_feed&utm_medium=referral",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "edgeX is a 24/7 decentralized trading layer for global assets, offering perpetuals across commodities, equities, and crypto, alongside spot markets. Powered by its own EDGE Chain, edgeX is designed to deliver capital-efficient, self-custodied and 24/7 trading for users globally. Backed by Circle and integrated with nat",
+    "reportIntro": "edgeX stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-14",
     "slug": "2026-04-14-enjincoin",
     "coinId": "enjincoin",
@@ -77,46 +117,6 @@
     ],
     "about": "币安人生 (BinanceLife) is a crypto asset tracked across major exchanges.",
     "reportIntro": "币安人生 (BinanceLife) stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-04-13",
-    "slug": "2026-04-13-ravedao",
-    "coinId": "ravedao",
-    "coinName": "RaveDAO",
-    "symbol": "RAVE",
-    "title": "Why RAVE Went Up Yesterday",
-    "priceChange24h": 77.7,
-    "volumeLabel": "Very High",
-    "marketCap": "$2.8B",
-    "summary": "RaveDAO was one of the strongest crypto movers yesterday, gaining 77.7% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 77.7% move.",
-      "Roughly $651M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Dutch State Lottery Takes Biggest Illegal Gambling Site to Court as Regulator Says €24M Fine Was Too Low",
-        "source": "Bitcoin.com",
-        "url": "https://news.bitcoin.com/dutch-state-lottery-takes-biggest-illegal-gambling-site-to-court-as-regulator-says-e24m-fine-was-too-low/",
-        "note": "This article is related to the token's recent market attention."
-      },
-      {
-        "title": "Ether outpaces bitcoin as ETF flows split and Ethereum activity jumps 41% on-week",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/04/14/ether-outpaces-bitcoin-as-etf-flows-split-and-ethereum-activity-jumps-41-on-week",
-        "note": "This article is related to the token's recent market attention."
-      },
-      {
-        "title": "As AI Infrastructure Scales, Who Captures The Value?",
-        "source": "Forbes Digital Assets",
-        "url": "https://www.forbes.com/sites/digital-assets/2026/04/13/as-ai-infrastructure-scales-who-captures-the-value/",
-        "note": "This article is related to the token's recent market attention."
-      }
-    ],
-    "about": "RaveDAO is a global community uniting music, technology, and purpose. Since their first sold-out event at Dubai 2024, they have expanded across Europe, the Middle East, North America, and Asia, hosting world-class experiences with over 100,000 total attendees and 3,000+ attendees for each event. RaveDAO has worked with",
-    "reportIntro": "RaveDAO stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
