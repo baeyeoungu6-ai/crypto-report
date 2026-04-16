@@ -92,7 +92,7 @@ permalink: /index.html
   </div>
 
   <div class="report-grid">
-    {% for report in reports %}
+    {% for report in reports.slice(0, 3) %}
       {% include "report-card.njk" %}
     {% endfor %}
   </div>
