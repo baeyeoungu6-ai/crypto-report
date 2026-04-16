@@ -142,7 +142,7 @@ async function fetchDetails(coinId) {
 async function main() {
   const site = loadSite();
   const existing = loadCache();
-  const usedCoinIds = existing.map((item) => item.coinId);
+  const usedCoinIds = existing.slice(0, 3).map((item) => item.coinId);
 
   const marketUrl =
     "https://api.coingecko.com/api/v3/coins/markets" +
@@ -197,8 +197,7 @@ async function main() {
   };
 
   const nextReports = [report, ...existing]
-    .filter((item, index, arr) => arr.findIndex((x) => x.coinId === item.coinId) === index)
-    .slice(0, 3);
+    .filter((item, index, arr) => arr.findIndex((x) => x.coinId === item.coinId) === index);
 
   saveCache(nextReports);
 
