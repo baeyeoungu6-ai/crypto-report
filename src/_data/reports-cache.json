@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-16",
+    "slug": "2026-04-16-ordinals",
+    "coinId": "ordinals",
+    "coinName": "ORDI",
+    "symbol": "ORDI",
+    "title": "Why ORDI Went Up Yesterday",
+    "priceChange24h": 114.1,
+    "volumeLabel": "Very High",
+    "marketCap": "$187M",
+    "summary": "ORDI was one of the strongest crypto movers yesterday, gaining 114.1% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 114.1% move.",
+      "Roughly $1.4B in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "The Translation Layer: Why AI Is Necessary to Scale Decentralized Finance",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/the-translation-layer-why-ai-is-necessary-to-scale-decentralized-finance/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "XRP Jumps As Japan’s Rakuten Pay Integration Boosts Real-World Use",
+        "source": "NewsBTC",
+        "url": "https://www.newsbtc.com/news/xrp-jumps-as-japans-rakuten-pay-integration-boosts-real-world-use/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Ex-Treasury chief warns of US bond crash, calls for contingency plan",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/ex-treasury-chief-warns-us-treasurys-crash-calls-emergency-debt-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "ORDI is a crypto asset tracked across major exchanges.",
+    "reportIntro": "ORDI stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-15",
     "slug": "2026-04-15-edgex",
     "coinId": "edgex",
