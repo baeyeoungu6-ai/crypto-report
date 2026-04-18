@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-17",
+    "slug": "2026-04-17-bianrensheng",
+    "coinId": "bianrensheng",
+    "coinName": "币安人生 (BinanceLife)",
+    "symbol": "币安人生",
+    "title": "Why 币安人生 Went Up Yesterday",
+    "priceChange24h": 40.2,
+    "volumeLabel": "High",
+    "marketCap": "$465M",
+    "summary": "币安人生 (BinanceLife) was one of the strongest crypto movers yesterday, gaining 40.2% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 40.2% move.",
+      "Roughly $223M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Tempo Launches Private Stablecoin Zones for Enterprise Payroll and Treasury Settlements",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/tempo-launches-private-stablecoin-zones-for-enterprise-payroll-and-treasury-settlements/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "+400 Billion Shiba Inu (SHIB) Added on Exchanges: Rally Faith Fades",
+        "source": "U.Today",
+        "url": "https://u.today/400-billion-shiba-inu-shib-added-on-exchanges-rally-faith-fades",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "X's new Cashtags feature drives $1B trading volume in first two days",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/x-cashtags-feature-drives-1-billion-trading-volume-first-two-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "币安人生 (BinanceLife) is a crypto asset tracked across major exchanges.",
+    "reportIntro": "币安人生 (BinanceLife) stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-16",
     "slug": "2026-04-16-ordinals",
     "coinId": "ordinals",
@@ -117,46 +157,6 @@
     ],
     "about": "Enjin Enjin is a leading blockchain ecosystem dedicated to revolutionizing the gaming industry by integrating blockchain technology into games, applications, and businesses. Founded in 2009 by Maxim Blagov and Witek Radomski, Enjin began as a community gaming platform of 20 million gamers. Pivoting to blockchain in 201",
     "reportIntro": "Enjin Coin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-04-14",
-    "slug": "2026-04-14-bianrensheng",
-    "coinId": "bianrensheng",
-    "coinName": "币安人生 (BinanceLife)",
-    "symbol": "币安人生",
-    "title": "Why 币安人生 Went Up Yesterday",
-    "priceChange24h": 48.5,
-    "volumeLabel": "High",
-    "marketCap": "$343M",
-    "summary": "币安人生 (BinanceLife) was one of the strongest crypto movers yesterday, gaining 48.5% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 48.5% move.",
-      "Roughly $345M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "‘Closer Than Ever’: Ripple CEO Says CLARITY Act Window Is Open and Now Is the Moment to Act",
-        "source": "Bitcoin.com",
-        "url": "https://news.bitcoin.com/closer-than-ever-ripple-ceo-says-clarity-act-window-is-open-and-now-is-the-moment-to-act/",
-        "note": "This article is related to the token's recent market attention."
-      },
-      {
-        "title": "Bitcoin Price Has Not Reached Its Real Bottom, And A ‘Big Storm’ Is Coming",
-        "source": "NewsBTC",
-        "url": "https://www.newsbtc.com/news/bitcoin/no-bitcoin-real-bottom-yet/",
-        "note": "This article is related to the token's recent market attention."
-      },
-      {
-        "title": "Why Bank And Crypto Studies Disagree Sharply On Stablecoin Yield Risks",
-        "source": "Forbes Digital Assets",
-        "url": "https://www.forbes.com/sites/jasonbrett/2026/04/14/why-bank-and-crypto-studies-disagree-sharply-on-stablecoin-yield-risks/",
-        "note": "This article is related to the token's recent market attention."
-      }
-    ],
-    "about": "币安人生 (BinanceLife) is a crypto asset tracked across major exchanges.",
-    "reportIntro": "币安人生 (BinanceLife) stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
