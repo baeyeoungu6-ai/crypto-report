@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-18",
+    "slug": "2026-04-18-asteroid-shiba",
+    "coinId": "asteroid-shiba",
+    "coinName": "Asteroid Shiba",
+    "symbol": "ASTEROID",
+    "title": "Why ASTEROID Went Up Yesterday",
+    "priceChange24h": 749.7,
+    "volumeLabel": "High",
+    "marketCap": "$157M",
+    "summary": "Asteroid Shiba was one of the strongest crypto movers yesterday, gaining 749.7% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 749.7% move.",
+      "Roughly $150M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Ark Invest Taps Kalshi Data, Says Prediction Markets Could Reshape Future of Investing",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/ark-invest-taps-kalshi-data-says-prediction-markets-could-reshape-future-of-investing/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Caitlyn Jenner escapes memecoin lawsuit as judge says token not a security",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/caitlyn-jenner-escapes-memecoin-lawsuit-judge-says-token-not-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Arthur Hayes Warns Bitcoin May Stall Until Liquidity Returns",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/arthur-hayes-warns-bitcoin-may-stall-until-liquidity-returns/",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "Asteroid Shiba is inspired by a real-life event where a Shiba Inu plush toy named \"Asteroid\" served as a zero-gravity indicator during the Polaris Dawn mission. This connection to space travel gives it a narrative that's both whimsical and grounded in a tangible event, differentiating it from other meme coins which mig",
+    "reportIntro": "Asteroid Shiba stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-17",
     "slug": "2026-04-17-bianrensheng",
     "coinId": "bianrensheng",
