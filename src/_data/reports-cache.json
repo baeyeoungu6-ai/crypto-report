@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-20",
+    "slug": "2026-04-20-ravedao",
+    "coinId": "ravedao",
+    "coinName": "RaveDAO",
+    "symbol": "RAVE",
+    "title": "Why RAVE Went Up Yesterday",
+    "priceChange24h": 199.9,
+    "volumeLabel": "High",
+    "marketCap": "$392M",
+    "summary": "RaveDAO was one of the strongest crypto movers yesterday, gaining 199.9% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 199.9% move.",
+      "Roughly $338M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "William Hill Parent Evoke in £225M Bally’s Intralot Sale Discussions",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/william-hill-parent-evoke-in-225m-ballys-intralot-sale-discussions/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Japan’s Big Banks Take Government Bonds On-Chain",
+        "source": "BeInCrypto",
+        "url": "https://beincrypto.com/japans-big-banks-take-government-bonds-on-chain/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "XRP Prepares for Quantum Future as Ripple Maps XRPL Strategy for Security Readiness",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/xrp-prepares-for-quantum-future-as-ripple-maps-xrpl-strategy-for-security-readiness/",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "RaveDAO is a global community uniting music, technology, and purpose. Since their first sold-out event at Dubai 2024, they have expanded across Europe, the Middle East, North America, and Asia, hosting world-class experiences with over 100,000 total attendees and 3,000+ attendees for each event. RaveDAO has worked with",
+    "reportIntro": "RaveDAO stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-19",
     "slug": "2026-04-19-pieverse",
     "coinId": "pieverse",
