@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-21",
+    "slug": "2026-04-21-memecore",
+    "coinId": "memecore",
+    "coinName": "MemeCore",
+    "symbol": "M",
+    "title": "Why M Went Up Yesterday",
+    "priceChange24h": 33.9,
+    "volumeLabel": "Elevated",
+    "marketCap": "$5.6B",
+    "summary": "MemeCore was one of the strongest crypto movers yesterday, gaining 33.9% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 33.9% move.",
+      "Roughly $25M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Relics of a Revolution, Part IV: The Bank Was Already Burning",
+        "source": "Bitcoin Magazine",
+        "url": "https://bitcoinmagazine.com/culture/relics-of-a-revolution-part-iv",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "X Debuts Grok-Powered Custom Timelines for Niche Topic Feeds",
+        "source": "BeInCrypto",
+        "url": "https://beincrypto.com/x-custom-timelines-grok-ios-launch/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Institutional Crypto Adoption ‘Happening Now’: Ripple Executive Says Real-World Use Cases Taking Hold",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/institutional-crypto-adoption-happening-now-ripple-executive-says-real-world-use-cases-taking-hold/",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "MemeCore is the first Layer 1 blockchain, built for Meme 2.0 — a new paradigm where meme coins transcend speculation to become engines of culture, value, and community coordination. In this new era, memes are not just content — they are currency, governance, and creative expression. Mission To structure and sustain the",
+    "reportIntro": "MemeCore stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-20",
     "slug": "2026-04-20-ravedao",
     "coinId": "ravedao",
