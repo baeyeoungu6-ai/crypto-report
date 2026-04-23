@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-22",
+    "slug": "2026-04-22-spark-2",
+    "coinId": "spark-2",
+    "coinName": "Spark",
+    "symbol": "SPK",
+    "title": "Why SPK Went Up Yesterday",
+    "priceChange24h": 79.6,
+    "volumeLabel": "High",
+    "marketCap": "$141M",
+    "summary": "Spark was one of the strongest crypto movers yesterday, gaining 79.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 79.6% move.",
+      "Roughly $474M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "South Korea BOK Governor Prioritizes Digital Won CBDC in First Policy Speech",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/south-korea-bok-governor-prioritizes-digital-won-cbdc-in-first-policy-speech/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Kalshi bans 3 US politicians for betting on their own election races",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/kalshi-bans-us-candidates-election-betting-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "From Scripts to Swarms: Why AI Is Breaking Traditional Sybil Defenses",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/from-scripts-to-swarms-why-ai-is-breaking-traditional-sybil-defenses/",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "Spark is an onchain capital allocator, with $3.86B deployed across DeFi, CeFi, and RWA. It unlocks capital efficiency at scale, auto-balancing allocations based on market conditions while maintaining a conservative risk profile. Spark was created to solve DeFi’s core inefficiencies: fragmented liquidity, unstable yield",
+    "reportIntro": "Spark stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-21",
     "slug": "2026-04-21-memecore",
     "coinId": "memecore",
