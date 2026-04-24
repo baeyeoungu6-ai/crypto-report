@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-23",
+    "slug": "2026-04-23-stable-2",
+    "coinId": "stable-2",
+    "coinName": "​​Stable",
+    "symbol": "STABLE",
+    "title": "Why STABLE Went Up Yesterday",
+    "priceChange24h": 29.7,
+    "volumeLabel": "Strong",
+    "marketCap": "$765M",
+    "summary": "​​Stable was one of the strongest crypto movers yesterday, gaining 29.7% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 29.7% move.",
+      "Roughly $67M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "'Distribution Event'—Schwab Crypto Targeting $12T Bitcoin Buyers",
+        "source": "Forbes Digital Assets",
+        "url": "https://www.forbes.com/sites/digital-assets/2026/04/23/distribution-event-schwab-crypto-targeting-12t-bitcoin-buyers/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "BIS Report: Crypto Earn Products Resemble Deposits With No FDIC Protection",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/bis-report-crypto-earn-products-resemble-deposits-with-no-fdic-protection/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Analyst Predicts A 30% Bitcoin Price Crash To $50,000, Here’s When",
+        "source": "NewsBTC",
+        "url": "https://www.newsbtc.com/news/bitcoin/30-bitcoin-price-crash-50000/",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "Stable is the first Layer 1 blockchain purpose-built for the USDT ecosystem, leveraging USDT as the native gas token to remove friction from volatile gas fees. Optimized for speed, scalability, and compliance, Stable enables seamless integration for payment processors, DeFi, RWA, fintechs, and enterprises. With instant",
+    "reportIntro": "​​Stable stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-22",
     "slug": "2026-04-22-spark-2",
     "coinId": "spark-2",
