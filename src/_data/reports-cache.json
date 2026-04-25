@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-24",
+    "slug": "2026-04-24-apecoin",
+    "coinId": "apecoin",
+    "coinName": "ApeCoin",
+    "symbol": "APE",
+    "title": "Why APE Went Up Yesterday",
+    "priceChange24h": 94.7,
+    "volumeLabel": "Very High",
+    "marketCap": "$204M",
+    "summary": "ApeCoin was one of the strongest crypto movers yesterday, gaining 94.7% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 94.7% move.",
+      "Roughly $1.1B in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "184 Billion Shiba Inu (SHIB) Added Amid Weekend Market Trading Spree",
+        "source": "U.Today",
+        "url": "https://u.today/184-billion-shiba-inu-shib-added-amid-weekend-market-trading-spree",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Hyperliquid whale holds $38M short against Bitcoin, but does it matter?",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/hyperliquid-whale-holds-38m-short-against-bitcoin-but-does-it-matter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Bernie Sanders Blasts Trump Family's 'Unprecedented Kleptocracy' As Crypto Tops List Of Deals: 'Made $4 Billion Off The Presidency' (UPDATED)",
+        "source": "Benzinga",
+        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/04/52021690/bernie-sanders-blasts-trump-familys-unprecedented-kleptocracy-as-crypto-tops-list-of-deals-made-4-billion-off-the-presidency?utm_source=coingecko&utm_campaign=partner_feed&utm_medium=referral",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "APE fuels culture. Backed by the best club in the world and hundreds of thousands of holders worldwide, it’s the token for digital and IRL communities, builders, creators, collectors, gamers, and beyond. APE is the native gas token of ApeChain and is available across multiple ecosystems including Ethereum, Arbitrum, So",
+    "reportIntro": "ApeCoin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-23",
     "slug": "2026-04-23-stable-2",
     "coinId": "stable-2",
