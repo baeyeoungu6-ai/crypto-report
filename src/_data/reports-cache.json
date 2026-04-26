@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-25",
+    "slug": "2026-04-25-raydium",
+    "coinId": "raydium",
+    "coinName": "Raydium",
+    "symbol": "RAY",
+    "title": "Why RAY Went Up Yesterday",
+    "priceChange24h": 26.6,
+    "volumeLabel": "High",
+    "marketCap": "$226M",
+    "summary": "Raydium was one of the strongest crypto movers yesterday, gaining 26.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 26.6% move.",
+      "Roughly $178M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Ripple Prepares for Largest Swell Event Yet With Combined Apex Format",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/ripple-prepares-for-largest-swell-event-yet-with-combined-apex-format/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Apecoin Insider Turns $174K Into $2.45M in One Day With 14x Trade on Both Sides of 80% Surge",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/apecoin-insider-174k-2-45m-14x-return-yuga-labs/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Tether Conducts Biggest USDT Freeze Ever, Grayscale Makes Case for Bitcoin Bottom, And More – Week In Review",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/tether-conducts-biggest-usdt-freeze-ever-grayscale-makes-case-for-bitcoin-bottom-and-more-week-in-review/",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "Raydium is an automated market maker (AMM) and liquidity provider built on the Solana blockchain for the Serum decentralized exchange (DEX). Raydium has a first-mover advantage as an AMM within Serum and will be an integral part of bringing new and existing projects and protocols into the ecosystem. The protocol will a",
+    "reportIntro": "Raydium stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-24",
     "slug": "2026-04-24-apecoin",
     "coinId": "apecoin",
