@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-28",
+    "slug": "2026-04-28-skyai",
+    "coinId": "skyai",
+    "coinName": "SkyAI",
+    "symbol": "SKYAI",
+    "title": "Why SKYAI Went Up Yesterday",
+    "priceChange24h": 31.2,
+    "volumeLabel": "Strong",
+    "marketCap": "$219M",
+    "summary": "SkyAI was one of the strongest crypto movers yesterday, gaining 31.2% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 31.2% move.",
+      "Roughly $41M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "New BNB 2x Leveraged ETF XBNB Begins Trading on NYSE Arca",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/new-bnb-2x-leveraged-etf-xbnb-begins-trading-on-nyse-arca/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "PUMP Rises Over 6% as Pump.fun Executes $370 Million Token Burn",
+        "source": "BeInCrypto",
+        "url": "https://beincrypto.com/pumpfun-pump-token-burn-rally-april-2026/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Galaxy Digital Stock Jumps 5% Despite $216 Million Q1 Loss",
+        "source": "BeInCrypto",
+        "url": "https://beincrypto.com/galaxy-digital-stock-q1-2026-loss/",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "SkyAI is an all-in-one AI ecosystem powered by MCP, designed to seamlessly integrate intelligent solutions across industries.",
+    "reportIntro": "SkyAI stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-27",
     "slug": "2026-04-27-chain-2",
     "coinId": "chain-2",
