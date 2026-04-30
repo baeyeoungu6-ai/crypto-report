@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-04-29",
+    "slug": "2026-04-29-unibase",
+    "coinId": "unibase",
+    "coinName": "Unibase",
+    "symbol": "UB",
+    "title": "Why UB Went Up Yesterday",
+    "priceChange24h": 19.4,
+    "volumeLabel": "Elevated",
+    "marketCap": "$170M",
+    "summary": "Unibase was one of the strongest crypto movers yesterday, gaining 19.4% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 19.4% move.",
+      "Roughly $18M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "US, UAE and China joint effort dismantles 9 crypto scam centers",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/fbi-dubai-and-china-make-mass-arrests-dismantle-crypto-scam-centres?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Hong Kong Central Bank Flags Fake HSBC Tokens Circulating Ahead of Launch",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/hong-kong-central-bank-flags-fake-hsbc-tokens-circulating-ahead-of-launch/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "'Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock",
+        "source": "Forbes Digital Assets",
+        "url": "https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "Unibase is the first high-performance decentralized AI memory layer. It equips AI agents with long-term memory and cross-platform interoperability, enabling them to learn, evolve, and collaborate autonomously. Unibase is building the foundation for the Open Agent Internet — a modular, verifiable, and composable AI agen",
+    "reportIntro": "Unibase stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-28",
     "slug": "2026-04-28-skyai",
     "coinId": "skyai",
