@@ -32,15 +32,12 @@ permalink: /index.html
   </div>
 
   <aside class="hero-aside">
-    <!-- Binance 배너 -->
     <a class="banner-link" href="{{ site.binanceReferralUrl }}" target="_blank" rel="noopener noreferrer" aria-label="Join Binance with referral">
-    <img src="/assets/binance-event-link.webp" alt="Binance exchange event link banner">
+      <img src="{{ site.binanceBannerImage }}" alt="Binance exchange event link banner">
     </a>
-
-  <!-- OKX 배너 추가 -->
-   <a class="banner-link" href="https://okx.com/join/9603836" target="_blank" rel="noopener noreferrer" aria-label="Join OKX with referral">
-      <img src="/assets/okx-event-link.webp" alt="OKX exchange event link banner">
-   </a>
+    <a class="banner-link" href="{{ site.okxReferralUrl }}" target="_blank" rel="noopener noreferrer" aria-label="Join OKX with referral">
+      <img src="{{ site.okxBannerImage }}" alt="OKX exchange event link banner">
+    </a>
 
     <div class="mini-stats-card">
       <span class="section-kicker">Quick take</span>
@@ -98,7 +95,7 @@ permalink: /index.html
   </div>
 
   <div class="report-grid">
-    {% for report in reports.slice(0, 3) %}
+    {% for report in reports %}
       {% include "report-card.njk" %}
     {% endfor %}
   </div>
