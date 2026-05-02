@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-01",
+    "slug": "2026-05-01-build-on",
+    "coinId": "build-on",
+    "coinName": "BUILDon",
+    "symbol": "B",
+    "title": "Why B Went Up Yesterday",
+    "priceChange24h": 177.8,
+    "volumeLabel": "High",
+    "marketCap": "$345M",
+    "summary": "BUILDon was one of the strongest crypto movers yesterday, gaining 177.8% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 177.8% move.",
+      "Roughly $105M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Tillis-Alsobrooks Reach Compromise On Stablecoin Yield In Clarity Act",
+        "source": "Forbes Digital Assets",
+        "url": "https://www.forbes.com/sites/jasonbrett/2026/05/01/tillis-alsobrooks-reach-compromise-on-stablecoin-yield-in-clarity-act/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "429 Billion Shiba Inu (SHIB) in 24 Hours: Volumes Flip Substantially",
+        "source": "U.Today",
+        "url": "https://u.today/429-billion-shiba-inu-shib-in-24-hours-volumes-flip-substantially",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "DOJ: 1,000 Victims Hit in $215M Scam—$1.2M in Crypto, Cash Found",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/doj-1000-victims-hit-in-215m-scam-1-2m-in-crypto-cash-found/",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "BUILDon is a crypto asset tracked across major exchanges.",
+    "reportIntro": "BUILDon stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-04-30",
     "slug": "2026-04-30-asteroid-shiba",
     "coinId": "asteroid-shiba",
