@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-02",
+    "slug": "2026-05-02-block-street",
+    "coinId": "block-street",
+    "coinName": "Block Street",
+    "symbol": "BSB",
+    "title": "Why BSB Went Up Yesterday",
+    "priceChange24h": 29.4,
+    "volumeLabel": "Strong",
+    "marketCap": "$147M",
+    "summary": "Block Street was one of the strongest crypto movers yesterday, gaining 29.4% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 29.4% move.",
+      "Roughly $42M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Starlink Usage Turns Fatal in Iran Internet Blackout",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/starlink-usage-turns-fatal-in-iran-internet-blackout/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Bitcoin logs best monthly performance in 12 months during April",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-months-in-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Bakkt Completes DTR Acquisition Amid Revenue Growth and Strategic Overhaul",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/bakkt-completes-dtr-acquisition-amid-revenue-growth-and-strategic-overhaul/",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "Block Street is a crypto asset tracked across major exchanges.",
+    "reportIntro": "Block Street stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-01",
     "slug": "2026-05-01-build-on",
     "coinId": "build-on",
@@ -197,46 +237,6 @@
     ],
     "about": "Onyx is an infrastructure for a multi-asset, scalable, and cryptographically secure ledger. Onyx functions as a blockchain-based technology that enhances financial ecosystems by enabling a more efficient and interconnected economy, with a mission to develop cryptographic ledgers that optimize security, scalability, and",
     "reportIntro": "Onyxcoin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-04-26",
-    "slug": "2026-04-26-block-street",
-    "coinId": "block-street",
-    "coinName": "Block Street",
-    "symbol": "BSB",
-    "title": "Why BSB Went Up Yesterday",
-    "priceChange24h": 52.8,
-    "volumeLabel": "Strong",
-    "marketCap": "$178M",
-    "summary": "Block Street was one of the strongest crypto movers yesterday, gaining 52.8% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 52.8% move.",
-      "Roughly $72M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Chainalysis: EU’s New Sanctions on Russia Mark ‘a New Era’ of Crypto Enforcement",
-        "source": "Bitcoin.com",
-        "url": "https://news.bitcoin.com/chainalysis-eus-new-sanctions-on-russia-mark-a-new-era-of-crypto-enforcement/",
-        "note": "This article is related to the token's recent market attention."
-      },
-      {
-        "title": "TRM Labs Highligihts Rise of Stablecoins in Venezuela",
-        "source": "Bitcoin.com",
-        "url": "https://news.bitcoin.com/trm-labs-highligihts-rise-of-stablecoins-in-venezuela/",
-        "note": "This article is related to the token's recent market attention."
-      },
-      {
-        "title": "Bitcoin, Ethereum, XRP, Dogecoin Rally Despite Stalled Iran Peace Talks: Analyst Says BTC Breaking Past This Barrier Will Open The Gates To $86,000",
-        "source": "Benzinga",
-        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/04/52053714/bitcoin-ethereum-xrp-dogecoin-rally-iran-talks-stall-btc-key-level-86000-breakout-analyst?utm_source=coingecko&utm_campaign=partner_feed&utm_medium=referral",
-        "note": "This article is related to the token's recent market attention."
-      }
-    ],
-    "about": "Block Street is a crypto asset tracked across major exchanges.",
-    "reportIntro": "Block Street stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   },
   {
