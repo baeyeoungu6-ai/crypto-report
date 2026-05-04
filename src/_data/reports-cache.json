@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-03",
+    "slug": "2026-05-03-tagger",
+    "coinId": "tagger",
+    "coinName": "TAGGER",
+    "symbol": "TAG",
+    "title": "Why TAG Went Up Yesterday",
+    "priceChange24h": 74.6,
+    "volumeLabel": "Strong",
+    "marketCap": "$208M",
+    "summary": "TAGGER was one of the strongest crypto movers yesterday, gaining 74.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 74.6% move.",
+      "Roughly $46M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Despite Warsh Replacing Powell at the Fed, Traders See No Rate Cut Coming in June",
+        "source": "Bitcoin.com",
+        "url": "https://news.bitcoin.com/despite-warsh-replacing-powell-at-the-fed-traders-see-no-rate-cut-coming-in-june/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Bitcoin Pushes to $80,000 as Trump’s Project Freedom Pressures Oil Prices",
+        "source": "BeInCrypto",
+        "url": "https://beincrypto.com/bitcoin-80k-trump-project-freedom-hormuz/",
+        "note": "This article is related to the token's recent market attention."
+      },
+      {
+        "title": "Bitcoin, XRP Flat, While Ethereum, Dogecoin Spike After Trump's 'Project Freedom' Announcement: Why This Analyst Suggests BTC's Bottom Is Here",
+        "source": "Benzinga",
+        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/05/52239725/bitcoin-xrp-flat-while-ethereum-dogecoin-spike-after-trumps-project-freedom-announcement-why-this-analyst-suggests-btcs-bottom-is-here?utm_source=coingecko&utm_campaign=partner_feed&utm_medium=referral",
+        "note": "This article is related to the token's recent market attention."
+      }
+    ],
+    "about": "A Decentralized Full-Stack AI Data Solution powered by a Comprehensive Data Authentication and Authorization System Tagger is a full-stack AI data solutions platform, establishing a cross-border data authentication protocol, creating a permissionless hub for data collection, labeling, management, and trading. The logic",
+    "reportIntro": "TAGGER stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-02",
     "slug": "2026-05-02-block-street",
     "coinId": "block-street",
