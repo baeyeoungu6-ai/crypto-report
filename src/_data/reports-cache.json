@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-04",
+    "slug": "2026-05-04-the-open-network",
+    "coinId": "the-open-network",
+    "coinName": "Toncoin",
+    "symbol": "TON",
+    "title": "Why TON Went Up Yesterday",
+    "priceChange24h": 27.8,
+    "volumeLabel": "Very High",
+    "marketCap": "$4.7B",
+    "summary": "Toncoin was one of the strongest crypto movers yesterday, gaining 27.8% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 27.8% move.",
+      "Roughly $591M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Crypto Overview: Toncoin, Terra Classic rise by double digits as Bitcoin grips $80,000 - FXStreet",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUFJOOW9XWDNxZnJuME1vVTFPaGdfS1FSMVZ1eFpBbWdrcjcyem5vUFU4aFRXLUJmSzEweHBlZ0xJcC1HTnN2TU9Fd2R3Z1NPMDVDWk9LMV9ZWnpOUVA5TldqWlQwWmc3TzUyZkdHczRZZHJvLVplaTRpT3I1ZW54RlFMYVRMLTJSdnpzSWtuYnVKN1JhRU9tLV9lTXZhSk00eHlMM2ItSzJLTEdiYksybkNMRGFzeVc3aFlQTVJQRjB6T1l2VTJVSnpkTE1EeDZtX0dMdDFxU0VfX3c?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "TON Price Jumps as Pavel Durov Reveals Major Updates on Telegram &amp; Toncoin - CoinGape",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2d5MVZJQWNLVV8xN1pqekxtdGIwcTRuLS1oSnRGNGFmbEUxc1VCTUVoY3dpRENlNWY0T1FaaGNkb1B4N3BVckN3aVUtdThWQUpRUkEzQVo3cFpyOU81Y2xSQzdsQmxQbm5wd1l3U3FzZ1FiR0VLeGllSE9qWlBwTU96V3poR2dPTi0zV2xwQmdDQXc3SVJFSDhB?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Toncoin Gains 5% With $3.8B Market Cap While Telegram Ecosystem Activity Expands - Yellow.com",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWTZ2Y3BVd2xFU1ZEd3J6QkFmVWJ4Y0NVYkgyS1c5QTdJaGJPQnVnX2ZJRjhmZ2U4YW95Y1E0MWZNRlpiNXdRdGNrLVR5VXhqMGljdDItajV4RVBjamM3eG1pRmhKcEZockx5TGlCV01YR0U1VVZYaVFnM3BKQjQzQw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "TON (The Open Network) is a general-purpose&nbsp;blockchain that allows developers to build decentralized apps and tokens.",
+    "reportIntro": "Toncoin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-03",
     "slug": "2026-05-03-tagger",
     "coinId": "tagger",
