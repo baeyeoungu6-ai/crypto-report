@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-05",
+    "slug": "2026-05-05-lab",
+    "coinId": "lab",
+    "coinName": "LAB",
+    "symbol": "LAB",
+    "title": "Why LAB Went Up Yesterday",
+    "priceChange24h": 63.4,
+    "volumeLabel": "High",
+    "marketCap": "$206M",
+    "summary": "LAB was one of the strongest crypto movers yesterday, gaining 63.4% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 63.4% move.",
+      "Roughly $107M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "LAB - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XYkxHWl9VRi02emtaRXBNRUFVc1NOTVUybVRpOUR1cXFFWHJxOGZnSS1FVXRIdXcyYUhBLXhNaDFDaFJBdzEw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "LAB Crypto Price Explodes 210% as Derivatives Frenzy Takes Over - Coinpedia",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUFFheVRTdGQwcVoxOGlaQ2E4OWo5c08waWs3VHlqY01TZ1RUdjFkMWxOV1BIZ2F3bFlDZ3AzTVBMSWl5YzRqWlFJalU3UHdEN2RHenZsUDJpRXd0S2txcmJiYmNEN0xhbkNwSjZUcHVxbzZwX3kxUTQ4TFFCT3pVdTRMcUtEUW9OdU9rVDJMd3lfc21DX2Rxb3Jkc1JheU9E0gGnAUFVX3lxTFBwWWF3b0pneS05RHc3dVVDMUpyYTkwMEF2U3hCbTNZb0xWaWhLYmU0dXFFTFlMN0lHQXZ3NHRudmFyVlNPTFZwQjlIR2pRbjlUbjZPUUE1VEp6Wl9LYVJCNDhETGVxb0tER1BqY1RBaXoweDNwN1hDbV82Y1A4Ty1yWHB5d3JoSXdUQl95dHhHcEh4dE1zQ2JRQ3BpMndyd3NkMlktcS00?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Crypto Market Today: Utya, Dogs, LAB Top Gainers as Bitcoin Reclaims $81K - The Crypto Times",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVjczdG82bUJoM1FRQm1kOUk2X1NqWXAwOE1NWUE2cEJESW5ITlFGcXRlQzVPanY0MExGQkJNcjlEODdHbkZqZlJIM09LRDB4S2p1d0dwaG5NSG5IamlVVjlLelZxVUZycUZSQ2NZQ1VZMkxRV2JfUVlhU2ZZbHZGbmx5bW5UWkxMWmVLeFlIeEVzYnh2MHZpTVliZlJ5LVBuNVpTX2RtdE9YZUlG?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "LAB is the first all-in-one trading ecosystem, enabling faster execution, the lowest market fees, and a viral incentive layer powered by $LAB. Integrated with existing trading platforms it allows to tap into an established network while creating a unified environment for a new trading experience. LAB brings together tr",
+    "reportIntro": "LAB stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-04",
     "slug": "2026-05-04-the-open-network",
     "coinId": "the-open-network",
