@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-06",
+    "slug": "2026-05-06-billions-network",
+    "coinId": "billions-network",
+    "coinName": "Billions Network",
+    "symbol": "BILL",
+    "title": "Why BILL Went Up Yesterday",
+    "priceChange24h": 56.6,
+    "volumeLabel": "High",
+    "marketCap": "$165M",
+    "summary": "Billions Network was one of the strongest crypto movers yesterday, gaining 56.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 56.6% move.",
+      "Roughly $356M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "BILL - Billions Network - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53MUR6QTl2U0RHMVduWFdXZFNRN3BpR3RES3NrU29SeTdWclNWUk9vclRHdDJXMnhwRkZ0R09helRDSXhuTG9fTFdsVkJZaTAyblNRX3ozcDE?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "What is Billions Network ($BILL)? The Human and AI Verification Layer Explained - MEXC Exchange",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb21pc3c3a0lYRDBHcGpDbjMtTF9NMEZ2ODhUUDE3N0R1bDBQWTU4WjAtbmhMQ1V3bUtEaE1PajRHaXFyazJUSFRWWUFPWnRxeWM4NDdqbDhuQTRTVlpsR2d1VklHeDI0RjY4U0trZmNGdVNBRmNTaTczb3JMdlNkYTBYbGxNeXoxN3FKNHlSWjhiNGRTUkdXNHM3eWhoTGpLOXVwSlpaZHRFdUpJXzJPV01fb1l3Y3Z0?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Bitget lists Billions Network (BILL) for Spot Trading - GlobeNewswire",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDJlVlRZNnNpQUdQSklqNXNaRHVYTUNJdUdpTWR5ck9fanBvbWsxOVlDbzJDN0NKZlBoYnpfQzJoTk9yWDNrdGo3VHVrMENFRENOLV94Z0dpYnA3VTlENzVQaVdoemIxbFRxSzBvb2pWTEJRTGhWanhESWQyczZDWFN1YVM1WllGOWRKMzhNdmJWTjFiOVpQbTFjZC0tWEtST3gxREJrdWl1UXdSWXF3dm1TeEhCbnhVSkdzbjZIWnk?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Billions is the global human and AI network, built on mobile-first verification to scale the internet of value. We uniquely verify the identity and uniqueness of humans and AI agents, empowering users with personalized experiences and rewards. ‍Our network is designed to be accessible, scalable, and anonymous, making t",
+    "reportIntro": "Billions Network stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-05",
     "slug": "2026-05-05-lab",
     "coinId": "lab",
