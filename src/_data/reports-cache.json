@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-08",
+    "slug": "2026-05-08-internet-computer",
+    "coinId": "internet-computer",
+    "coinName": "Internet Computer",
+    "symbol": "ICP",
+    "title": "Why ICP Went Up Yesterday",
+    "priceChange24h": 24.8,
+    "volumeLabel": "High",
+    "marketCap": "$2.1B",
+    "summary": "Internet Computer was one of the strongest crypto movers yesterday, gaining 24.8% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 24.8% move.",
+      "Roughly $360M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Internet Computer surges 21% – Can ICP finally break its 3-month ceiling? - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObXhQdjNiQUxCRjhSeTJYY2JDZkstQnJCZkJVSGlQQUh1OFpibVlzcjhqcWlVY1FmY0lkdm9vSlpwejRsdmhxbzBfaTRBMU81a3ViWlVpSjBMM0FnbFlpczF3enFSdlc4V20tTl9IeW4yZTFrVjNtODhkeS1nUFpoeHNCbEk5YTF0cGczZXE5bTVtWjVnandz0gGcAUFVX3lxTFB6dU9tWjV4MlUxSUVoaUlvRWo2bVExTG5fbjlMNGV5MmJiNTh3WEZJak1lNVlhRHFMZkJ4UEJVMHFhVkdqM0ZBc1BRV3VveWxQcE5uaTV2a1VmZngzSHMyOC1jc3dlelVnRE5La1k1d0hPZFhxaFJjTzhydmFOeVVhc0VGbklPdHV2LWdXUlVEZkVyVzBEWHNlU3RCNQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Arizona's Senate Bill 1649 names Internet Computer alongside - KuCoin",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BNVdTWjVtQ2xwUENtSFdNWDNBVDh5NVpfODBxTEd5NFdZOXBLVk4xTUNjMkxwRzVGM2hNSGYwdHRvbTZYUUtkVVVYSEJWc3hxVUNFYmdpSzdreUhaWWdVU0dQdW42OVFGZmp6Zmk1akQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Internet Computer Posts 10% Gain Amid Decentralized Cloud Push - Yellow.com",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWTVyUzhoT3UzcU0tX0JVWlJOZG1NX0c1Z2Fwd2QwcXJnMW1YWWxrbVZsSWlTeEV3bmxHLW1qdUxpNHB2cTVwZzhVT3pPM2VDUkt6QUdBaHhRcGt2Q19say1HRmI3d0hPMzdlQllZUTBpM29oY2lFdXA2YVdPOGxpNkREYw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "The Internet Computer is a decentralized cloud blockchain designed to run applications, websites, and backend systems fully on-chain. Its architecture provides robust security, resilience, and built-in multi-chain support. A key focus of the network is enabling a “self-writing cloud,” where AI tools allow users generat",
+    "reportIntro": "Internet Computer stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-07",
     "slug": "2026-05-07-jito-governance-token",
     "coinId": "jito-governance-token",
