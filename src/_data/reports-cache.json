@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-09",
+    "slug": "2026-05-09-pharos-network",
+    "coinId": "pharos-network",
+    "coinName": "Pharos",
+    "symbol": "PROS",
+    "title": "Why PROS Went Up Yesterday",
+    "priceChange24h": 26.7,
+    "volumeLabel": "Strong",
+    "marketCap": "$148M",
+    "summary": "Pharos was one of the strongest crypto movers yesterday, gaining 26.7% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 26.7% move.",
+      "Roughly $25M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Upbit Lists Pharos (PROS) on KRW, BTC and USDT Markets - Coinpedia",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHhqWG9LRUt2Wm4tRldmeWozQlVwcGdDUzY2cHVpbVVWWldFaUhJQkV6ZWtGXzhBU1dBVGNVWk9vODFsQXVZd2s1QU5PX3RhY0tKNGhPZy1mMnB1RFZVRFB1TTBaa05lbHpoQV9LVFdJbDA1STUyNWZGREFVUEtTT3RiQm90aFQybDJrZXMyUWkxT2ZBTWfSAZsBQVVfeXFMT1lfMU1kTWJSVEN6dThVV1VPdk1WWUlVY3BPR0xYNFNEYWhHVTRZSlJWendaYmcyTUh6dC1GOWZ0OVktMkdNNTk4RDhSYXZzTGlKQ3VXdlNXdlBqM2dDYWRnRWt3NTRJaVJfSFM1ak9WTW56NnRHMmNQdEhjNXQ4MThIMk4xTE5icVlDUy1nYjlTUHNvT2hid3dKeXM?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Pharos (PROS) - Upbit Listing - 08 May 2026 - TradingView",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMVYtRWNJTzBVQUdfV05WQ0xvbzcxSWFoVEJUTEI4R3lzN21qbEtEbHc0eEJwVUpGOHBiWmIzc2VlM0M0cllMUllvMzEwNWZMMjZEckZBOEFWblAzWnZsMnBHRUc5amtva2dHdFNUSjJRcTkyc0FDVjlrMGlfUlNoblg5WkdHbjJKNm9VdnBGZE1SSUFOSGV2dmF1YUFBaWpfVzlN?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Pharos price today, PROS to USD live price, marketcap and chart - CoinDesk",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBySkNXVWkyb0FDbWJkQi15MEZpOGxYT1BoWHc2bXhnNUdjMzFPNzF1THN1b0ZlUVAxakdFVjJqTElDLUlDMW01OWpzN3p2UQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Pharos is a crypto asset tracked across major exchanges.",
+    "reportIntro": "Pharos stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-08",
     "slug": "2026-05-08-internet-computer",
     "coinId": "internet-computer",
