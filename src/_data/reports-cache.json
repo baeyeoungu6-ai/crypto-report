@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-10",
+    "slug": "2026-05-10-sui",
+    "coinId": "sui",
+    "coinName": "Sui",
+    "symbol": "SUI",
+    "title": "Why SUI Went Up Yesterday",
+    "priceChange24h": 18.1,
+    "volumeLabel": "Very High",
+    "marketCap": "$5.1B",
+    "summary": "Sui was one of the strongest crypto movers yesterday, gaining 18.1% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 18.1% move.",
+      "Roughly $2.7B in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "SUI Climbs 31% as Utility Plays Take Over CoinGecko This Week - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa2g2LV9EYVNoT29Nb3J5cUdzLUMtSG51RXBuWXNBdjRnR05ZMDlsdWxpUjZ1Z203NXR3cmVsYUkyS0x6OHJiMlBSTWVyMk9vRGpVRWk5MlRMS2otSjlBekNsSi1VcUZCbkItdkIwUmdSNHdydDFvTEg1a0tldnh3WWp3T0FDcENMWWpQSTdZcU5sdGpHa1o4?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Bitcoin briefly tops $82,000 on improving macro conditions; Sui jumps 25% - The Block",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWZmUHVUZl9zUHkyX1FuSURvblFWZGRkS2FpbXFydUJjZUx2by1LYkFtVnRrZXV1Zl9JdEprSXdTODBRQzhGTnNuQ19xQjZMaGtDWTB1RXlXR2h4UTRoM2NHbGk0UXd3M0ZqRjVNel9JTVhqSzVzNlhFNXNvT3oxeA?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "SUI Breakout Gains Momentum—Can the Price Surge Another 20% in May? - Coinpedia",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVUdreFowSkItdFU4YWpicmgtejRDcEgyYmczRnZyTlVQTENzYkFsc0k0WTZDYjZXR0VEb01ucTZuQ093TUVubkNPcFltNmlyNmE2Wk9jNUZ5Q1dnWmtYcWFUSXdjcEhJd05OdDNIOW5nanp6MHJNZlVkdVFaS1hWQkE3azV6N2pGV0ZwVTNwZzM2ZGJ3SWNGRnl6YW9UV2JGUW4tWlBR0gGrAUFVX3lxTFB2OEJqajQ3YXlGVU1OT0c0WTNOSDg3aG4wZk5jdjBJLW1vWXZHTm5xWFRZOGhIZ0tiVjR1M04wbkhCTkZwdXhCYUFGT2xHLTIxSnZBaVJKWldlX0djXzN1ZldfdUlSUUsycFVZb2lUT0lSZTFLanlFbU1FQ2FCTTd0eVFmS3dYdm50N3k2V181b1p1LWp3V3hUWmZQci1iaWFVSUVQNjl1WjRvVQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Sui s a Layer 1 blockchain developed by Mysten Labs, a team founded by former lead engineers from Meta’s blockchain research division. It is designed for global adoption by providing a secure, high-speed environment for digital asset ownership and removing technical barriers for Web3 applications. The platform utilizes",
+    "reportIntro": "Sui stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-09",
     "slug": "2026-05-09-pharos-network",
     "coinId": "pharos-network",
