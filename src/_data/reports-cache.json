@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-13",
+    "slug": "2026-05-13-unibase",
+    "coinId": "unibase",
+    "coinName": "Unibase",
+    "symbol": "UB",
+    "title": "Why UB Went Up Yesterday",
+    "priceChange24h": 14.8,
+    "volumeLabel": "Strong",
+    "marketCap": "$490M",
+    "summary": "Unibase was one of the strongest crypto movers yesterday, gaining 14.8% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 14.8% move.",
+      "Roughly $62M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Unibase rallies 17% as Open Interest climbs: Is UB’s breakout sustainable? - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTBQWE5mNzc2cDI4b2dnc1BOY2R2VHhLOVJnczF1ODZmVEJKRnI1YWpmSThTS29ld1VSLUkzMVpsMVV1UlBZZUFoc3FZNTlrUGlOaUttUEtHWGVycUNoTVoxTUZNOHNYQVptejVDT0gxSC0xNG5iYUp2MVdSMS1ZbFhlQ05PSnYtcm13TkFUajhRbzNZdTBSZ9IBngFBVV95cUxOUGxQU3dSZWQ0MjBoeG9SQlhhU3V4OUJiNlVqS2JLNi14N1R5N2d4S2ZvaTg3RGllSFZ1NFZhS29QeF92RHJTV1RJWmZ4eENwcTBYcmc4WUUwNzdxdC1pVnU3clFJNWxZUHBSbHdxeHMwbjh4azl2MWF5T1NLLUtEVHRnODRWcWoxY0h1TTJtRk9RYnVaVmx5TEhLX0FGUQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "UB Token Explodes After Unibase Agent Market Launch - MEXC Exchange",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pZlc5TFREM0JrSE8wQjIzYUwzeFF3Y2FLbXpCZDBFd0k1UG5veHRhdEI0T3Iyc2VUTmpBenhiVHMxcklWaEEtUFVvNXNrUXc?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Unibase (UB) Surge: How Crowdwisdom360 Alerts Helped Traders Navigate the 560% AI-Crypto Rally - openPR.com",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcVd4YzZtNnlaUHBxdVRhMnlWdUJmVkJlYjhlYzNMcGFfNGxILTR0UURmTFVvVlgwRmFQYUNmWklmZWRMdVhmc1cwdmo4TllycnhVMFEwVzhFdmdxUUNBMWFFbW9YTjV1N1N1cGU1a0dnQlRJMV84MmZOXzVvd05kM1plRFBMTV9Vd08wX3otVkhKUV9DWERicg?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Unibase is the first high-performance decentralized AI memory layer. It equips AI agents with long-term memory and cross-platform interoperability, enabling them to learn, evolve, and collaborate autonomously. Unibase is building the foundation for the Open Agent Internet — a modular, verifiable, and composable AI agen",
+    "reportIntro": "Unibase stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-12",
     "slug": "2026-05-12-billions-network",
     "coinId": "billions-network",
@@ -437,46 +477,6 @@
     ],
     "about": "Asteroid Shiba is inspired by a real-life event where a Shiba Inu plush toy named \"Asteroid\" served as a zero-gravity indicator during the Polaris Dawn mission. This connection to space travel gives it a narrative that's both whimsical and grounded in a tangible event, differentiating it from other meme coins which mig",
     "reportIntro": "Asteroid Shiba stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-04-29",
-    "slug": "2026-04-29-unibase",
-    "coinId": "unibase",
-    "coinName": "Unibase",
-    "symbol": "UB",
-    "title": "Why UB Went Up Yesterday",
-    "priceChange24h": 19.4,
-    "volumeLabel": "Elevated",
-    "marketCap": "$170M",
-    "summary": "Unibase was one of the strongest crypto movers yesterday, gaining 19.4% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 19.4% move.",
-      "Roughly $18M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "US, UAE and China joint effort dismantles 9 crypto scam centers",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/fbi-dubai-and-china-make-mass-arrests-dismantle-crypto-scam-centres?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "note": "This article is related to the token's recent market attention."
-      },
-      {
-        "title": "Hong Kong Central Bank Flags Fake HSBC Tokens Circulating Ahead of Launch",
-        "source": "Bitcoin.com",
-        "url": "https://news.bitcoin.com/hong-kong-central-bank-flags-fake-hsbc-tokens-circulating-ahead-of-launch/",
-        "note": "This article is related to the token's recent market attention."
-      },
-      {
-        "title": "'Removes Supply'—Ethereum Suddenly Faces BlackRock $500M Stake Shock",
-        "source": "Forbes Digital Assets",
-        "url": "https://www.forbes.com/sites/digital-assets/2026/04/29/removes-supply-ethereum-suddenly-faces-blackrock-500m-stake-shock/",
-        "note": "This article is related to the token's recent market attention."
-      }
-    ],
-    "about": "Unibase is the first high-performance decentralized AI memory layer. It equips AI agents with long-term memory and cross-platform interoperability, enabling them to learn, evolve, and collaborate autonomously. Unibase is building the foundation for the Open Agent Internet — a modular, verifiable, and composable AI agen",
-    "reportIntro": "Unibase stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   },
   {
