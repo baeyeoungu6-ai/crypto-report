@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-14",
+    "slug": "2026-05-14-telcoin",
+    "coinId": "telcoin",
+    "coinName": "Telcoin",
+    "symbol": "TEL",
+    "title": "Why TEL Went Up Yesterday",
+    "priceChange24h": 26.1,
+    "volumeLabel": "Elevated",
+    "marketCap": "$333M",
+    "summary": "Telcoin was one of the strongest crypto movers yesterday, gaining 26.1% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 26.1% move.",
+      "Roughly $7M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Telcoin Price Prediction May 2026: Can TEL Reach $0.0037? - CoinDCX",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15TG9sU3R5RU5yQ2V3b1NoODh4YjNJU3hWWnZIWndnNzBmM0dXbkZKblh4TzBvS256ZXlQV3dIOHhHZWZ0VmR0bkRaeXVVRTZVbzhPdTNBa0tXVU4zUW43cG9aT0xnWmdt?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Telcoin (TEL) Surges 27% in 24 Hours Amid Broader Altcoin Rally - The Crypto Times",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd0dORmt5MTFnam1TMndLVzhpWkMxdjl5ZGhHbkN5a0lpUXBPM1lWSlY2SmlnYkw1cEl6LWhCaUhsTUZXbFJoQWQzRjJlOGF0VnpQaEl4TkZNVUhLdkJ4aDdvc3MyZjFaOXVydmRFMGFmemxubmNWXzNDZFBoM1kwYTdhME9GWjBiU21PekZmaWxqWDVJRmpmdnZTZDl5aVNP?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Where to Buy Telcoin (TEL): Secure Exchanges &amp; Trading Guide 2026 - Bitget",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jdXJrcU1VbEtESHRvaWZGcGhuLVRuVkZLajl0M3VhQ1l6OWdfaGw0Z25XUkNBSnkwUVpNMFd5NWdWUnNKWlVCdlZSWEkxMlc4cENSejRXVEU2QdIBX0FVX3lxTE1Zc2dCVi1RZzBaMnRqMElaNldvdkNtSllhRzdFUkV3Vjh1ZkdpTTd4YUJrVndWTUJoMlNEdGx3akhCLVRDY0hCVndOcEl2TTdheHVGT2djSTc5NmxFWjNv?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Telcoin is a multi-national fintech company integrating blockchain technology, telecommunications, and digital banking to revolutionize global finance. It aims to provide borderless, instant, and affordable financial services to mobile phone users worldwide. Telcoin offers the Telcoin Wallet, a multi-signature DeFi wal",
+    "reportIntro": "Telcoin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-13",
     "slug": "2026-05-13-unibase",
     "coinId": "unibase",
