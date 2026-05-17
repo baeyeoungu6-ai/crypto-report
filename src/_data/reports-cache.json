@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-16",
+    "slug": "2026-05-16-humanity",
+    "coinId": "humanity",
+    "coinName": "Humanity",
+    "symbol": "H",
+    "title": "Why H Went Up Yesterday",
+    "priceChange24h": 10.6,
+    "volumeLabel": "Strong",
+    "marketCap": "$435M",
+    "summary": "Humanity was one of the strongest crypto movers yesterday, gaining 10.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 10.6% move.",
+      "Roughly $30M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Humanity Protocol: $0.17 demand pocket remains a major target for traders - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHZPZFlkYXV2SVJuQ1FLczdHV3NKMXF2Yk9EZEw1QnpCSVprZHRwc2Z3OG5xWWYzQ0ZkZm1lMWtHNDRUUjcyOFp0VGp5SDZDTzZZeDBpTGZUcDZGWGxzelY3RXB3RlBRY1Q0LS1nem1nLTY2Zk5YVkxNcmRCREZBUkZ2N0pnYkVpRHpOMmVoWXJmNlhCRUstbHdn0gGfAUFVX3lxTE04NGFjcUtucVJlVUNVb1VwZVJZZ2ZHenJLbkkxZlRWaGctaUoxSjFJUmp4OUk3V2xfUXhNOUFEX2xneDZZdzFzRm5IczhIdWVkZWstVXZFa0hPdXkzN2dhXzk1ZUZ4ZXYtbnBlTGpDTjlwSnJ0WlZKRkdreUVCMmJmWUZ5Y1FGYjJYTGhmd2R0ZHNQNDJMVERSWFhmV1NNZw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Humanity Price Today in India | H to INR Live Price &amp; Chart - Binance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05ZHVJX2N6dDJHenp1V0ZfRkt1UWRfdzNzWHZMWE81X28zVHRGVy12TVVSZlRDZXVDQmRZdm5VZDBNWkI3VEVRSXRzVnR3Mkp4T1Z6bnZ5NE15eHI4RmpiWG9xbw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Humanity (H) Drops 7.13% Amid Broad Crypto Risk-Off - CoinMarketCap",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTWRLUV9ZNUlmV2dqenNHSVUtb1pTWjNJY3puS2VVeHlmQUQtcFByckZOYUNiMlFEZXB2OWtIc0FvUmp2M2h1bEdzQVl2XzNxZFczNUlHT1ZHNlNFRnpub2Y1LTVHTkV5RFlXaTQ1dXM?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Humanity Protocol is a blockchain featuring a native Proof of Humanity (PoH) consensus mechanism that verifies users' uniqueness as humans through decentralized identifiers (DID) and verifiable credentials (VC), combining privacy-preserving human recognition, decentralized storage, and zero-knowledge proofs to enable s",
+    "reportIntro": "Humanity stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-15",
     "slug": "2026-05-15-asteroid-shiba",
     "coinId": "asteroid-shiba",
