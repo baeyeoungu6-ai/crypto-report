@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-18",
+    "slug": "2026-05-18-the9bit",
+    "coinId": "the9bit",
+    "coinName": "The9bit",
+    "symbol": "9BIT",
+    "title": "Why 9BIT Went Up Yesterday",
+    "priceChange24h": 39.7,
+    "volumeLabel": "Elevated",
+    "marketCap": "$298M",
+    "summary": "The9bit was one of the strongest crypto movers yesterday, gaining 39.7% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 39.7% move.",
+      "Roughly $11M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "9BIT - The9bit - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uSHVHNzNqNGYwMi1hLWZhWnp3TEcteml0VlloUElyTEgwZnloN1hvR0s5ZVpJaHN6Xzh1ay1zbkpKZXFKZ3NnUFBka1g?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "the9bit Price | 9BIT Price Today, Live Chart, USD converter, Market Capitalization - CryptoRank",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40clptRDZRT1VFV1VQOHlFMTBjRlJFeVk4RHVkNU9jSGFubFJCRjdJYnBxMVgzRk5hdlNqREZJeEQ0LWJ6TVdDV1QxMGVMUQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Web3 Gaming Platform the9bit: 7M Users &amp; $9BIT Token Surge - BeInCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40UENFLUsycmE2MGRVaXVtOFUzWWVKb2U4aFJoeGZtS3k1LWpVNHdNYVBTcE5tYTBPdk85MGNoN25vWFp4bUZOQ1BhTjJtekk1eGppdGFXdzBCMUhBeENYM2l0MjJXZ2RF?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "The9bit is a social gaming platform that integrates game distribution, community hubs, and a reward system where user activities generate token-convertible points. the9bit is a social gaming and digital distribution platform designed to connect players, communities, and publishers through a unified reward-driven ecosys",
+    "reportIntro": "The9bit stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-17",
     "slug": "2026-05-17-block-street",
     "coinId": "block-street",
