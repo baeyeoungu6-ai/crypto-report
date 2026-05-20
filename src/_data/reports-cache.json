@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-19",
+    "slug": "2026-05-19-lighter",
+    "coinId": "lighter",
+    "coinName": "Lighter",
+    "symbol": "LIT",
+    "title": "Why LIT Went Up Yesterday",
+    "priceChange24h": 20.9,
+    "volumeLabel": "Strong",
+    "marketCap": "$302M",
+    "summary": "Lighter was one of the strongest crypto movers yesterday, gaining 20.9% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 20.9% move.",
+      "Roughly $59M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Lighter jumps 11% – But 2 major factors stand in LIT’s place - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMEZIeWJxNGNha0VHcW8tVGotZVNpMXJ3YWZzdi15SHdya29xZV9DNGNCWi1ncDZRZHpqWk1kZTIyOURRZlItLXZZS3B0bWswTnNwY3ZSZTBFUVhCUVljYXRZNE0yaktsZko1MDNBN21QWDJWcng4NnVSeG1xRmlZWFU5OEt1Y2F6QmRv0gGLAUFVX3lxTFAwRkh5YnE0Y2FrRUdxby1Uai1lU2kxcndhZnN2LXlId3Jrb3FlX0M0Y0JaLWdwNlFkempaTWRlMjI5RFFmUi0tdllLcHRtazBOc3BjdlJlMEVRWEJRWWNhdFk0TTJqS2xmSjUwM0E3bVBYMlZyeDg2dVJ4bXFGaVlYVTk4S3VjYXpCZG8?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Lighter price today, LIT to USD live price, marketcap and chart - CoinMarketCap",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ObUlSSWlpZnVkbU9UT0wzYVp1Yl9SaldnMGdoOWJ5MF9SUWNodFRPNmR5Z0xEbUxfdEdsVXRoYWI5ekVOYTc3dEpHWTZwNTExUTdUeVBHMlk?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "LIT Price Jumps 10% As Lighter Strikes $920 Million Deal with Circle - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQYmpIRFRuaThEeHYzdndpeDJJZ2RlSDRzTkEwSGU2cFgwbkplQmxERlkyVDZ0eTBHWUF1enhZZm0wWHZmcVNpOW5FNGJ5RVU2RDU0bEFuaTlxVnM5MU5Sdm5LcVB1Z2lUbG5uLTdJUHhHaEg1U3RfUTA3aE4?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Lighter is a decentralized trading platform built for unmatched security and scale. It’s the first exchange to offer verifiable order matching and liquidations while delivering best-in-class performance on par with traditional exchanges.",
+    "reportIntro": "Lighter stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-18",
     "slug": "2026-05-18-the9bit",
     "coinId": "the9bit",
