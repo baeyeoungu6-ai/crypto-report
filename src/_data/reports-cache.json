@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-20",
+    "slug": "2026-05-20-jito-governance-token",
+    "coinId": "jito-governance-token",
+    "coinName": "Jito",
+    "symbol": "JTO",
+    "title": "Why JTO Went Up Yesterday",
+    "priceChange24h": 32.4,
+    "volumeLabel": "High",
+    "marketCap": "$256M",
+    "summary": "Jito was one of the strongest crypto movers yesterday, gaining 32.4% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 32.4% move.",
+      "Roughly $131M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Jito Price Prediction 2026: Can JTO Reach $0.70 in May? - CoinDCX",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSX3BaanVXSUtkT2lPdWY3dnFJUGl2XzR6VkEwNmR0Z29sMGM5MlllQS1tcG1SOS1KdmI3Vk5qUWJ2VEJXTHRsc0Qwc0VXVkt2M1dVTEpYVkNsUVB3QjNwWm1TYmJzQ3JHa25uNC1LaXB5RW8?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Jito Price Today | JTO to AED Live Price, Market Cap &amp; Chart - Binance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QUDRvQ2Q2cmJhSjdvN3JWUGZOWXdDT05OSWVLRVczSVhpUTZJOXNGSGNhQnVUSDZXWmN0YnEzMi1RZXJjSU1jYmhha1ZHUlF4WEE?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "JTO to AMD: Convert JITO to Armenian Dram | Live JTO Price in AMD | MEXC - MEXC",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yUFdHQkpKUVZTUUVMMWVzbGNMVVpMZ1RJSFRydHNnRFBaNXJONERzdDdESm40U1JxbnJSTzNxY3N4VElZcWg3dTY3aG5FaXJVaGc?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "JTO is the governance token of the Jito Network. Jito Network is a major contributor to the Solana ecosystem through its JitoSOL liquid staking pool, and its collection of MEV products. Users can exchange their SOL for JitoSOL. In return, holders maintain SOL’s liquidity and DeFi opportunities while earning yield from ",
+    "reportIntro": "Jito stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-19",
     "slug": "2026-05-19-lighter",
     "coinId": "lighter",
@@ -477,46 +517,6 @@
     ],
     "about": "The Internet Computer is a decentralized cloud blockchain designed to run applications, websites, and backend systems fully on-chain. Its architecture provides robust security, resilience, and built-in multi-chain support. A key focus of the network is enabling a “self-writing cloud,” where AI tools allow users generat",
     "reportIntro": "Internet Computer stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-05-07",
-    "slug": "2026-05-07-jito-governance-token",
-    "coinId": "jito-governance-token",
-    "coinName": "Jito",
-    "symbol": "JTO",
-    "title": "Why JTO Went Up Yesterday",
-    "priceChange24h": 40.8,
-    "volumeLabel": "High",
-    "marketCap": "$272M",
-    "summary": "Jito was one of the strongest crypto movers yesterday, gaining 40.8% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 40.8% move.",
-      "Roughly $395M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Jito price prediction: Will $0.4305 resistance hold as JTO rallies 8.69% on Solana staking news? - Traders Union",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR3h1cTQ1LVZ5b2wtQ09nYS1rQWlQN3VYMUNVRldQQzB1WFotNnJYT3ZXcG5XMDlGSnMxTE1BRk4xTGVHSEJGNTlvZ2t5OXJvdVViaWEweFlpelBNOFBGWnRTbXlEQkw3cFgwNU5fTzgtel9sQzQtaWpHV3ZWTlc0bkEteHhFaXF5cWd5QWJlNVR4UDMxT1RjQ3BqRmZZQUNU?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Jito Price Prediction: Is JTO a Good Investment? - StealthEX",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJQmhwXy00MHRRTTkzR3NsRmpQSG5HcUpnX2V2Uk1Uc3pnZE1UZU9YVHNzUk9ZVllsc2g5SnZnbGRXMjhsUGJNOXBLLVJaMmh2bzRoOWwtWmYxNy13aTk1TTNJZXFmRW5qbXFtMkFiWTVLN2FfYTVZbW1jWGl5QQ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Investing in Jito - a16z crypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XRy1XZ2dfUEFacjVFU2xJTkR5eDd6YVlNbnBFUXR1OU9Va2RVX3J3b0xORFJMekJhOHF6TGpnU2ktdHlmejhXT25MMjVwQUFXX0lBdWlEazVhQ0dqdUxuaGVIbDZudw?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "JTO is the governance token of the Jito Network. Jito Network is a major contributor to the Solana ecosystem through its JitoSOL liquid staking pool, and its collection of MEV products. Users can exchange their SOL for JitoSOL. In return, holders maintain SOL’s liquidity and DeFi opportunities while earning yield from ",
-    "reportIntro": "Jito stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   },
   {
