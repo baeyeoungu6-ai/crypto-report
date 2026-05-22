@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-21",
+    "slug": "2026-05-21-grass",
+    "coinId": "grass",
+    "coinName": "Grass",
+    "symbol": "GRASS",
+    "title": "Why GRASS Went Up Yesterday",
+    "priceChange24h": 30,
+    "volumeLabel": "Strong",
+    "marketCap": "$255M",
+    "summary": "Grass was one of the strongest crypto movers yesterday, gaining 30.0% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 30.0% move.",
+      "Roughly $41M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "GRASS Price Prediction: Is GRASS Ready for a Stronger Comeback After Its 25% Jump? - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXBLTUFITlRXTUdiQVl2VUhxVDZia09NWS1oakVmeXhJZGNzY0JvczBDOGRGSklXUjJ1NUF6aDZFOGZDNjV2bDBWNjFGVWZTWXpIODI0RDBrc3dJNXg4LU0tUjJ1dnJaYkd4Q2I5eTVNU2FhU0l3ZEExbnZkVFpjblV6S1piUDg?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Grass Price Prediction 2026-2031: Will It Reach $0.50? - CoinDCX",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Zd2lacG8zSTh0VG9yMDRGNTJrSnprRGhaNTlyODRCNy1mcUJZNER0M2NsU0FaQ3NSQWZvekRUMFBoVXVPZHQtdXNLN0x6S0p6MHRQNmd4VTVaY0J0WWxCVDh4UUg4VHo3V1JLdzhpcjRCQQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "GRASS crypto eyes $0.52 as volume hits $19.8M – Will volatility cap gains? - Cryptonews.net",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBMzZEektzWjI0YmZpR21xLTNZWGotdUFjVE1qZ3lsdTFkQ19JaXpRWVQtZEVzcFV3SjFKTW81TmRncjVSR1ZCQkdjODRqbDh5SFl3enRlTlp6bXc?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Grass is a crypto asset tracked across major exchanges.",
+    "reportIntro": "Grass stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-20",
     "slug": "2026-05-20-jito-governance-token",
     "coinId": "jito-governance-token",
