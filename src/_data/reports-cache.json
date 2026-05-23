@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-22",
+    "slug": "2026-05-22-audiera",
+    "coinId": "audiera",
+    "coinName": "Audiera",
+    "symbol": "BEAT",
+    "title": "Why BEAT Went Up Yesterday",
+    "priceChange24h": 79.7,
+    "volumeLabel": "Strong",
+    "marketCap": "$358M",
+    "summary": "Audiera was one of the strongest crypto movers yesterday, gaining 79.7% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 79.7% move.",
+      "Roughly $86M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Audiera Price Today in Turkey | BEAT to TRY Live Price &amp; Chart - Binance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vU2Fhd01TeFR4ZUNQUTBXb0ZNRXZIMFh4XzNnTENuMDFKdWY4bnl1bWpYS2Y4NTBUWElfVlNsSTdielNJbl9LZEJTNF9kLTVEeElwX19n?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Audiera (BEAT) 5,000% Surge Faces Questions After Bitlight’s Sharp Decline - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kRklnMG9rMGVsSVpGZHZBSlJpMVNKWjl2aDFSZHVFR0xBZFBvSXJDdkp0Uk9hU2lpMWpZbl9wVmJQUkdZVURhYXhxbGFhN3lvY255NjBmNk01ZV80V2xSYTdrcGptV19YMmVYZlBCRkVOT1N6bEY3dzV3?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "BEAT - Audiera - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VTlZIVEd0Smt6a25TaWYteXhxQmdZT2c0eU9ic3h6MVJ3dVREVkRid3dxdE43eV90MTc1cE1hZzBhOGQtY29lX2lxZ3o?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Audiera (BEAT) pioneers the agent-native participation economy, where humans and autonomous AI agents act as equal economic participants. For the first time, Audiera introduces structured agent roles and participation rules — enabling agents to perform tasks, interact with users, create music, compete in rhythm battles",
+    "reportIntro": "Audiera stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-21",
     "slug": "2026-05-21-grass",
     "coinId": "grass",
