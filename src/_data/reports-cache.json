@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-23",
+    "slug": "2026-05-23-railgun",
+    "coinId": "railgun",
+    "coinName": "Railgun",
+    "symbol": "RAIL",
+    "title": "Why RAIL Went Up Yesterday",
+    "priceChange24h": 43.1,
+    "volumeLabel": "Elevated",
+    "marketCap": "$195M",
+    "summary": "Railgun was one of the strongest crypto movers yesterday, gaining 43.1% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 43.1% move.",
+      "Roughly $5M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "RAIL - Railgun - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBudUtfZGpoQjA3T3U2UnZwRXhGTExtbU9fU09hQW1DRzNKbExrWXJwTnlSZm9YQkZnOHZ6bzF6c1M5ZXZuRU1FVnVnTXU?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "How Railgun Uses Zero-Knowledge Proofs To Make Onchain Privacy Work - Yellow.com",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwTG9BM19EWllxNnc3T3d0M3dVUkR5T2dZSW1zT3FtZDNYVjdGeEJTYTUwM0EyWVQ2a01uUDZCTTJmcWVtWEhDZDJ1TWFWVFd6M2lib19Hc3AtN0wxTXFERzByMVJIV1EwM1JlOTdoNWFlUFgtLVgzZW5B?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Railgun token soars 300% as Ethereum Foundation integrates protocol into privacy wallet toolkit - dlnews.com",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWtfcEpLaXNKNGRreElmd0djNEN2dWYwYTBkUmhBZ015VjNXbXNZaHd6QkNGVU8yRU0xWnNadGRUZ2pzM1JfemdqRWxUb2I5QVhCU1pxaVR5cXI5bTlDOEZ3dTVZVFZOTWRXX05UWGVhbEc0TXJHSm4zZ0dqZXBudDc3dndHa09COXdFbmhLUlh6cFU3aHJvSDlhZkgwalpndi1HVV9XUGdwUDR3XzlVajNR?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "RAILGUN secures privacy for DEX trading and lending. Built without any bridge or layer-2, RAILGUN is a smart contract system that gives zk-SNARK privacy to any transaction or smart contract interaction on Ethereum. Using RAILGUN means users can stay private when they trade, send tokens, and manage their on-chain activi",
+    "reportIntro": "Railgun stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-22",
     "slug": "2026-05-22-audiera",
     "coinId": "audiera",
