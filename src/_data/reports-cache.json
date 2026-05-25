@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-24",
+    "slug": "2026-05-24-dexe",
+    "coinId": "dexe",
+    "coinName": "DeXe",
+    "symbol": "DEXE",
+    "title": "Why DEXE Went Up Yesterday",
+    "priceChange24h": 28.2,
+    "volumeLabel": "Strong",
+    "marketCap": "$817M",
+    "summary": "DeXe was one of the strongest crypto movers yesterday, gaining 28.2% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 28.2% move.",
+      "Roughly $43M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "DeXe leads crypto gains with 11.16% surge amid mixed altcoin market moves - Pluang",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdmE5S2p2Z1U4ejc0RVprZzY3eEZBall1U2dhYVNrZjNEc1puX01IV1JFekxJdjhpakFiR1A0YTVQTVFiQlpEREJyOHFmZWxFaFI3YUNrbXFRT0lJNndHT2dtSHVPa2x2c2ZzQnVDcVNCc3ZtaVRPY2dWNVhsS2s0amFjcE12T1BkRWRKNDhXS2lDRXY0cEg2eGI0NENKVXVCLXA0?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "DeXe (DEXE) Pullback: Routine Volatility, No Catalyst - CoinMarketCap",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybjdSc3JUODhzQ0pIZDZ4bUYxZHprUjVNOUlJMUhRYnVReTlDZEVTVjdoMXhtTlp1NnlNOXRvcXlwU2pLSUttemFuZ3Zzano1ZHZrS1VUbm5JdDBCSWd4TUREUlhvRktObUhpUTAxOW8?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "DEXE/USDT - Binance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yMEhTVTU5dFpMeENlYmN5clJ6UHVVUDZWOUFycTZadUFjcVVsamRBcjVwbWVzRUhDMndqeDFhWXZONl9pS1huendNdXFwTzMtNkVmZ1d4d0FXYUtNOHQ4Rmg3ZHVKalN2dVpCRmxVWk5BOGpSazFN?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "1. Using the DeXe Utility token in the ecosystem: 1.1 Programmed redemption and burning of tokens for a certain % of the traders’ compensation. 1.2 Control over DeXe treasury better. One of the DeXe functionality includes farming rewards with DeXe.network from social trading activity. 1.3 Use of the token by the holder",
+    "reportIntro": "DeXe stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-23",
     "slug": "2026-05-23-railgun",
     "coinId": "railgun",
