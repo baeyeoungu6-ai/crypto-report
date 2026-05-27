@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-26",
+    "slug": "2026-05-26-rain",
+    "coinId": "rain",
+    "coinName": "Rain",
+    "symbol": "RAIN",
+    "title": "Why RAIN Went Up Yesterday",
+    "priceChange24h": 43.5,
+    "volumeLabel": "Strong",
+    "marketCap": "$7.2B",
+    "summary": "Rain was one of the strongest crypto movers yesterday, gaining 43.5% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 43.5% move.",
+      "Roughly $42M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Rain token surges 43.6% on rising interest in decentralized weather prediction markets - Pluang",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXlvM1pGZWtsNjd1TEZMU05rajE2TFlfekFqWmpETG1pNHJSWlJSWEFZRmU0Sm1jV3dRVkFWME00aWN2eHBFLW90SXdtNFM2c0xNcDNaRVl2aDNnVmkweUt2MVJMOVU2RkhXUjJjS2ZhZloxUGhRbTZHU1o4TmdIUU9RUFhpLXBV?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Rain Coin Price Today in United States | RAIN to USD Live Price &amp; Chart - Binance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xMjRwbTNoSU56c19Ccl9ORXB2VXpaczVYcUF0aXhyRjlGaFYtSUV0R19oekxvY3Zhdi1pMDJtV3pDY2RNR0ZjZWRNcnNQbndhWl9KWQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Stablecoin startup Rain plans to issue cards with Mastercard in a push for institutional customers - Fortune",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXJDZml1Z3VvVGlDQ1lZUXlRdlBmYU1sWFJNUkEwNURvT01tMnUyd0o4dFNNcmV5aHRlT1lBVFBOdnpqWGg3OFIxb09KblhkTUlxMlktbTJRMW43cU9JQjRUQWVDMUFVdUl4aVY0V2dXcjNkbktRbVZqZG01LVdYZkJ3Ynd6SGY3amdJU01nSjN6UE0ydElvT1BQVTRsaXlIOG1XcQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Rain is a decentralized options protocol built on Arbitrum. It enables anyone to create and trade custom markets without restrictions, offering a permissionless framework for prediction and options trading. Public markets are resolved using Olympus AI’s oracle agent, while private markets allow creators to act as resol",
+    "reportIntro": "Rain stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-25",
     "slug": "2026-05-25-unibase",
     "coinId": "unibase",
