@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-27",
+    "slug": "2026-05-27-stellar",
+    "coinId": "stellar",
+    "coinName": "Stellar",
+    "symbol": "XLM",
+    "title": "Why XLM Went Up Yesterday",
+    "priceChange24h": 15.1,
+    "volumeLabel": "Very High",
+    "marketCap": "$5.7B",
+    "summary": "Stellar was one of the strongest crypto movers yesterday, gaining 15.1% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 15.1% move.",
+      "Roughly $728M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "DTCC taps Stellar (XLM) for tokenized securities network in latest Wall Street blockchain push - CoinDesk",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWktckNDVllsVlZOQUtxS2FLYUUtMjVkZEhmYklIZF9kUE55ZFpRM2lYZGZpcks1Rmgzd3lxYnZEZTkwb1VCdE4wX3h5SU1jNHJpOUVQbXB5NUQ3aHBpX1dGMEpGZWFseGNKTTZTVjA3THZlYVdfS1R0eUd4OEdaeUZCS2hUTkVsVlRKYTZBbTd1VzZweFdEeVQzNlE0WlJkWjVoV2drMF9YV2V5UHh3S1FoekRVRU5mbVFqaXZQbkROOTZzc0RnaUxn?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "XLM Price Jumps After DTCC And Stellar Move - Coinpedia",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVRhY3VVSnVDaUZDd2p0VHNzb2J3NlFETV9DbVhsUlhLdkdoQ3JFUThCMDU3NWY3OEFfNmItWVpac0U4NUtqbmFrV0kzUVBzMGxUcW8xWGhVeTNMNFRMWE16OWYwWkZFNjRjSmotb3ozY285WmI0dkx2OS1fcTJyVm5oOW9adG5m0gGOAUFVX3lxTE44aGZXd25keWkwdmx4QWNzSlEybWFUQTJYc1k1d21ZMUJaNmNOTWtTTVdsT1IxcUN1VTlZdFk1RjVHWnpKSEFndXJqdmFXbExvbWVnQXBVTFY2clVXa25LWXlpRVhwdWd4YVlYSG5zMzBxS0NOTjlMak14NTFtamZtM3hOTnF5SUZLbXNNS0E?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Stellar (XLM) Hits a ‘Buy Zone’, But Here’s Where It Gets Messy - DailyCoin",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1kwTGlxd042RGVEcTJZV1FHWHFtTFFXbHpaTkpYajA4UExoM2NBeURmTzd3aldrLWZlWGN5V19uWEhtcXVCZklLYWVRQ1RTbjFIWkVZQmRMbzROc09uaS1OTnduZ2c3MWdhTjVHNER5SXBPWnZsU1hwYXF6WTV0cXg1SEVaN1E?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Stellar is an open-source, decentralized network co-founded in 2014 by Jed McCaleb and Joyce Kim to facilitate the fast and low-cost transfer of value across different currencies and assets globally. Managed by the non-profit Stellar Development Foundation, the project serves as a global infrastructure that connects ba",
+    "reportIntro": "Stellar stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-26",
     "slug": "2026-05-26-rain",
     "coinId": "rain",
