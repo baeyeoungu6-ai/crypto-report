@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-05-28",
+    "slug": "2026-05-28-plasma",
+    "coinId": "plasma",
+    "coinName": "Plasma",
+    "symbol": "XPL",
+    "title": "Why XPL Went Up Yesterday",
+    "priceChange24h": 18.7,
+    "volumeLabel": "High",
+    "marketCap": "$253M",
+    "summary": "Plasma was one of the strongest crypto movers yesterday, gaining 18.7% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 18.7% move.",
+      "Roughly $110M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Plasma (XPL Crypto) Loses 85 % of Its Value in Six Weeks: What Happened? - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zTWFFYjA5TUFFaTlPM0FFX0ljSDFyUEZYWDlpMXdWeDRkSG84aWs1VEp3MEpQVDJ5SS1iYkQ2dG16YmppRFJVQXEwRVNOMmZwSksweEN0SEhuWHA3WWdPNUQ5dW14dlh6ajJ6M3I1b3ZVeDhJUUgzXzNZeFQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "XPL Whale Nets $11M From Plasma Public Sale - CoinMarketCap",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ3Z6ellKRVY5eUdkN3RCcUtySGdmUDVPak14X3BBLUMxRGttR2lYRW05ejJsTUg5RjJCcDZ1akN4VnBZT0JDb0JzSHhXSGRubHhrb1E1UHJ5OTdrZmgtVUU4d1NCUVBXZXRoMjh2QXROdHZ4dVpMd1hyWmRPZGtDU0tHWkJ0V184TzAwMEg1dTBGN0lR?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Plasma Hits the Top 10: What’s Driving the 85% TVL Surge This Month? - KuCoin",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44REt3bjNPdDJBRnpZMmhLcktody1hVHpEb3JvSjBZMC1oSkRsTkx3VmNBNjgwYWstd3hmNjh6WjQtX3VGVWl2UWwtZUZfQzlUZzBEWWpXSUI2V1B5bWpOS2tIQjA2UC05QVFWSk0yZE1Qd3ZVMmtOVk9Pdw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Plasma is the layer 1 blockchain building the stablecoin infrastructure for a new global financial system. It is purpose-built for global stablecoin payments, offering zero-fee USD₮ transfers and custom gas tokens to help realise the stablecoin promise of permissionless access to financial services for everyone, everyw",
+    "reportIntro": "Plasma stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-27",
     "slug": "2026-05-27-stellar",
     "coinId": "stellar",
