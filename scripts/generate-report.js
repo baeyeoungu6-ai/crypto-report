@@ -2,7 +2,9 @@ const fs = require("fs");
 const path = require("path");
 
 const CACHE_FILE = path.join(__dirname, "..", "src", "_data", "reports-cache.json");
+const TOP_MOVERS_FILE = path.join(__dirname, "..", "src", "_data", "top-movers-cache.json");
 const SITE_FILE = path.join(__dirname, "..", "src", "_data", "site.js");
+const FETCH_TIMEOUT_MS = 8000;
 
 function loadSite() {
   delete require.cache[require.resolve(SITE_FILE)];
@@ -10,11 +12,15 @@ function loadSite() {
 }
 
 async function fetchJson(url) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+
   const response = await fetch(url, {
+    signal: controller.signal,
     headers: {
       accept: "application/json"
     }
-  });
+  }).finally(() => clearTimeout(timeout));
 
   if (!response.ok) {
     throw new Error(`HTTP ${response.status} for ${url}`);
@@ -33,6 +39,10 @@ function loadCache() {
 
 function saveCache(data) {
   fs.writeFileSync(CACHE_FILE, JSON.stringify(data, null, 2) + "\n");
+}
+
+function saveTopMovers(data) {
+  fs.writeFileSync(TOP_MOVERS_FILE, JSON.stringify(data, null, 2) + "\n");
 }
 
 function getYesterdayDate() {
@@ -55,6 +65,24 @@ function shortCap(n) {
   }
 
   return `$${Math.round(n / 1_000_000)}M`;
+}
+
+function formatUsd(value) {
+  if (typeof value !== "number" || Number.isNaN(value)) return "$0";
+
+  if (value >= 1_000_000_000_000) {
+    return `$${(value / 1_000_000_000_000).toFixed(2)}T`;
+  }
+
+  if (value >= 1_000_000_000) {
+    return `$${(value / 1_000_000_000).toFixed(2)}B`;
+  }
+
+  if (value >= 1_000_000) {
+    return `$${(value / 1_000_000).toFixed(2)}M`;
+  }
+
+  return `$${value.toFixed(2)}`;
 }
 
 function activityLabel(volume) {
@@ -82,7 +110,11 @@ async function fetchGoogleNews(coinName, coinSymbol) {
   try {
     const query = encodeURIComponent(`${coinName} ${coinSymbol} crypto`);
     const rssUrl = `https://news.google.com/rss/search?q=${query}&hl=en-US&gl=US&ceid=US:en`;
-    const response = await fetch(rssUrl);
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+    const response = await fetch(rssUrl, {
+      signal: controller.signal
+    }).finally(() => clearTimeout(timeout));
 
     if (!response.ok) {
       throw new Error(`HTTP ${response.status} for ${rssUrl}`);
@@ -139,10 +171,55 @@ async function fetchDetails(coinId) {
   return fetchJson(url);
 }
 
+function buildTopMovers(markets) {
+  const excluded = new Set([
+    "tether",
+    "usd-coin",
+    "binance-usd",
+    "dai",
+    "usde",
+    "ethena-usde",
+    "first-digital-usd",
+    "usdd",
+    "frax",
+    "true-usd",
+    "pax-dollar",
+    "paypal-usd",
+    "wrapped-bitcoin",
+    "staked-ether",
+    "weth"
+  ]);
+
+  return {
+    updatedAt: new Date().toISOString(),
+    items: markets
+      .filter((coin) =>
+        typeof coin.price_change_percentage_24h === "number" &&
+        coin.price_change_percentage_24h > 0 &&
+        (coin.market_cap || 0) >= 50_000_000 &&
+        (coin.total_volume || 0) >= 10_000_000 &&
+        !excluded.has(coin.id)
+      )
+      .sort((a, b) => b.price_change_percentage_24h - a.price_change_percentage_24h)
+      .slice(0, 10)
+      .map((coin, index) => ({
+        rank: index + 1,
+        id: coin.id,
+        name: coin.name,
+        symbol: coin.symbol.toUpperCase(),
+        image: coin.image,
+        price: formatUsd(coin.current_price || 0),
+        change24h: Number(coin.price_change_percentage_24h.toFixed(1)),
+        marketCap: formatUsd(coin.market_cap || 0),
+        volume: formatUsd(coin.total_volume || 0)
+      }))
+  };
+}
+
 async function main() {
   const site = loadSite();
   const existing = loadCache();
-  const usedCoinIds = existing.slice(0, 3).map((item) => item.coinId);
+  const usedCoinIds = existing.map((item) => item.coinId);
 
   const marketUrl =
     "https://api.coingecko.com/api/v3/coins/markets" +
@@ -154,6 +231,7 @@ async function main() {
     "&price_change_percentage=24h";
 
   const markets = await fetchJson(marketUrl);
+  saveTopMovers(buildTopMovers(markets));
 
   const candidates = markets
     .filter((coin) =>
@@ -172,8 +250,10 @@ async function main() {
     return;
   }
 
-  const details = await fetchDetails(selected.id);
-  const news = await fetchNews(selected.id, selected.name, selected.symbol.toUpperCase());
+  const [details, news] = await Promise.all([
+    fetchDetails(selected.id).catch(() => null),
+    fetchNews(selected.id, selected.name, selected.symbol.toUpperCase())
+  ]);
 
   const date = getYesterdayDate();
   const report = {
@@ -197,7 +277,8 @@ async function main() {
   };
 
   const nextReports = [report, ...existing]
-    .filter((item, index, arr) => arr.findIndex((x) => x.coinId === item.coinId) === index);
+    .filter((item, index, arr) => arr.findIndex((x) => x.coinId === item.coinId) === index)
+    .slice(0, 3);
 
   saveCache(nextReports);
 
