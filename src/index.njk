@@ -112,6 +112,7 @@ permalink: /index.html
   const tickerMap = new Map();
   let socket = null;
   let reconnectTimer = null;
+  let renderScheduled = false;
 
   function formatPrice(value) {
     const num = Number(value);
@@ -147,6 +148,8 @@ permalink: /index.html
   }
 
   function renderTop10() {
+    renderScheduled = false;
+
     const tbody = document.getElementById("live-top10-body");
     const status = document.getElementById("top10-status");
 
@@ -199,6 +202,12 @@ permalink: /index.html
     status.textContent = `Live Binance Futures data · updated ${formatTime(new Date())}`;
   }
 
+  function scheduleRenderTop10() {
+    if (renderScheduled) return;
+    renderScheduled = true;
+    window.requestAnimationFrame(renderTop10);
+  }
+
   async function fetchJson(url) {
     const response = await fetch(url);
     if (!response.ok) {
@@ -233,7 +242,6 @@ permalink: /index.html
       });
     });
 
-    renderTop10();
   }
 
   function scheduleReconnect() {
@@ -268,7 +276,7 @@ permalink: /index.html
         });
       });
 
-      renderTop10();
+      scheduleRenderTop10();
     };
 
     socket.onclose = () => {
@@ -285,12 +293,13 @@ permalink: /index.html
     const status = document.getElementById("top10-status");
 
     try {
-      status.textContent = "Loading Binance Futures symbols…";
-      await loadAllowedSymbols();
+      status.textContent = "Loading Binance Futures data...";
+      await Promise.all([
+        loadAllowedSymbols(),
+        loadInitialTickers()
+      ]);
 
-      status.textContent = "Loading 24h futures movers…";
-      await loadInitialTickers();
-
+      scheduleRenderTop10();
       connectSocket();
     } catch (error) {
       console.error("Failed to load Binance Futures top gainers:", error);
