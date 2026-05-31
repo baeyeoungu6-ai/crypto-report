@@ -1,4 +1,115 @@
 {
-  "updatedAt": null,
-  "items": []
+  "updatedAt": "2026-05-31T04:46:59.986Z",
+  "items": [
+    {
+      "rank": 1,
+      "id": "humanity",
+      "name": "Humanity",
+      "symbol": "H",
+      "image": "https://coin-images.coingecko.com/coins/images/66811/large/H_tokenLogo_original.png?1750581252",
+      "price": "$0.39",
+      "change24h": 38.3,
+      "marketCap": "$706.84M",
+      "volume": "$183.98M"
+    },
+    {
+      "rank": 2,
+      "id": "lab",
+      "name": "LAB",
+      "symbol": "LAB",
+      "image": "https://coin-images.coingecko.com/coins/images/70014/large/lab.png?1760352822",
+      "price": "$8.42",
+      "change24h": 23.6,
+      "marketCap": "$3.41B",
+      "volume": "$134.02M"
+    },
+    {
+      "rank": 3,
+      "id": "worldcoin-wld",
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "image": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903",
+      "price": "$0.34",
+      "change24h": 18.4,
+      "marketCap": "$1.15B",
+      "volume": "$338.97M"
+    },
+    {
+      "rank": 4,
+      "id": "fetch-ai",
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "image": "https://coin-images.coingecko.com/coins/images/5681/large/ASI.png?1719827289",
+      "price": "$0.28",
+      "change24h": 17.6,
+      "marketCap": "$625.15M",
+      "volume": "$299.90M"
+    },
+    {
+      "rank": 5,
+      "id": "bianrensheng",
+      "name": "币安人生 (BinanceLife)",
+      "symbol": "币安人生",
+      "image": "https://coin-images.coingecko.com/coins/images/69848/large/%E5%B8%81%E5%AE%89%E4%BA%BA%E7%94%9F.png?1759839225",
+      "price": "$0.50",
+      "change24h": 13.2,
+      "marketCap": "$506.53M",
+      "volume": "$51.68M"
+    },
+    {
+      "rank": 6,
+      "id": "aster-2",
+      "name": "Aster",
+      "symbol": "ASTER",
+      "image": "https://coin-images.coingecko.com/coins/images/69040/large/_ASTER.png?1757326782",
+      "price": "$0.76",
+      "change24h": 12.6,
+      "marketCap": "$1.97B",
+      "volume": "$272.45M"
+    },
+    {
+      "rank": 7,
+      "id": "binancecoin",
+      "name": "BNB",
+      "symbol": "BNB",
+      "image": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
+      "price": "$733.54",
+      "change24h": 11.6,
+      "marketCap": "$98.85B",
+      "volume": "$3.42B"
+    },
+    {
+      "rank": 8,
+      "id": "venice-token",
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "image": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
+      "price": "$17.42",
+      "change24h": 11.5,
+      "marketCap": "$808.11M",
+      "volume": "$46.10M"
+    },
+    {
+      "rank": 9,
+      "id": "pancakeswap-token",
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "image": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440",
+      "price": "$1.54",
+      "change24h": 11.3,
+      "marketCap": "$500.66M",
+      "volume": "$78.24M"
+    },
+    {
+      "rank": 10,
+      "id": "bitget-token",
+      "name": "Bitget Token",
+      "symbol": "BGB",
+      "image": "https://coin-images.coingecko.com/coins/images/11610/large/Bitget_logo.png?1736925727",
+      "price": "$2.21",
+      "change24h": 10.9,
+      "marketCap": "$1.55B",
+      "volume": "$34.40M"
+    }
+  ]
 }
