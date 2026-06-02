@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-01",
+    "slug": "2026-06-01-skyai",
+    "coinId": "skyai",
+    "coinName": "SkyAI",
+    "symbol": "SKYAI",
+    "title": "Why SKYAI Went Up Yesterday",
+    "priceChange24h": 47.8,
+    "volumeLabel": "Strong",
+    "marketCap": "$255M",
+    "summary": "SkyAI was one of the strongest crypto movers yesterday, gaining 47.8% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 47.8% move.",
+      "Roughly $43M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Sharps Technology Becomes SkyAI, Inc. with New Ticker Symbol “SKYA”; Establishing Category-defining Agentic Finance Platform Serving Global South - Stock Titan",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTENNN1NMdnBhXzZyUXl4ZTBBU1JZS1dxRFhqMkdlYUE4YkVqTHc4MC02aDYtT2NfRVhhS3ZDMkxxTnZWa0poRzUwU3dHZzFTM2FMaFBKOGtYQm9FWFpLSXFwTlc2eXFBRkhMaDd2SlpJbklkcjFmVC0yNEVCTHY3N0QySl92ZjlVOXJ3MU5Nc3FhbjdZNHpCRFFEbHRrWFIwMmZtVDR4djBmU0h2d2NpcmRjVzdJSEtSY1ZN?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Learn All Crypto Topics | Phemex Academy - Phemex",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yUGxxM01UNm14Znc4LWRJRUlZZENtTFJsYjc4bFIxX2Q2OWJkaFJ0alRadVh1S0NIQXdKWGNnYUoxN0MxSERCV2xGNlNFbHEzVlhyU193TVRMZUZZbDNaWGNLVzF3QTFKc25VNTNCOWx0dzdwTk83bWliMA?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "3 Altcoins to Watch as SKYAI Surges 300% in the First Week of May - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd01EZnI0WjhhM2loS2thR1U5STIyQkFtSGJCQUdsLVpqQVJ5ODlIbURCZDNGTjNPT0NKYnFoYXlFZm1DeTlYcVBmT2UwSUdza3M0R04zbzBJeGRUcTJTZV8wVzZUakN2MzBvZEdYZUpmWHZwcUhHN21IX3B3UF9HZWdRZEpxalpJc1gtQXprMDB2YVBEdkhwdldB?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "SkyAI is an all-in-one AI ecosystem powered by MCP, designed to seamlessly integrate intelligent solutions across industries.",
+    "reportIntro": "SkyAI stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-05-31",
     "slug": "2026-05-31-humanity",
     "coinId": "humanity",
@@ -77,46 +117,6 @@
     ],
     "about": "The mission of the Worldcoin project is to build the world’s largest identity and financial network as a public utility, giving ownership to everyone. A key component of the Worldcoin project is the development of the foundational infrastructure that will be important for a world where AI plays an increasingly large ro",
     "reportIntro": "Worldcoin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-05-29",
-    "slug": "2026-05-29-lab",
-    "coinId": "lab",
-    "coinName": "LAB",
-    "symbol": "LAB",
-    "title": "Why LAB Went Up Yesterday",
-    "priceChange24h": 53.8,
-    "volumeLabel": "High",
-    "marketCap": "$502M",
-    "summary": "LAB was one of the strongest crypto movers yesterday, gaining 53.8% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 53.8% move.",
-      "Roughly $141M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Is LAB’s current rally real? Price rises 16% on Futures buying - AMBCrypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2R1YUhiRi1rMGF6Y0h3ak45eXFiVFk0MEhnaVNjTHl4M0ZUc3p3ZmxET1dkV0o2WVdjWHBXMk83SWFGcmNPQzZPZmQ4NjNYVmlac1JMNXRpMWhFMFY3b1NkRFVCdVNuVjY4VkxxQ0c5YlRwWUpfVzhGV3NndU9yaThZdkVNUDVHeUHSAY8BQVVfeXFMUDRJYkQzZlg5T1NSWjhYNDllTm9kOGVlMWtOSkVQTXRka01kejhUU3JCTm5INzV5Y1BleEJOejVYZUNEUDl3QkZQZnc3SWpjYndPNGI0WTJNdEdtYWRyQVRUV0R0N2N6d1hmcHpJcWFXbWdITnhnYmJsRXZ2N25BaHFMX0FEZ1VJU2JKUFVCeFE?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "LAB price today, LAB to USD live price, marketcap and chart - CoinMarketCap",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nbmJTVFRHRktOLU5YYXBUaUdaM0ZaVHFfeU5aNkFaWU84cmltUG1XR1Yyd2VLV0J6eF9abFFqWjJHX0JiY0JDX0gzTkdRNHRDa2JJ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "What Is Lab (LAB)? Your 2025 AI Trading Token Guide - Phemex",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3dXJBdVBFTDdLSEp4OVJ6aFhyaFA3Q0ZERkg3NEE0ekxEdTVGTVU3RkJQR3lPNVFWUVdGblZkcDVsMlNVVHY0b2t6M05LZjhGa0ZXYTN5aw?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "LAB is the first all-in-one trading ecosystem, enabling faster execution, the lowest market fees, and a viral incentive layer powered by $LAB. Integrated with existing trading platforms it allows to tap into an established network while creating a unified environment for a new trading experience. LAB brings together tr",
-    "reportIntro": "LAB stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]

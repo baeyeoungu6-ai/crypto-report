@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-01T05:09:16.853Z",
+  "updatedAt": "2026-06-02T04:56:55.509Z",
   "items": [
     {
       "rank": 1,
-      "id": "humanity",
-      "name": "Humanity",
-      "symbol": "H",
-      "image": "https://coin-images.coingecko.com/coins/images/66811/large/H_tokenLogo_original.png?1750581252",
-      "price": "$0.63",
-      "change24h": 63.3,
-      "marketCap": "$1.17B",
-      "volume": "$367.40M"
-    },
-    {
-      "rank": 2,
-      "id": "home",
-      "name": "HOME",
-      "symbol": "HOME",
-      "image": "https://coin-images.coingecko.com/coins/images/54873/large/defi-app.png?1742235743",
-      "price": "$0.04",
-      "change24h": 43,
-      "marketCap": "$159.57M",
-      "volume": "$111.79M"
-    },
-    {
-      "rank": 3,
-      "id": "bianrensheng",
-      "name": "币安人生 (BinanceLife)",
-      "symbol": "币安人生",
-      "image": "https://coin-images.coingecko.com/coins/images/69848/large/%E5%B8%81%E5%AE%89%E4%BA%BA%E7%94%9F.png?1759839225",
-      "price": "$0.64",
-      "change24h": 28,
-      "marketCap": "$639.76M",
-      "volume": "$104.71M"
-    },
-    {
-      "rank": 4,
       "id": "lab",
       "name": "LAB",
       "symbol": "LAB",
       "image": "https://coin-images.coingecko.com/coins/images/70014/large/lab.png?1760352822",
-      "price": "$10.34",
-      "change24h": 21.6,
-      "marketCap": "$4.17B",
-      "volume": "$98.26M"
+      "price": "$18.67",
+      "change24h": 83.3,
+      "marketCap": "$5.85B",
+      "volume": "$230.99M"
+    },
+    {
+      "rank": 2,
+      "id": "skyai",
+      "name": "SkyAI",
+      "symbol": "SKYAI",
+      "image": "https://coin-images.coingecko.com/coins/images/55294/large/1.png?1745517593",
+      "price": "$0.25",
+      "change24h": 47.8,
+      "marketCap": "$255.14M",
+      "volume": "$42.51M"
+    },
+    {
+      "rank": 3,
+      "id": "pieverse",
+      "name": "Pieverse",
+      "symbol": "PIEVERSE",
+      "image": "https://coin-images.coingecko.com/coins/images/68773/large/pieverse.png?1756546685",
+      "price": "$0.92",
+      "change24h": 26.3,
+      "marketCap": "$245.54M",
+      "volume": "$53.79M"
+    },
+    {
+      "rank": 4,
+      "id": "humanity",
+      "name": "Humanity",
+      "symbol": "H",
+      "image": "https://coin-images.coingecko.com/coins/images/66811/large/H_tokenLogo_original.png?1750581252",
+      "price": "$0.79",
+      "change24h": 21.8,
+      "marketCap": "$1.42B",
+      "volume": "$592.18M"
     },
     {
       "rank": 5,
-      "id": "falcon-finance-ff",
-      "name": "Falcon Finance",
-      "symbol": "FF",
-      "image": "https://coin-images.coingecko.com/coins/images/69121/large/ff.png?1757573403",
-      "price": "$0.12",
-      "change24h": 15.7,
-      "marketCap": "$274.19M",
-      "volume": "$24.27M"
-    },
-    {
-      "rank": 6,
       "id": "worldcoin-wld",
       "name": "Worldcoin",
       "symbol": "WLD",
       "image": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903",
-      "price": "$0.39",
-      "change24h": 12.7,
-      "marketCap": "$1.31B",
-      "volume": "$286.81M"
+      "price": "$0.46",
+      "change24h": 19.7,
+      "marketCap": "$1.56B",
+      "volume": "$862.97M"
+    },
+    {
+      "rank": 6,
+      "id": "jito-governance-token",
+      "name": "Jito",
+      "symbol": "JTO",
+      "image": "https://coin-images.coingecko.com/coins/images/33228/large/jto.png?1701137022",
+      "price": "$0.60",
+      "change24h": 14.8,
+      "marketCap": "$287.71M",
+      "volume": "$92.33M"
     },
     {
       "rank": 7,
-      "id": "venice-token",
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "image": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
-      "price": "$19.44",
-      "change24h": 9.8,
-      "marketCap": "$906.22M",
-      "volume": "$79.53M"
+      "id": "near",
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "image": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "price": "$2.67",
+      "change24h": 14.2,
+      "marketCap": "$3.48B",
+      "volume": "$1.09B"
     },
     {
       "rank": 8,
-      "id": "stellar",
-      "name": "Stellar",
-      "symbol": "XLM",
-      "image": "https://coin-images.coingecko.com/coins/images/100/large/fmpFRHHQ_400x400.jpg?1735231350",
-      "price": "$0.26",
-      "change24h": 9.4,
-      "marketCap": "$8.82B",
-      "volume": "$1.29B"
+      "id": "unibase",
+      "name": "Unibase",
+      "symbol": "UB",
+      "image": "https://coin-images.coingecko.com/coins/images/69108/large/unibase.png?1757501820",
+      "price": "$0.18",
+      "change24h": 12.2,
+      "marketCap": "$455.42M",
+      "volume": "$24.59M"
     },
     {
       "rank": 9,
-      "id": "sky",
-      "name": "Sky",
-      "symbol": "SKY",
-      "image": "https://coin-images.coingecko.com/coins/images/39925/large/sky.jpg?1724827980",
-      "price": "$0.07",
-      "change24h": 7.5,
-      "marketCap": "$1.61B",
-      "volume": "$13.77M"
+      "id": "billions-network",
+      "name": "Billions Network",
+      "symbol": "BILL",
+      "image": "https://coin-images.coingecko.com/coins/images/68464/large/billions.png?1755828007",
+      "price": "$0.09",
+      "change24h": 10.9,
+      "marketCap": "$218.98M",
+      "volume": "$61.55M"
     },
     {
       "rank": 10,
-      "id": "the-open-network",
-      "name": "Toncoin",
-      "symbol": "TON",
-      "image": "https://coin-images.coingecko.com/coins/images/17980/large/photo_2024-09-10_17.09.00.jpeg?1725963446",
-      "price": "$1.99",
-      "change24h": 6.8,
-      "marketCap": "$5.32B",
-      "volume": "$283.12M"
+      "id": "home",
+      "name": "HOME",
+      "symbol": "HOME",
+      "image": "https://coin-images.coingecko.com/coins/images/54873/large/defi-app.png?1742235743",
+      "price": "$0.05",
+      "change24h": 10.3,
+      "marketCap": "$173.67M",
+      "volume": "$125.68M"
     }
   ]
 }
