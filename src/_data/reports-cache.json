@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-02",
+    "slug": "2026-06-02-genius-3",
+    "coinId": "genius-3",
+    "coinName": "Genius",
+    "symbol": "GENIUS",
+    "title": "Why GENIUS Went Up Yesterday",
+    "priceChange24h": 19.9,
+    "volumeLabel": "Strong",
+    "marketCap": "$181M",
+    "summary": "Genius was one of the strongest crypto movers yesterday, gaining 19.9% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 19.9% move.",
+      "Roughly $61M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Genius Terminal Price Today | GENIUS to USD Live Price, Market Cap &amp; Chart - Binance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxVlFGaFV1R1A1MHo2aVpLd043VldUNUJxeHhqMHU5UmNPVlk5TDdhT3ZiZkRIVk1HQmRvTi1FbWdSbEp4VzFOYUlPODR1UU43NlV4bnN0ajh4dENN?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "The GENIUS Act: Blockchain Association Shares Opinion on Stablecoin Regulation with Treasury - Crowdfund Insider",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOXdvOGFVS0hZaGRpdGZMVTUySVhfMXRzaU5obUZvbVJPaktoMjdkNEVPeVZEeGtWeFREUGJIOGxaRllIUl9sUTEzZ0I3MGtoUy1TSTUwNmNvMm9wNG5ZN21NdlVaS3lnMzhITl9VYmI4U2h2N21XRGFIa08tU1NIWlQ4VjF4V21hd2xFVDJ0dV9FNHNuRGFWdy0tUHVtMjI1TGViVWRPQ2JYV3N6R25ZbEhxUEhmOTlhdVNRaDlZMlNpUHVlUFN2M1dPSHBGUGJGRlRLcXYwbw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "U.S. Congress Returns as GENIUS Comments Periods Close, Jobs Report: Crypto Week Ahead - Moomoo",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2JkcG9MQ1Z6VDl1ei1SOERXNXR1Tzg1UF9OUnpieGVua3NmYnJ3TUNXWUdreW9PMEJVaFNNX3prNkxTSDB0OF9MYVF1OF9wM2sta2Jjdi01dWNwSUxzRDMxal9oSzlUZWl0YkdLZmI1SXFwT2lSQU1yNFBqR3ktUU1UYnc3c1I2cUFQSFZwLUFyZHpMalJ3VElsN2hUNjVpTGRjMVlxOXhlQQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Genius Terminal is the first private and final onchain terminal. It’s what comes after aggregators, intents bridges, and wallet extensions — a purpose-built trading OS for professional users who want DeFi without DeFi UX.",
+    "reportIntro": "Genius stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-01",
     "slug": "2026-06-01-skyai",
     "coinId": "skyai",
@@ -77,46 +117,6 @@
     ],
     "about": "Humanity Protocol is a blockchain featuring a native Proof of Humanity (PoH) consensus mechanism that verifies users' uniqueness as humans through decentralized identifiers (DID) and verifiable credentials (VC), combining privacy-preserving human recognition, decentralized storage, and zero-knowledge proofs to enable s",
     "reportIntro": "Humanity stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-05-30",
-    "slug": "2026-05-30-worldcoin-wld",
-    "coinId": "worldcoin-wld",
-    "coinName": "Worldcoin",
-    "symbol": "WLD",
-    "title": "Why WLD Went Up Yesterday",
-    "priceChange24h": 18.4,
-    "volumeLabel": "High",
-    "marketCap": "$1.2B",
-    "summary": "Worldcoin was one of the strongest crypto movers yesterday, gaining 18.4% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 18.4% move.",
-      "Roughly $339M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Worldcoin Price, WLD Price, Live Charts, and Marketcap: worldcoin price, worldcoin, wld price - Coinbase Portugal - Coinbase",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BakFBWHVoOUFuU00taV9GeUZSRUd6ZzVUaU9tS252czFiMGFrUzhYVS1VYVJQaFVaNEZDbVpsSXBVQ3F1eXlOS1h6MGw5ZVluS2FDM2FhbjRtZ1FKRGhZ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Worldcoin – Liquidation pressure takes its toll, but can its price recover fully? - AMBCrypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0xZaEtoMEFURDN2dGlMemNkVTBTN293LVJ2Y3FROWZqYWNhU0VlbFo2ZFFnWGVkTlJSLUlHMzZwb3hjZmZsYjhBZEl6Qjc1NmpSa2l2eE1fT1VGcXlBWlRYRlluOWVxalF5RXUtYnpOaXZMYXFwbkdTUlhQVElmaGdma3B2cEkzZHUwdzJPX0EwcF80dVRFSlo3NzNrTWVjMlHSAacBQVVfeXFMUFpsLVN2Q3RaelFaOTJVNjlES1NVNkZHeU1yRERmRkppaFQ1VktGM1N6aWdMVjRhaDRyclpxbWRaZnZUb0tqYTNxenJSNUFqN19UZ09NX1F6eTZ6TFlLSWFxMWc5aUtLSjFKUXctc2dkOE1mSDcwODBzZUlhWklHZDZvbFBTRkx0VHFRMmZodU04RnJ4WWk0SzdwUVBKWFJPcHpQeFZnLUE?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Worldcoin (WLD) Plummets 19.7% Amid Market-Wide Selloff - CoinMarketCap",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UMS11ckV1cFZENUdWeFE3d05tOThhYXl1TTIxbS1fcjdGcmlfRXNXaXZIU1Nxb0UwcElqR3dLTk5weTdsbWVZN2NQS1NxaXc3TVlDMUJrYjBBV2FzdGFUUlFEd1pBWGYza3JpVm50U0g?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "The mission of the Worldcoin project is to build the world’s largest identity and financial network as a public utility, giving ownership to everyone. A key component of the Worldcoin project is the development of the foundational infrastructure that will be important for a world where AI plays an increasingly large ro",
-    "reportIntro": "Worldcoin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
