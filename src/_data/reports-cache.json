@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-03",
+    "slug": "2026-06-03-worldcoin-wld",
+    "coinId": "worldcoin-wld",
+    "coinName": "Worldcoin",
+    "symbol": "WLD",
+    "title": "Why WLD Went Up Yesterday",
+    "priceChange24h": 25.8,
+    "volumeLabel": "Very High",
+    "marketCap": "$1.7B",
+    "summary": "Worldcoin was one of the strongest crypto movers yesterday, gaining 25.8% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 25.8% move.",
+      "Roughly $1.1B in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Arthur Hayes Puts A $10 Price Target On Sam Altman’s Worldcoin – WLD Token Rallies To 4-Month High - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOERtZWpoMEhKWnRRc0hnV3Exa2VCN2tFTXpJVW1fcFRwZDJSX2ZBZEt4TVVfbEN1NFFva0x3bUJtX0ROSWVkYWVKVlpTQy1wT2g4Q2dMUlQxRTdIMXptaFBKU3lyRk1jRWU3OHllQ0xZMUxwWUJ0V2dnSW15SmgzOXFETUZBZVB1a21aOENjQ1RteE55SGc?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Sam Altman’s Worldcoin Hits 4-Month High Following Arthur Hayes’ $10 WLD Price Target - Stocktwits",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEIxSnZ6OElWeEtZcUhtdnJzVlNCV3lxOE94MHFVM3RMTW1RVTk2aDd0aWxlUVVKOVBtVFhSdzRjeWtQaEVjU2czUHJ1U2VmYkxBYnFRYmRoMV9EMm51SnVoYXdzREg1NUtXWG1OckJYYVVXWFpBVGx2MnQ5TnlVLTFfUU9TaU92RDRQeTZfOGpVdUI2a0IzQl9mVnNtamNMaGtVVmhINXpCWXFXNEtaSjBfMHR6SGFzaWdaS0xjM3JuUkE1cnA4V0h5YWZTWnRCNVRESg?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Worldcoin price jumps 8% as human-only tickets spark WLD rally - crypto.news",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS0lJMDg3YnhIVTAxZzA3M3Z3RGJZcWJoaDlOTFBUQmNuLVlfOFBqbk9pbUdfNUg1TEV1RU1pYUZSLTNsV2tNWWw3TjlsTUJyUU01cjRNX2VJMThqM05HRkFUNEtJTG1wY0tSclpDbmpGMHpSQmxWaFZ0Qk9fMTFLY2FSQW8yRXJtNnc?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "The mission of the Worldcoin project is to build the world’s largest identity and financial network as a public utility, giving ownership to everyone. A key component of the Worldcoin project is the development of the foundational infrastructure that will be important for a world where AI plays an increasingly large ro",
+    "reportIntro": "Worldcoin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-02",
     "slug": "2026-06-02-genius-3",
     "coinId": "genius-3",
@@ -77,46 +117,6 @@
     ],
     "about": "SkyAI is an all-in-one AI ecosystem powered by MCP, designed to seamlessly integrate intelligent solutions across industries.",
     "reportIntro": "SkyAI stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-05-31",
-    "slug": "2026-05-31-humanity",
-    "coinId": "humanity",
-    "coinName": "Humanity",
-    "symbol": "H",
-    "title": "Why H Went Up Yesterday",
-    "priceChange24h": 63.3,
-    "volumeLabel": "High",
-    "marketCap": "$1.2B",
-    "summary": "Humanity was one of the strongest crypto movers yesterday, gaining 63.3% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 63.3% move.",
-      "Roughly $367M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Humanity Protocol rebounds from a sharp flush, but can H buyers clear $0.2949? - AMBCrypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVGVhS012MDNxajZPN040R2k4Y0l6ZkM3ZlptMkM0MDFIaWJxcGZXa2M1MlZZY01aX1drejY2dkpvN1JaVk5fVjhJXzJkS3dHbzNndHBpcHNQUENpSTcyVTJIZ3lvNVVHNnVjajRxTWViWVlwNmZ1Z1NqOHpFUHF0NWtYMTZaOGdyRk0xdzRPUGZtVy1mQUNOTTcxS0wtQ0nSAaQBQVVfeXFMTzlDdy0yektDbFBZelVkLTVHeXNKUFdmRExrb1dvajd4Umx1R3FQSEszZWhNMnY4dHZYQldyckR1eHZwdFFBQlNuR1FOQ3JRWThzdEM0WGhqR0FGZUltOHIzRkNialo1VERGZHAtRXNMU0dtYlFrUDRmR0V5TVFvSHFoV19ITGFfRzQxM3lNZ3JTR0VZRExnb2dhODBSbzNUUVV3dnk?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Humanity (H) Price Prediction: H Surges 24% as Bulls Eye Breakout - CryptoRank",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnlEVWdGajNxUlZXNFE0WGxsTXR1NGVxbXNhWTZWeWFXV0JrY0dIYVZuYUpSRXJaejRzc05YZkFZQmF6aDl1Mk5qSHp0TzhKb1BmYjR5alhmU3lyNVlVOGVReXVlNWxpY2lUYlRoWFBqa3lmMG9RekpTNGhqWjBJbGpHb0hKeDlmVTgxSHB3VUVfS1ZtVk5WZ0tBTDh3OW9Z?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Humanity (H) Surges 40% on AI Rally, Breakout, Social Buzz - CoinMarketCap",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02ei00NmxtdTNUaThFS05tQzhlWWFTR09VMWstaUkwd1Y1TkFNNFFiVEZIRW5NV204OHVYLVM2OFMtYXAxa2JOLUl2LUJYQy03cjYteTh2QWZzNnJ4YXFMaWU0NFV5ZkJPQzg0Z1lQR18?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "Humanity Protocol is a blockchain featuring a native Proof of Humanity (PoH) consensus mechanism that verifies users' uniqueness as humans through decentralized identifiers (DID) and verifiable credentials (VC), combining privacy-preserving human recognition, decentralized storage, and zero-knowledge proofs to enable s",
-    "reportIntro": "Humanity stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
