@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-06-04T05:00:40.828Z",
+  "updatedAt": "2026-06-05T04:43:02.278Z",
   "items": [
     {
       "rank": 1,
-      "id": "worldcoin-wld",
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "image": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903",
-      "price": "$0.51",
-      "change24h": 25.8,
-      "marketCap": "$1.71B",
-      "volume": "$1.06B"
+      "id": "home",
+      "name": "HOME",
+      "symbol": "HOME",
+      "image": "https://coin-images.coingecko.com/coins/images/54873/large/defi-app.png?1742235743",
+      "price": "$0.05",
+      "change24h": 27,
+      "marketCap": "$183.01M",
+      "volume": "$115.37M"
     },
     {
       "rank": 2,
-      "id": "lab",
-      "name": "LAB",
-      "symbol": "LAB",
-      "image": "https://coin-images.coingecko.com/coins/images/70014/large/lab.png?1760352822",
-      "price": "$17.56",
-      "change24h": 20.4,
-      "marketCap": "$5.48B",
-      "volume": "$72.67M"
-    },
-    {
-      "rank": 3,
       "id": "audiera",
       "name": "Audiera",
       "symbol": "BEAT",
       "image": "https://coin-images.coingecko.com/coins/images/70428/large/audiera.png?1761964064",
-      "price": "$1.33",
-      "change24h": 17.4,
-      "marketCap": "$385.24M",
-      "volume": "$26.45M"
+      "price": "$1.62",
+      "change24h": 18.9,
+      "marketCap": "$464.50M",
+      "volume": "$37.62M"
+    },
+    {
+      "rank": 3,
+      "id": "dexe",
+      "name": "DeXe",
+      "symbol": "DEXE",
+      "image": "https://coin-images.coingecko.com/coins/images/12713/large/DEXE_token_logo.png?1696512514",
+      "price": "$20.60",
+      "change24h": 16,
+      "marketCap": "$963.25M",
+      "volume": "$31.20M"
     },
     {
       "rank": 4,
@@ -40,76 +40,76 @@
       "name": "Siren",
       "symbol": "SIREN",
       "image": "https://coin-images.coingecko.com/coins/images/54479/large/siren.png?1739960056",
-      "price": "$0.66",
-      "change24h": 16.1,
-      "marketCap": "$485.80M",
-      "volume": "$11.30M"
+      "price": "$0.73",
+      "change24h": 9.3,
+      "marketCap": "$531.21M",
+      "volume": "$63.28M"
     },
     {
       "rank": 5,
-      "id": "ethena",
-      "name": "Ethena",
-      "symbol": "ENA",
-      "image": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436",
-      "price": "$0.11",
-      "change24h": 13.6,
-      "marketCap": "$964.87M",
-      "volume": "$687.21M"
+      "id": "just",
+      "name": "JUST",
+      "symbol": "JST",
+      "image": "https://coin-images.coingecko.com/coins/images/11095/large/JUST.jpg?1696511035",
+      "price": "$0.08",
+      "change24h": 7.9,
+      "marketCap": "$671.43M",
+      "volume": "$68.54M"
     },
     {
       "rank": 6,
-      "id": "jito-governance-token",
-      "name": "Jito",
-      "symbol": "JTO",
-      "image": "https://coin-images.coingecko.com/coins/images/33228/large/jto.png?1701137022",
-      "price": "$0.63",
-      "change24h": 9.7,
-      "marketCap": "$300.03M",
-      "volume": "$94.22M"
+      "id": "monad",
+      "name": "Monad",
+      "symbol": "MON",
+      "image": "https://coin-images.coingecko.com/coins/images/38927/large/mon.png?1766029057",
+      "price": "$0.02",
+      "change24h": 5.4,
+      "marketCap": "$251.18M",
+      "volume": "$86.53M"
     },
     {
       "rank": 7,
-      "id": "arweave",
-      "name": "Arweave",
-      "symbol": "AR",
-      "image": "https://coin-images.coingecko.com/coins/images/4343/large/oRt6SiEN_400x400.jpg?1696504946",
-      "price": "$2.39",
-      "change24h": 9.3,
-      "marketCap": "$156.97M",
-      "volume": "$77.51M"
+      "id": "skyai",
+      "name": "SkyAI",
+      "symbol": "SKYAI",
+      "image": "https://coin-images.coingecko.com/coins/images/55294/large/1.png?1745517593",
+      "price": "$0.18",
+      "change24h": 3.7,
+      "marketCap": "$178.11M",
+      "volume": "$25.88M"
     },
     {
       "rank": 8,
-      "id": "origintrail",
-      "name": "OriginTrail",
-      "symbol": "TRAC",
-      "image": "https://coin-images.coingecko.com/coins/images/1877/large/TRAC.jpg?1696502873",
-      "price": "$0.41",
-      "change24h": 9.2,
-      "marketCap": "$182.90M",
-      "volume": "$29.17M"
+      "id": "apyusd",
+      "name": "apyUSD",
+      "symbol": "APYUSD",
+      "image": "https://coin-images.coingecko.com/coins/images/102172527/large/apyUSD.png?1773763322",
+      "price": "$1.27",
+      "change24h": 3.2,
+      "marketCap": "$218.47M",
+      "volume": "$13.97M"
     },
     {
       "rank": 9,
-      "id": "monero",
-      "name": "Monero",
-      "symbol": "XMR",
-      "image": "https://coin-images.coingecko.com/coins/images/69/large/monero_logo.png?1696501460",
-      "price": "$359.74",
-      "change24h": 7.7,
-      "marketCap": "$6.75B",
-      "volume": "$170.91M"
+      "id": "figure-heloc",
+      "name": "Figure Heloc",
+      "symbol": "FIGR_HELOC",
+      "image": "https://coin-images.coingecko.com/coins/images/68480/large/figure.png?1755863954",
+      "price": "$1.02",
+      "change24h": 1.8,
+      "marketCap": "$18.84B",
+      "volume": "$40.61M"
     },
     {
       "rank": 10,
-      "id": "spx6900",
-      "name": "SPX6900",
-      "symbol": "SPX",
-      "image": "https://coin-images.coingecko.com/coins/images/31401/large/centeredcoin_%281%29.png?1737048493",
-      "price": "$0.33",
-      "change24h": 5.4,
-      "marketCap": "$308.85M",
-      "volume": "$12.17M"
+      "id": "htx-dao",
+      "name": "HTX DAO",
+      "symbol": "HTX",
+      "image": "https://coin-images.coingecko.com/coins/images/35491/large/Frame_1321318576.png?1708908626",
+      "price": "$0.00",
+      "change24h": 1.1,
+      "marketCap": "$1.60B",
+      "volume": "$25.96M"
     }
   ]
 }

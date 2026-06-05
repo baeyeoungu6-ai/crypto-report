@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-04",
+    "slug": "2026-06-04-home",
+    "coinId": "home",
+    "coinName": "HOME",
+    "symbol": "HOME",
+    "title": "Why HOME Went Up Yesterday",
+    "priceChange24h": 27,
+    "volumeLabel": "High",
+    "marketCap": "$183M",
+    "summary": "HOME was one of the strongest crypto movers yesterday, gaining 27.0% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 27.0% move.",
+      "Roughly $115M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Fannie Mae-Backed Bitcoin Home Mortgages Are Finally Here, Coinbase Says - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUHhfOXZra2ctNXZXQmdXOVkyZTdJd254Z2FwQnJoMG9RY016UTBGQWtPM0ZQNzlkZXpScmJ3S19PR3JfU3lDT3o2ajZZMDNrb2FvdDBBb2xCNWVnUWhiZUJBZ3BNRGwwOE1YUE5lQzRxVkwtby16bHNUQ2FQM0w2SWZST3QzT2Zrb3d5ekxrZmplakEwUG50UGFtZw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Crypto tech is about to transform how you buy your home - The Telegraph",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQXdZdnRPUjkzUWx0UWdpTkdTY2xYaDhKUzlCcjZxX1V2em1PdjlJTHVlNUlTQUJjRXF1ZjF0ODZvVmhJYWU4aTk0QkMzQkYyV2V5ZUlrdnNEZFZqNzh1bFFiTjF6eDY2d3lxTWxTZ0FrN1hRQ3RscjJxVXNYQUdZRllWN0NIQlE0QllRWVdtM2hVT29Cc3NHbXEyY3JVQkxw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "House moves ahead with stricter crypto kiosk regulations - New Hampshire Bulletin",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYkhTQzhvbnhuWEV6ekYxSW5WcS1LTWo4Z0J1Vm1JNF9MVFVaamZwUGx2RlE5aV9qZUViZldtZDBXN0Z0SDRZSVd4NWVZNVdaaUw3dEZIdkItWHFOV2h6T3NKT0swVTZpRHBlNGFBSFlzVUZSV0g3bEJHQ2lUMEIwczlCbGtZdlVxMHRPYUVZZXBDcm9QUmd0WnJseS0yckh2WjlF?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Crypto's \"Everything App\" that makes DeFi as easy as using an iPhone, combining instant cross-chain swaps, yield farming, and perps trading with zero gas fees, zero bridging and full self-custody. Decentralized finance has massive potential, but several challenges have consistently held it back from broader adoption: -",
+    "reportIntro": "HOME stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-03",
     "slug": "2026-06-03-worldcoin-wld",
     "coinId": "worldcoin-wld",
@@ -77,46 +117,6 @@
     ],
     "about": "Genius Terminal is the first private and final onchain terminal. It’s what comes after aggregators, intents bridges, and wallet extensions — a purpose-built trading OS for professional users who want DeFi without DeFi UX.",
     "reportIntro": "Genius stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-06-01",
-    "slug": "2026-06-01-skyai",
-    "coinId": "skyai",
-    "coinName": "SkyAI",
-    "symbol": "SKYAI",
-    "title": "Why SKYAI Went Up Yesterday",
-    "priceChange24h": 47.8,
-    "volumeLabel": "Strong",
-    "marketCap": "$255M",
-    "summary": "SkyAI was one of the strongest crypto movers yesterday, gaining 47.8% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 47.8% move.",
-      "Roughly $43M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Sharps Technology Becomes SkyAI, Inc. with New Ticker Symbol “SKYA”; Establishing Category-defining Agentic Finance Platform Serving Global South - Stock Titan",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTENNN1NMdnBhXzZyUXl4ZTBBU1JZS1dxRFhqMkdlYUE4YkVqTHc4MC02aDYtT2NfRVhhS3ZDMkxxTnZWa0poRzUwU3dHZzFTM2FMaFBKOGtYQm9FWFpLSXFwTlc2eXFBRkhMaDd2SlpJbklkcjFmVC0yNEVCTHY3N0QySl92ZjlVOXJ3MU5Nc3FhbjdZNHpCRFFEbHRrWFIwMmZtVDR4djBmU0h2d2NpcmRjVzdJSEtSY1ZN?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Learn All Crypto Topics | Phemex Academy - Phemex",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yUGxxM01UNm14Znc4LWRJRUlZZENtTFJsYjc4bFIxX2Q2OWJkaFJ0alRadVh1S0NIQXdKWGNnYUoxN0MxSERCV2xGNlNFbHEzVlhyU193TVRMZUZZbDNaWGNLVzF3QTFKc25VNTNCOWx0dzdwTk83bWliMA?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "3 Altcoins to Watch as SKYAI Surges 300% in the First Week of May - Yahoo Finance",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd01EZnI0WjhhM2loS2thR1U5STIyQkFtSGJCQUdsLVpqQVJ5ODlIbURCZDNGTjNPT0NKYnFoYXlFZm1DeTlYcVBmT2UwSUdza3M0R04zbzBJeGRUcTJTZV8wVzZUakN2MzBvZEdYZUpmWHZwcUhHN21IX3B3UF9HZWdRZEpxalpJc1gtQXprMDB2YVBEdkhwdldB?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "SkyAI is an all-in-one AI ecosystem powered by MCP, designed to seamlessly integrate intelligent solutions across industries.",
-    "reportIntro": "SkyAI stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
