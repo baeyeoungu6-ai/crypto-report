@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-05T04:43:02.278Z",
+  "updatedAt": "2026-06-06T04:16:01.528Z",
   "items": [
     {
       "rank": 1,
+      "id": "sealcoin",
+      "name": "SEALCOIN",
+      "symbol": "QAIT",
+      "image": "https://coin-images.coingecko.com/coins/images/102173522/large/sealcoin.jpg?1779950602",
+      "price": "$0.03",
+      "change24h": 55.7,
+      "marketCap": "$141.43M",
+      "volume": "$27.42M"
+    },
+    {
+      "rank": 2,
+      "id": "bitway",
+      "name": "Bitway",
+      "symbol": "BTW",
+      "image": "https://coin-images.coingecko.com/coins/images/71205/large/bitway.png?1766388722",
+      "price": "$0.05",
+      "change24h": 19.6,
+      "marketCap": "$112.81M",
+      "volume": "$33.09M"
+    },
+    {
+      "rank": 3,
       "id": "home",
       "name": "HOME",
       "symbol": "HOME",
       "image": "https://coin-images.coingecko.com/coins/images/54873/large/defi-app.png?1742235743",
-      "price": "$0.05",
-      "change24h": 27,
-      "marketCap": "$183.01M",
-      "volume": "$115.37M"
+      "price": "$0.06",
+      "change24h": 17.1,
+      "marketCap": "$221.29M",
+      "volume": "$95.00M"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "id": "audiera",
       "name": "Audiera",
       "symbol": "BEAT",
       "image": "https://coin-images.coingecko.com/coins/images/70428/large/audiera.png?1761964064",
-      "price": "$1.62",
-      "change24h": 18.9,
-      "marketCap": "$464.50M",
-      "volume": "$37.62M"
-    },
-    {
-      "rank": 3,
-      "id": "dexe",
-      "name": "DeXe",
-      "symbol": "DEXE",
-      "image": "https://coin-images.coingecko.com/coins/images/12713/large/DEXE_token_logo.png?1696512514",
-      "price": "$20.60",
-      "change24h": 16,
-      "marketCap": "$963.25M",
-      "volume": "$31.20M"
-    },
-    {
-      "rank": 4,
-      "id": "siren-2",
-      "name": "Siren",
-      "symbol": "SIREN",
-      "image": "https://coin-images.coingecko.com/coins/images/54479/large/siren.png?1739960056",
-      "price": "$0.73",
-      "change24h": 9.3,
-      "marketCap": "$531.21M",
-      "volume": "$63.28M"
+      "price": "$1.82",
+      "change24h": 12.7,
+      "marketCap": "$523.07M",
+      "volume": "$41.52M"
     },
     {
       "rank": 5,
+      "id": "skyai",
+      "name": "SkyAI",
+      "symbol": "SKYAI",
+      "image": "https://coin-images.coingecko.com/coins/images/55294/large/1.png?1745517593",
+      "price": "$0.19",
+      "change24h": 7.8,
+      "marketCap": "$192.75M",
+      "volume": "$18.82M"
+    },
+    {
+      "rank": 6,
+      "id": "venice-token",
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "image": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
+      "price": "$17.18",
+      "change24h": 6.7,
+      "marketCap": "$803.84M",
+      "volume": "$122.46M"
+    },
+    {
+      "rank": 7,
       "id": "just",
       "name": "JUST",
       "symbol": "JST",
       "image": "https://coin-images.coingecko.com/coins/images/11095/large/JUST.jpg?1696511035",
       "price": "$0.08",
-      "change24h": 7.9,
-      "marketCap": "$671.43M",
-      "volume": "$68.54M"
-    },
-    {
-      "rank": 6,
-      "id": "monad",
-      "name": "Monad",
-      "symbol": "MON",
-      "image": "https://coin-images.coingecko.com/coins/images/38927/large/mon.png?1766029057",
-      "price": "$0.02",
-      "change24h": 5.4,
-      "marketCap": "$251.18M",
-      "volume": "$86.53M"
-    },
-    {
-      "rank": 7,
-      "id": "skyai",
-      "name": "SkyAI",
-      "symbol": "SKYAI",
-      "image": "https://coin-images.coingecko.com/coins/images/55294/large/1.png?1745517593",
-      "price": "$0.18",
-      "change24h": 3.7,
-      "marketCap": "$178.11M",
-      "volume": "$25.88M"
+      "change24h": 4.7,
+      "marketCap": "$701.31M",
+      "volume": "$48.46M"
     },
     {
       "rank": 8,
-      "id": "apyusd",
-      "name": "apyUSD",
-      "symbol": "APYUSD",
-      "image": "https://coin-images.coingecko.com/coins/images/102172527/large/apyUSD.png?1773763322",
-      "price": "$1.27",
-      "change24h": 3.2,
-      "marketCap": "$218.47M",
-      "volume": "$13.97M"
+      "id": "kaspa",
+      "name": "Kaspa",
+      "symbol": "KAS",
+      "image": "https://coin-images.coingecko.com/coins/images/25751/large/kaspa-icon-exchanges.png?1696524837",
+      "price": "$0.03",
+      "change24h": 1.5,
+      "marketCap": "$829.73M",
+      "volume": "$22.52M"
     },
     {
       "rank": 9,
-      "id": "figure-heloc",
-      "name": "Figure Heloc",
-      "symbol": "FIGR_HELOC",
-      "image": "https://coin-images.coingecko.com/coins/images/68480/large/figure.png?1755863954",
-      "price": "$1.02",
-      "change24h": 1.8,
-      "marketCap": "$18.84B",
-      "volume": "$40.61M"
+      "id": "unibase",
+      "name": "Unibase",
+      "symbol": "UB",
+      "image": "https://coin-images.coingecko.com/coins/images/69108/large/unibase.png?1757501820",
+      "price": "$0.11",
+      "change24h": 1.5,
+      "marketCap": "$268.31M",
+      "volume": "$13.58M"
     },
     {
       "rank": 10,
-      "id": "htx-dao",
-      "name": "HTX DAO",
-      "symbol": "HTX",
-      "image": "https://coin-images.coingecko.com/coins/images/35491/large/Frame_1321318576.png?1708908626",
+      "id": "nexus-4",
+      "name": "Nexus",
+      "symbol": "NEX",
+      "image": "https://coin-images.coingecko.com/coins/images/102173233/large/nexus.jpg?1778490588",
       "price": "$0.00",
-      "change24h": 1.1,
-      "marketCap": "$1.60B",
-      "volume": "$25.96M"
+      "change24h": 1.4,
+      "marketCap": "$186.74M",
+      "volume": "$14.20M"
     }
   ]
 }
