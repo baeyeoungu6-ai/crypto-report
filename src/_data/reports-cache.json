@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-06",
+    "slug": "2026-06-06-skyai",
+    "coinId": "skyai",
+    "coinName": "SkyAI",
+    "symbol": "SKYAI",
+    "title": "Why SKYAI Went Up Yesterday",
+    "priceChange24h": 42.9,
+    "volumeLabel": "Strong",
+    "marketCap": "$271M",
+    "summary": "SkyAI was one of the strongest crypto movers yesterday, gaining 42.9% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 42.9% move.",
+      "Roughly $91M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "SKYAI crashes 30%! Will the $0.13 support hold, or will price crash further? - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNDVaQUxiNjJvbEMxZDJNUDVoaExXZ3kzTkRTdUs4Wk9ZNWhCVXZWLWMyZTFFUlE2cmc5RmVyT0tWTXZUUEpZRV9xbmRBendRM2RhaDZwWnpLVXo0U1lzQ3R0TWhkY0RPdGVaTnUycVpRTFBCa0p2QW5iUEdvUTdvdlIxVU1IZmI2VTFyQjNTczZfdEstME1WOElB0gGfAUFVX3lxTFBfVmlYYnZLOE5JUDRyaW9lWnpoTkxXVWlUWlpQN0NQc3ZYUGxsTWR6MzFDejRJeW1xSE9Kb0lJMDRYUkFfUHMzWS1ubzBiZXpWZGxMcjlQX1lWVFRMdVI1bV94NHlDV0dsTFh5blo1UzJYdXY4aGRNUy11U2ZzbDlvbUpKWHdGaEh0bkltSzRNd1N2bGtMVEhtTUpYSXlLNA?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Bitget lists SKYAI (SKYAI) for Spot Trading - markets.businessinsider.com",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWVmdFpibkcwSE5Zd2FpbE9nWl9oYm1GTDdlQXM5U3B1ZlpBcXlpSWJubDVVQVE3OGczZW9YX0I0REJSSE4zTmRnOTNMVW1JZk1ydEwzbjM0RFZ1Y3NLSmFVVEVmT3lxc3ZXaVp3QlE4NERtQWtaZWpfOTZhWlJrbEs3cm14SmptSWNURVJ0ajJEaVNKMmU4SGZWb1E1d2Jpdnc?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Sharps Technology Becomes SkyAI, Inc. with New Ticker Symbol “SKYA”; Establishing Category-defining Agentic Finance Platform Serving Global South - Stock Titan",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTENNN1NMdnBhXzZyUXl4ZTBBU1JZS1dxRFhqMkdlYUE4YkVqTHc4MC02aDYtT2NfRVhhS3ZDMkxxTnZWa0poRzUwU3dHZzFTM2FMaFBKOGtYQm9FWFpLSXFwTlc2eXFBRkhMaDd2SlpJbklkcjFmVC0yNEVCTHY3N0QySl92ZjlVOXJ3MU5Nc3FhbjdZNHpCRFFEbHRrWFIwMmZtVDR4djBmU0h2d2NpcmRjVzdJSEtSY1ZN?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "SkyAI is an all-in-one AI ecosystem powered by MCP, designed to seamlessly integrate intelligent solutions across industries.",
+    "reportIntro": "SkyAI stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-05",
     "slug": "2026-06-05-sealcoin",
     "coinId": "sealcoin",
@@ -77,46 +117,6 @@
     ],
     "about": "Crypto's \"Everything App\" that makes DeFi as easy as using an iPhone, combining instant cross-chain swaps, yield farming, and perps trading with zero gas fees, zero bridging and full self-custody. Decentralized finance has massive potential, but several challenges have consistently held it back from broader adoption: -",
     "reportIntro": "HOME stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-06-03",
-    "slug": "2026-06-03-worldcoin-wld",
-    "coinId": "worldcoin-wld",
-    "coinName": "Worldcoin",
-    "symbol": "WLD",
-    "title": "Why WLD Went Up Yesterday",
-    "priceChange24h": 25.8,
-    "volumeLabel": "Very High",
-    "marketCap": "$1.7B",
-    "summary": "Worldcoin was one of the strongest crypto movers yesterday, gaining 25.8% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 25.8% move.",
-      "Roughly $1.1B in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Arthur Hayes Puts A $10 Price Target On Sam Altman’s Worldcoin – WLD Token Rallies To 4-Month High - Yahoo Finance",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOERtZWpoMEhKWnRRc0hnV3Exa2VCN2tFTXpJVW1fcFRwZDJSX2ZBZEt4TVVfbEN1NFFva0x3bUJtX0ROSWVkYWVKVlpTQy1wT2g4Q2dMUlQxRTdIMXptaFBKU3lyRk1jRWU3OHllQ0xZMUxwWUJ0V2dnSW15SmgzOXFETUZBZVB1a21aOENjQ1RteE55SGc?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Sam Altman’s Worldcoin Hits 4-Month High Following Arthur Hayes’ $10 WLD Price Target - Stocktwits",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEIxSnZ6OElWeEtZcUhtdnJzVlNCV3lxOE94MHFVM3RMTW1RVTk2aDd0aWxlUVVKOVBtVFhSdzRjeWtQaEVjU2czUHJ1U2VmYkxBYnFRYmRoMV9EMm51SnVoYXdzREg1NUtXWG1OckJYYVVXWFpBVGx2MnQ5TnlVLTFfUU9TaU92RDRQeTZfOGpVdUI2a0IzQl9mVnNtamNMaGtVVmhINXpCWXFXNEtaSjBfMHR6SGFzaWdaS0xjM3JuUkE1cnA4V0h5YWZTWnRCNVRESg?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Worldcoin price jumps 8% as human-only tickets spark WLD rally - crypto.news",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS0lJMDg3YnhIVTAxZzA3M3Z3RGJZcWJoaDlOTFBUQmNuLVlfOFBqbk9pbUdfNUg1TEV1RU1pYUZSLTNsV2tNWWw3TjlsTUJyUU01cjRNX2VJMThqM05HRkFUNEtJTG1wY0tSclpDbmpGMHpSQmxWaFZ0Qk9fMTFLY2FSQW8yRXJtNnc?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "The mission of the Worldcoin project is to build the world’s largest identity and financial network as a public utility, giving ownership to everyone. A key component of the Worldcoin project is the development of the foundational infrastructure that will be important for a world where AI plays an increasingly large ro",
-    "reportIntro": "Worldcoin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
