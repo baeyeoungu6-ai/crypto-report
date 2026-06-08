@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-07T04:52:10.825Z",
+  "updatedAt": "2026-06-08T04:58:10.015Z",
   "items": [
     {
       "rank": 1,
-      "id": "skyai",
-      "name": "SkyAI",
-      "symbol": "SKYAI",
-      "image": "https://coin-images.coingecko.com/coins/images/55294/large/1.png?1745517593",
-      "price": "$0.27",
-      "change24h": 42.9,
-      "marketCap": "$271.13M",
-      "volume": "$90.92M"
-    },
-    {
-      "rank": 2,
-      "id": "lab",
-      "name": "LAB",
-      "symbol": "LAB",
-      "image": "https://coin-images.coingecko.com/coins/images/70014/large/lab.png?1760352822",
-      "price": "$12.98",
-      "change24h": 37,
-      "marketCap": "$4.06B",
-      "volume": "$130.76M"
-    },
-    {
-      "rank": 3,
-      "id": "bianrensheng",
-      "name": "币安人生 (BinanceLife)",
-      "symbol": "币安人生",
-      "image": "https://coin-images.coingecko.com/coins/images/69848/large/%E5%B8%81%E5%AE%89%E4%BA%BA%E7%94%9F.png?1759839225",
-      "price": "$0.84",
-      "change24h": 26.3,
-      "marketCap": "$839.29M",
-      "volume": "$90.97M"
-    },
-    {
-      "rank": 4,
-      "id": "ethgas-2",
-      "name": "ETHGas",
-      "symbol": "GWEI",
-      "image": "https://coin-images.coingecko.com/coins/images/71375/large/ethgas_token_200.png?1769055039",
-      "price": "$0.13",
-      "change24h": 26.3,
-      "marketCap": "$271.71M",
-      "volume": "$13.72M"
-    },
-    {
-      "rank": 5,
-      "id": "humanity",
-      "name": "Humanity",
-      "symbol": "H",
-      "image": "https://coin-images.coingecko.com/coins/images/66811/large/H_tokenLogo_original.png?1750581252",
-      "price": "$0.70",
-      "change24h": 24.1,
-      "marketCap": "$1.28B",
-      "volume": "$215.60M"
-    },
-    {
-      "rank": 6,
       "id": "audiera",
       "name": "Audiera",
       "symbol": "BEAT",
       "image": "https://coin-images.coingecko.com/coins/images/70428/large/audiera.png?1761964064",
-      "price": "$2.19",
-      "change24h": 20.9,
-      "marketCap": "$631.85M",
-      "volume": "$35.16M"
+      "price": "$3.90",
+      "change24h": 79.2,
+      "marketCap": "$1.12B",
+      "volume": "$77.91M"
     },
     {
-      "rank": 7,
-      "id": "terra-luna",
-      "name": "Terra Luna Classic",
-      "symbol": "LUNC",
-      "image": "https://coin-images.coingecko.com/coins/images/8284/large/01_LunaClassic_color.png?1696508486",
-      "price": "$0.00",
-      "change24h": 19.3,
-      "marketCap": "$370.06M",
-      "volume": "$35.61M"
-    },
-    {
-      "rank": 8,
-      "id": "the-open-network",
-      "name": "Toncoin",
-      "symbol": "TON",
-      "image": "https://coin-images.coingecko.com/coins/images/17980/large/photo_2024-09-10_17.09.00.jpeg?1725963446",
-      "price": "$1.72",
-      "change24h": 17.6,
-      "marketCap": "$4.61B",
-      "volume": "$264.91M"
-    },
-    {
-      "rank": 9,
-      "id": "bitway",
-      "name": "Bitway",
-      "symbol": "BTW",
-      "image": "https://coin-images.coingecko.com/coins/images/71205/large/bitway.png?1766388722",
-      "price": "$0.05",
-      "change24h": 17.5,
-      "marketCap": "$116.03M",
-      "volume": "$15.09M"
-    },
-    {
-      "rank": 10,
+      "rank": 2,
       "id": "siren-2",
       "name": "Siren",
       "symbol": "SIREN",
       "image": "https://coin-images.coingecko.com/coins/images/54479/large/siren.png?1739960056",
-      "price": "$0.84",
-      "change24h": 15.6,
-      "marketCap": "$611.24M",
-      "volume": "$26.66M"
+      "price": "$1.26",
+      "change24h": 50.5,
+      "marketCap": "$911.32M",
+      "volume": "$142.55M"
+    },
+    {
+      "rank": 3,
+      "id": "jito-governance-token",
+      "name": "Jito",
+      "symbol": "JTO",
+      "image": "https://coin-images.coingecko.com/coins/images/33228/large/jto.png?1701137022",
+      "price": "$0.60",
+      "change24h": 13.2,
+      "marketCap": "$290.10M",
+      "volume": "$82.83M"
+    },
+    {
+      "rank": 4,
+      "id": "build-on",
+      "name": "BUILDon",
+      "symbol": "B",
+      "image": "https://coin-images.coingecko.com/coins/images/55974/large/T7asvmCb_400x400.jpg?1747902862",
+      "price": "$0.28",
+      "change24h": 13.1,
+      "marketCap": "$283.78M",
+      "volume": "$19.38M"
+    },
+    {
+      "rank": 5,
+      "id": "zcash",
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "image": "https://coin-images.coingecko.com/coins/images/486/large/circle-zcash-color.png?1696501740",
+      "price": "$427.68",
+      "change24h": 12.9,
+      "marketCap": "$7.14B",
+      "volume": "$1.36B"
+    },
+    {
+      "rank": 6,
+      "id": "sahara-ai",
+      "name": "Sahara AI",
+      "symbol": "SAHARA",
+      "image": "https://coin-images.coingecko.com/coins/images/66681/large/Token_Logo_3x.png?1750362133",
+      "price": "$0.04",
+      "change24h": 11.7,
+      "marketCap": "$124.86M",
+      "volume": "$62.84M"
+    },
+    {
+      "rank": 7,
+      "id": "eigenlayer",
+      "name": "EigenCloud (prev. EigenLayer)",
+      "symbol": "EIGEN",
+      "image": "https://coin-images.coingecko.com/coins/images/37441/large/eigencloud.jpg?1751003565",
+      "price": "$0.19",
+      "change24h": 11.1,
+      "marketCap": "$137.30M",
+      "volume": "$30.41M"
+    },
+    {
+      "rank": 8,
+      "id": "dash",
+      "name": "Dash",
+      "symbol": "DASH",
+      "image": "https://coin-images.coingecko.com/coins/images/19/large/dash-logo.png?1696501423",
+      "price": "$36.80",
+      "change24h": 10.3,
+      "marketCap": "$467.74M",
+      "volume": "$129.62M"
+    },
+    {
+      "rank": 9,
+      "id": "near",
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "image": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "price": "$2.05",
+      "change24h": 9.8,
+      "marketCap": "$2.66B",
+      "volume": "$590.92M"
+    },
+    {
+      "rank": 10,
+      "id": "origintrail",
+      "name": "OriginTrail",
+      "symbol": "TRAC",
+      "image": "https://coin-images.coingecko.com/coins/images/1877/large/TRAC.jpg?1696502873",
+      "price": "$0.37",
+      "change24h": 9.6,
+      "marketCap": "$168.09M",
+      "volume": "$12.41M"
     }
   ]
 }
