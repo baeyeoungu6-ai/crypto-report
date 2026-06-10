@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-09T04:20:26.813Z",
+  "updatedAt": "2026-06-10T04:41:29.209Z",
   "items": [
     {
       "rank": 1,
-      "id": "ethgas-2",
-      "name": "ETHGas",
-      "symbol": "GWEI",
-      "image": "https://coin-images.coingecko.com/coins/images/71375/large/ethgas_token_200.png?1769055039",
-      "price": "$0.16",
-      "change24h": 27.5,
-      "marketCap": "$339.86M",
-      "volume": "$34.54M"
-    },
-    {
-      "rank": 2,
-      "id": "velvet",
-      "name": "Velvet",
-      "symbol": "VELVET",
-      "image": "https://coin-images.coingecko.com/coins/images/67194/large/velvet.jpg?1752054592",
-      "price": "$0.32",
-      "change24h": 22.3,
-      "marketCap": "$132.63M",
-      "volume": "$32.67M"
-    },
-    {
-      "rank": 3,
       "id": "bitway",
       "name": "Bitway",
       "symbol": "BTW",
       "image": "https://coin-images.coingecko.com/coins/images/71205/large/bitway.png?1766388722",
-      "price": "$0.06",
-      "change24h": 12.9,
-      "marketCap": "$125.40M",
-      "volume": "$21.55M"
+      "price": "$0.09",
+      "change24h": 53.3,
+      "marketCap": "$197.78M",
+      "volume": "$48.35M"
     },
     {
-      "rank": 4,
-      "id": "basic-attention-token",
-      "name": "Basic Attention",
-      "symbol": "BAT",
-      "image": "https://coin-images.coingecko.com/coins/images/677/large/basic-attention-token.png?1696501867",
-      "price": "$0.10",
-      "change24h": 10.8,
-      "marketCap": "$142.42M",
-      "volume": "$26.28M"
+      "rank": 2,
+      "id": "humanity",
+      "name": "Humanity",
+      "symbol": "H",
+      "image": "https://coin-images.coingecko.com/coins/images/66811/large/H_tokenLogo_original.png?1750581252",
+      "price": "$0.16",
+      "change24h": 28.6,
+      "marketCap": "$294.38M",
+      "volume": "$150.13M"
     },
     {
-      "rank": 5,
-      "id": "banana-for-scale-2",
-      "name": "Banana For Scale",
-      "symbol": "BANANAS31",
-      "image": "https://coin-images.coingecko.com/coins/images/52230/large/Banana_token_image.png?1732801941",
-      "price": "$0.01",
-      "change24h": 8.5,
-      "marketCap": "$114.72M",
-      "volume": "$13.56M"
-    },
-    {
-      "rank": 6,
-      "id": "compound-governance-token",
-      "name": "Compound",
-      "symbol": "COMP",
-      "image": "https://coin-images.coingecko.com/coins/images/10775/large/COMP.png?1696510737",
-      "price": "$17.76",
-      "change24h": 8,
-      "marketCap": "$171.67M",
-      "volume": "$24.91M"
-    },
-    {
-      "rank": 7,
-      "id": "lighter",
-      "name": "Lighter",
-      "symbol": "LIT",
-      "image": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098",
-      "price": "$1.52",
-      "change24h": 7.3,
-      "marketCap": "$380.55M",
-      "volume": "$62.40M"
-    },
-    {
-      "rank": 8,
-      "id": "midnight-3",
-      "name": "Midnight",
-      "symbol": "NIGHT",
-      "image": "https://coin-images.coingecko.com/coins/images/71015/large/midnight.png?1765193080",
-      "price": "$0.03",
-      "change24h": 6.7,
-      "marketCap": "$533.40M",
-      "volume": "$28.30M"
-    },
-    {
-      "rank": 9,
+      "rank": 3,
       "id": "audiera",
       "name": "Audiera",
       "symbol": "BEAT",
       "image": "https://coin-images.coingecko.com/coins/images/70428/large/audiera.png?1761964064",
-      "price": "$3.98",
-      "change24h": 6.5,
-      "marketCap": "$1.14B",
-      "volume": "$60.56M"
+      "price": "$4.69",
+      "change24h": 17.9,
+      "marketCap": "$1.35B",
+      "volume": "$60.12M"
+    },
+    {
+      "rank": 4,
+      "id": "velvet",
+      "name": "Velvet",
+      "symbol": "VELVET",
+      "image": "https://coin-images.coingecko.com/coins/images/67194/large/velvet.jpg?1752054592",
+      "price": "$0.38",
+      "change24h": 16.4,
+      "marketCap": "$159.82M",
+      "volume": "$56.89M"
+    },
+    {
+      "rank": 5,
+      "id": "sealcoin",
+      "name": "SEALCOIN",
+      "symbol": "QAIT",
+      "image": "https://coin-images.coingecko.com/coins/images/102173522/large/sealcoin.jpg?1779950602",
+      "price": "$0.03",
+      "change24h": 15.5,
+      "marketCap": "$110.29M",
+      "volume": "$12.99M"
+    },
+    {
+      "rank": 6,
+      "id": "whitebit",
+      "name": "WhiteBIT Coin",
+      "symbol": "WBT",
+      "image": "https://coin-images.coingecko.com/coins/images/27045/large/wbt_token.png?1696526096",
+      "price": "$50.54",
+      "change24h": 13.1,
+      "marketCap": "$5.98B",
+      "volume": "$124.80M"
+    },
+    {
+      "rank": 7,
+      "id": "home",
+      "name": "HOME",
+      "symbol": "HOME",
+      "image": "https://coin-images.coingecko.com/coins/images/54873/large/defi-app.png?1742235743",
+      "price": "$0.03",
+      "change24h": 12.8,
+      "marketCap": "$115.32M",
+      "volume": "$68.14M"
+    },
+    {
+      "rank": 8,
+      "id": "thorchain",
+      "name": "THORChain",
+      "symbol": "RUNE",
+      "image": "https://coin-images.coingecko.com/coins/images/6595/large/THORChain_Circle_Gradient__with_Lightning_Bolt_-_Square_Transparent_Background_200px.png?1768635632",
+      "price": "$0.39",
+      "change24h": 8.7,
+      "marketCap": "$130.89M",
+      "volume": "$15.51M"
+    },
+    {
+      "rank": 9,
+      "id": "morpho",
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "image": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
+      "price": "$1.92",
+      "change24h": 8.6,
+      "marketCap": "$1.24B",
+      "volume": "$34.93M"
     },
     {
       "rank": 10,
-      "id": "chiliz",
-      "name": "Chiliz",
-      "symbol": "CHZ",
-      "image": "https://coin-images.coingecko.com/coins/images/8834/large/CHZ_Token_updated.png?1696508986",
-      "price": "$0.03",
-      "change24h": 5,
-      "marketCap": "$267.82M",
-      "volume": "$82.31M"
+      "id": "stable-2",
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "image": "https://coin-images.coingecko.com/coins/images/69242/large/stable-logotype-framed-square-light.png?1762753913",
+      "price": "$0.04",
+      "change24h": 7.9,
+      "marketCap": "$824.95M",
+      "volume": "$26.37M"
     }
   ]
 }
