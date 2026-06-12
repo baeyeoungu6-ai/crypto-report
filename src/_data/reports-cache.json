@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-11",
+    "slug": "2026-06-11-skyai",
+    "coinId": "skyai",
+    "coinName": "SkyAI",
+    "symbol": "SKYAI",
+    "title": "Why SKYAI Went Up Yesterday",
+    "priceChange24h": 53.5,
+    "volumeLabel": "Strong",
+    "marketCap": "$277M",
+    "summary": "SkyAI was one of the strongest crypto movers yesterday, gaining 53.5% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 53.5% move.",
+      "Roughly $61M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "SKYAI loses its recovery gains: Is a deeper correction now underway? - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTVJlX0NrU1kyVjNDdGZUbHNZdnlVN3Q0VDRHTC1nUE5Dc2VRVW5idGk0MHNtcS13eHpyVmdFRm5GaHF3RE5PaDZsVjFIVF9KQ1dheFRtZkpHX0N4STVweUdvdG1jNWx2ck5haWluY1Bkc1JsaFRaLW9oSDBKX21PRWY4bk5rZVRvM3ROUktpWEdtdVnSAZgBQVVfeXFMTnQwUkRUY2N4STBESlh0b3lxdUlfZnJTUTY4c3ZZaUc3WGoxTktTVFdGTFdMOThiWWk5WldISERUZEtNVTNwTUtaOTk5SDcxbGxtTXh1NG0wYjZrVmI4RGJBdFB2aEhNT1YtZ3lDNGhKbElmWDRldEdEVkNZWkdQTHVaczhXZ1F0WVFleFFFdVFBMnp2c2NENlA?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "SKYAI’s 26% rally looks strong – Until you check THIS data - Bitget",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wTGFabHBSa1RYdnhqMk5CY1ZjLVhtb0M4SVpVSGhRME53Sk9JbEs1VUw5cTdnUTJoTkJObmp6N21zcEUtSGpVSlRPd3A1U1FIZGJYTmEtdWo2TVdSSEHSAWNBVV95cUxOTGxwQjVaQ3lobUJhTnd3OTNQeU12VnV3SXRSVnFjU1A5OXJFNkdwMG5lcVVrM25lWUZ0VGE2MExLcG9hNzl5U1BPVlNGX3YxYlhSUlA1YUp5NGFLN3hLdmg2Q3M?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Bitget lists SKYAI (SKYAI) for Spot Trading - markets.businessinsider.com",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWVmdFpibkcwSE5Zd2FpbE9nWl9oYm1GTDdlQXM5U3B1ZlpBcXlpSWJubDVVQVE3OGczZW9YX0I0REJSSE4zTmRnOTNMVW1JZk1ydEwzbjM0RFZ1Y3NLSmFVVEVmT3lxc3ZXaVp3QlE4NERtQWtaZWpfOTZhWlJrbEs3cm14SmptSWNURVJ0ajJEaVNKMmU4SGZWb1E1d2Jpdnc?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "SkyAI is an all-in-one AI ecosystem powered by MCP, designed to seamlessly integrate intelligent solutions across industries.",
+    "reportIntro": "SkyAI stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-10",
     "slug": "2026-06-10-velvet",
     "coinId": "velvet",
@@ -77,46 +117,6 @@
     ],
     "about": "BTW is the native utility and governance token of the Bitway ecosystem. It powers network operations, enables staking and governance participation, and aligns incentives across Bitway’s yield, payment, and financing products. BTW serves as the core asset that unifies the Bitway network and supports its long-term growth",
     "reportIntro": "Bitway stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-06-08",
-    "slug": "2026-06-08-ethgas-2",
-    "coinId": "ethgas-2",
-    "coinName": "ETHGas",
-    "symbol": "GWEI",
-    "title": "Why GWEI Went Up Yesterday",
-    "priceChange24h": 27.5,
-    "volumeLabel": "Strong",
-    "marketCap": "$340M",
-    "summary": "ETHGas was one of the strongest crypto movers yesterday, gaining 27.5% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 27.5% move.",
-      "Roughly $35M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "ETHGas Launches GWEI: Can This New Protocol Finally End Ethereum’s Gas Wars? - Yahoo Finance",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjBkQl9zaFRfbWM2ZkstYWJzeE5sQXdZYW9aTVZia0V5QTlhTUdPajI1S2FMLVJ6Nmk2cGFtTVM5ZnJPczliU2FiWHBoQk1WMlphamZfdk1fbEo1clpZam52WHJhMUR2UWpJaDR1YmJyeFhUYWpyMzhsNHRPSHhSdW1xaVNPQ21kZUhB?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "ETHGas Price Today | GWEI to USD Live Price, Market Cap &amp; Chart - Binance",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RYzI0WkloQS1QaGVjeUw0MENTRGpFVEQ0cmItYU9WVVBkR0ZfaEdUMzJjb21tbWVwOEZaSEtKZGlza2R4amxqMUt0RFdmZ0p1bWZvdFh3?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "ETHGas price today, GWEI to USD live price, marketcap and chart - CoinMarketCap",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40dVJyYklsM0ZsWG4wX1ViTGdwX3lkZzhVYlhURHU4RzJjVWZGUWpUeGNKZ0psT2lFWlBxRkJqalhRUml1WThoNU9pRGNpUm82cEZoTDNFcTU?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "ETHGas is a Blockspace Infrastructure protocol that decomposes Ethereum blockspace into tradable, composable block units, enabling real‑time block production and laying the foundation for a crypto‑native commodities market for gas. By restructuring gas as a financial primitive, ETHGas unlocks: - Faster block times (sub",
-    "reportIntro": "ETHGas stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]

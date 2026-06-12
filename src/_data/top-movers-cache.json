@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T04:55:26.183Z",
+  "updatedAt": "2026-06-12T04:58:26.042Z",
   "items": [
     {
       "rank": 1,
@@ -7,109 +7,109 @@
       "name": "Velvet",
       "symbol": "VELVET",
       "image": "https://coin-images.coingecko.com/coins/images/67194/large/velvet.jpg?1752054592",
-      "price": "$0.80",
-      "change24h": 104.4,
-      "marketCap": "$331.05M",
-      "volume": "$60.64M"
+      "price": "$1.55",
+      "change24h": 92.3,
+      "marketCap": "$655.64M",
+      "volume": "$49.45M"
     },
     {
       "rank": 2,
-      "id": "audiera",
-      "name": "Audiera",
-      "symbol": "BEAT",
-      "image": "https://coin-images.coingecko.com/coins/images/70428/large/audiera.png?1761964064",
-      "price": "$7.98",
-      "change24h": 72.6,
-      "marketCap": "$2.24B",
-      "volume": "$244.39M"
-    },
-    {
-      "rank": 3,
-      "id": "curve-dao-token",
-      "name": "Curve DAO",
-      "symbol": "CRV",
-      "image": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
-      "price": "$0.24",
-      "change24h": 19.2,
-      "marketCap": "$370.48M",
-      "volume": "$100.34M"
-    },
-    {
-      "rank": 4,
-      "id": "home",
-      "name": "HOME",
-      "symbol": "HOME",
-      "image": "https://coin-images.coingecko.com/coins/images/54873/large/defi-app.png?1742235743",
-      "price": "$0.03",
-      "change24h": 13.2,
-      "marketCap": "$129.00M",
-      "volume": "$70.50M"
-    },
-    {
-      "rank": 5,
-      "id": "monero",
-      "name": "Monero",
-      "symbol": "XMR",
-      "image": "https://coin-images.coingecko.com/coins/images/69/large/monero_logo.png?1696501460",
-      "price": "$339.92",
-      "change24h": 10.2,
-      "marketCap": "$6.39B",
-      "volume": "$135.26M"
-    },
-    {
-      "rank": 6,
-      "id": "convex-finance",
-      "name": "Convex Finance",
-      "symbol": "CVX",
-      "image": "https://coin-images.coingecko.com/coins/images/15585/large/convex.png?1696515221",
-      "price": "$1.30",
-      "change24h": 8.4,
-      "marketCap": "$116.93M",
-      "volume": "$10.49M"
-    },
-    {
-      "rank": 7,
       "id": "skyai",
       "name": "SkyAI",
       "symbol": "SKYAI",
       "image": "https://coin-images.coingecko.com/coins/images/55294/large/1.png?1745517593",
-      "price": "$0.18",
-      "change24h": 8.2,
-      "marketCap": "$180.81M",
-      "volume": "$39.56M"
+      "price": "$0.28",
+      "change24h": 53.5,
+      "marketCap": "$276.94M",
+      "volume": "$60.58M"
     },
     {
-      "rank": 8,
-      "id": "world-liberty-financial",
-      "name": "World Liberty Financial",
-      "symbol": "WLFI",
-      "image": "https://coin-images.coingecko.com/coins/images/50767/large/wlfi.png?1756438915",
-      "price": "$0.06",
-      "change24h": 8.2,
-      "marketCap": "$1.87B",
-      "volume": "$70.14M"
+      "rank": 3,
+      "id": "plasma",
+      "name": "Plasma",
+      "symbol": "XPL",
+      "image": "https://coin-images.coingecko.com/coins/images/66489/large/Plasma-symbol-green-1.png?1755142558",
+      "price": "$0.09",
+      "change24h": 33.7,
+      "marketCap": "$214.72M",
+      "volume": "$156.14M"
     },
     {
-      "rank": 9,
+      "rank": 4,
+      "id": "humanity",
+      "name": "Humanity",
+      "symbol": "H",
+      "image": "https://coin-images.coingecko.com/coins/images/66811/large/H_tokenLogo_original.png?1750581252",
+      "price": "$0.20",
+      "change24h": 25,
+      "marketCap": "$368.92M",
+      "volume": "$100.24M"
+    },
+    {
+      "rank": 5,
+      "id": "lab",
+      "name": "LAB",
+      "symbol": "LAB",
+      "image": "https://coin-images.coingecko.com/coins/images/70014/large/lab.png?1760352822",
+      "price": "$9.80",
+      "change24h": 21.6,
+      "marketCap": "$3.09B",
+      "volume": "$49.26M"
+    },
+    {
+      "rank": 6,
       "id": "pyth-network",
       "name": "Pyth Network",
       "symbol": "PYTH",
       "image": "https://coin-images.coingecko.com/coins/images/31924/large/pyth.png?1701245725",
-      "price": "$0.03",
-      "change24h": 7.8,
-      "marketCap": "$264.05M",
-      "volume": "$16.62M"
+      "price": "$0.04",
+      "change24h": 16.3,
+      "marketCap": "$306.94M",
+      "volume": "$55.85M"
+    },
+    {
+      "rank": 7,
+      "id": "venice-token",
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "image": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
+      "price": "$15.18",
+      "change24h": 11.6,
+      "marketCap": "$711.53M",
+      "volume": "$40.76M"
+    },
+    {
+      "rank": 8,
+      "id": "bitway",
+      "name": "Bitway",
+      "symbol": "BTW",
+      "image": "https://coin-images.coingecko.com/coins/images/71205/large/bitway.png?1766388722",
+      "price": "$0.08",
+      "change24h": 10,
+      "marketCap": "$175.45M",
+      "volume": "$19.94M"
+    },
+    {
+      "rank": 9,
+      "id": "vaulta",
+      "name": "Vaulta",
+      "symbol": "A",
+      "image": "https://coin-images.coingecko.com/coins/images/55616/large/Vaulta_CEX_Icon_Circle_-_cmc.png?1746859132",
+      "price": "$0.07",
+      "change24h": 9.6,
+      "marketCap": "$118.72M",
+      "volume": "$27.40M"
     },
     {
       "rank": 10,
-      "id": "rain",
-      "name": "Rain",
-      "symbol": "RAIN",
-      "image": "https://coin-images.coingecko.com/coins/images/69134/large/Rain_logo_1_.png?1762952191",
-      "price": "$0.01",
-      "change24h": 6.3,
-      "marketCap": "$8.31B",
-      "volume": "$49.37M"
+      "id": "grass",
+      "name": "Grass",
+      "symbol": "GRASS",
+      "image": "https://coin-images.coingecko.com/coins/images/40094/large/Grass.jpg?1725697048",
+      "price": "$0.38",
+      "change24h": 9.4,
+      "marketCap": "$231.80M",
+      "volume": "$23.37M"
     }
   ]
 }
