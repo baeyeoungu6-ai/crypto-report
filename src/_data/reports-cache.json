@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-13",
+    "slug": "2026-06-13-humanity",
+    "coinId": "humanity",
+    "coinName": "Humanity",
+    "symbol": "H",
+    "title": "Why H Went Up Yesterday",
+    "priceChange24h": 48.4,
+    "volumeLabel": "Strong",
+    "marketCap": "$599M",
+    "summary": "Humanity was one of the strongest crypto movers yesterday, gaining 48.4% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 48.4% move.",
+      "Roughly $95M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Humanity Protocol Token Crashes 88% Following Private Key Breach - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1lpNTliVWo1bVZMbzhSbXJQXzFhMWRYNTVFSlRsV0gxRWllNEFBZ2R2TTJ3ZTVPdkJWU1hpcFphaFBtY3lTMEFUczJKOFl3M2FyWDQ3RWpvQUE2cTJrYkYxcUdvOUo0MzFvQkJiTmVPMFFhUy1zS3c0TkNMVktfWnVxbTNzcVZHM05hQXZLNl9GeTBwVXRST2dCT1dHaS1U?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Humanity Protocol token crashes more than 80% after a $32 million private-key hack - CoinDesk",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUThlQXZMNEdCM09qdXdjVUZPcl9LdVA4NERUenpRYS1wQ2lRQk9tQ1diRHpBUERUQnMwOWVfXzNsMjNRcERyQ2JqWjZHX1RicVR3N0NnbG5KSDNRMHN0V1VqaWJPOUxsRVBTTDJGaThIVzB4VjhRcmxqRTZrY05rMGV5LU9kRzlFOHdSanVHdFRmNDB1dVhOYUxWWXM3YkZjdFptaElPT2RkZFA1YXFtNmU5S2ZNSEJiTHFaMTlSZlhLZw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Humanity Protocol (H) Price Prediction: Daily, Weekly 2026 - 2040 - CoinDCX",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2o2dEJzTXRiaXVQdkgwdXdZNUh3ZzRrQmdfX09iNTNzNEJMMUZXNVdtUkRQMy02RkxsajFXUWR5U0ZLcnZrcklBZEFZSTRtUE9FcmYtNFhUUFJnUFhaWU8tUVphemY3TW44VmpjVDBMcnM1R1plZERDQW1kSFBIVWE0dV8?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Humanity Protocol is a blockchain featuring a native Proof of Humanity (PoH) consensus mechanism that verifies users' uniqueness as humans through decentralized identifiers (DID) and verifiable credentials (VC), combining privacy-preserving human recognition, decentralized storage, and zero-knowledge proofs to enable s",
+    "reportIntro": "Humanity stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-12",
     "slug": "2026-06-12-beldex",
     "coinId": "beldex",
@@ -77,46 +117,6 @@
     ],
     "about": "SkyAI is an all-in-one AI ecosystem powered by MCP, designed to seamlessly integrate intelligent solutions across industries.",
     "reportIntro": "SkyAI stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-06-10",
-    "slug": "2026-06-10-velvet",
-    "coinId": "velvet",
-    "coinName": "Velvet",
-    "symbol": "VELVET",
-    "title": "Why VELVET Went Up Yesterday",
-    "priceChange24h": 104.4,
-    "volumeLabel": "Strong",
-    "marketCap": "$331M",
-    "summary": "Velvet was one of the strongest crypto movers yesterday, gaining 104.4% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 104.4% move.",
-      "Roughly $61M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Velvet price today, VELVET to USD live price, marketcap and chart - CoinMarketCap",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xeVVNTThvWi1COFRXZnFlcGNMT0JzYjJiWldMcnZnakFtU0RocWc2ZS1rMW5tNllFdE96WDItS3BMemdOeWdnNlllaXhRT0lQZDI4SzZqaw?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Velvet (VELVET) Price Prediction: Daily, Weekly 2026 – 2040 - CoinDCX",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KUTFxT2FjdUt0SnhYMkc4LV80ai01UC1vRzF3SW1NcS1zWHlCRDEtbU92anB1TFdrZng4XzRfMTZFM3ZGc1F1Y2Y2ck81YTdVMU10ZGNsaE1KZ05yTjBjb01fbjc2UVZVbDJ1M0pRdVB5c3A0LTRIMWdaYzFuR0E?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "VELVET Price Explodes 300% in Days as Trade Integration Fuels Demand Surge - Coinpedia",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTh0YnNOZTF4b1pNd0Jjdk9ab2I1QUlTR3lFSEhackVEdWw3YjZJM0RyX0VNdk5KV3VGSGxjQ2JtTFh5LWQzVlRRWXhrLTF4TEZTXzY0Nms2b0xxWDlDS1ladW15X0ZoWGJDSUM5QzdtMFdNR1E0RzJVbXBsZ0dZcTZhcGc0Ukg1dGZWSDhzTDhMSlM0UFlTM1VXX3dQemF2NEs3bVIteUsxRk5WZDVnMtIBtgFBVV95cUxNREF5Y0VIVE5fR0tDNElCaWR2Z2tkdzBoVDJNRjJyXzFtd3d1LXpyRUliYl8ta1NDbmotZXE5WUlpcm8wSmV4U0FycmxQYWxNX2FxcVFUWVR2VngwVEwwbmpDNlJncDhCYVpUOUxzTE5aRDA3Y2hhT2pMRmtMS25aaUxYazA4Vi1aQmpMa3JDU2U0amRYMmdVUW9nYzhWZFpxajljU3ZYWmNJdEszSnVIc3RyT01uZw?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "Velvet is a crypto asset tracked across major exchanges.",
-    "reportIntro": "Velvet stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
