@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-14",
+    "slug": "2026-06-14-worldcoin-wld",
+    "coinId": "worldcoin-wld",
+    "coinName": "Worldcoin",
+    "symbol": "WLD",
+    "title": "Why WLD Went Up Yesterday",
+    "priceChange24h": 20.1,
+    "volumeLabel": "Very High",
+    "marketCap": "$2.0B",
+    "summary": "Worldcoin was one of the strongest crypto movers yesterday, gaining 20.1% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 20.1% move.",
+      "Roughly $827M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Worldcoin (WLD) Price Prediction: WLD Holds Key Support After 120% Rally, Is a Return to $0.64 Next? - Brave New Coin",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejVhOW9nZEpxNmVjVWViWGpqVk9ETnFnd3NZQ2JMR1NELTh6Ui1YU3M5d3REai1PbmVEXzBhRTZkMUpkYnNjNzlYZE5tejJTQTlTVHZkM3k5Y2ZFYkp4LUlScG1sQTdIMWlmeGtESjJrTTBvVm9MTEhaSXZpbTBCLTdjWkp6alFXaXhjZTBzMnJoVW9wSHA4MmcwZHFESFhpRkl1MzlYZ01Wemh6Q0NQYXNrTWJkcjRBUk9NYTg0TGE2elBkOGc?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Sam Altman's Worldcoin Rallies After OpenAI Joins Wave Of AI Giants Eyeing Public Markets - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjZwM0tDTXNwYkw3LUtmdTZLcjVSZEVSU0RJWkVDTlQzb1YybVc2VnFKeTNKTnJtbjAwR2xEaDloRmxmNmFybGVVUXFRSkV3Q25zZDktWXR5Z05OQjdEYW9VNzllbFV2STVhUVhyRkJudXJqWGJJTU9neDYyQm5zQXFnVWtoN2JjNVlsbjVGbFNNenVQSjdnc19pWkNnc2pZSXA4?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Sam Altman’s Worldcoin Hits 4-Month High Following Arthur Hayes’ $10 WLD Price Target - Stocktwits",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEIxSnZ6OElWeEtZcUhtdnJzVlNCV3lxOE94MHFVM3RMTW1RVTk2aDd0aWxlUVVKOVBtVFhSdzRjeWtQaEVjU2czUHJ1U2VmYkxBYnFRYmRoMV9EMm51SnVoYXdzREg1NUtXWG1OckJYYVVXWFpBVGx2MnQ5TnlVLTFfUU9TaU92RDRQeTZfOGpVdUI2a0IzQl9mVnNtamNMaGtVVmhINXpCWXFXNEtaSjBfMHR6SGFzaWdaS0xjM3JuUkE1cnA4V0h5YWZTWnRCNVRESg?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "The mission of the Worldcoin project is to build the world’s largest identity and financial network as a public utility, giving ownership to everyone. A key component of the Worldcoin project is the development of the foundational infrastructure that will be important for a world where AI plays an increasingly large ro",
+    "reportIntro": "Worldcoin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-13",
     "slug": "2026-06-13-humanity",
     "coinId": "humanity",
@@ -77,46 +117,6 @@
     ],
     "about": "Beldex building a decentralized confidential ecosystem in Web3 for secure digital interactions.. The concept of the project was developed in 2018, and launched in the same year. The Beldex project is committed to enhancing user data protection and their confidentiality online. BDX is an ecosystem coin that facilitates ",
     "reportIntro": "Beldex stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-06-11",
-    "slug": "2026-06-11-skyai",
-    "coinId": "skyai",
-    "coinName": "SkyAI",
-    "symbol": "SKYAI",
-    "title": "Why SKYAI Went Up Yesterday",
-    "priceChange24h": 53.5,
-    "volumeLabel": "Strong",
-    "marketCap": "$277M",
-    "summary": "SkyAI was one of the strongest crypto movers yesterday, gaining 53.5% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 53.5% move.",
-      "Roughly $61M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "SKYAI loses its recovery gains: Is a deeper correction now underway? - AMBCrypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTVJlX0NrU1kyVjNDdGZUbHNZdnlVN3Q0VDRHTC1nUE5Dc2VRVW5idGk0MHNtcS13eHpyVmdFRm5GaHF3RE5PaDZsVjFIVF9KQ1dheFRtZkpHX0N4STVweUdvdG1jNWx2ck5haWluY1Bkc1JsaFRaLW9oSDBKX21PRWY4bk5rZVRvM3ROUktpWEdtdVnSAZgBQVVfeXFMTnQwUkRUY2N4STBESlh0b3lxdUlfZnJTUTY4c3ZZaUc3WGoxTktTVFdGTFdMOThiWWk5WldISERUZEtNVTNwTUtaOTk5SDcxbGxtTXh1NG0wYjZrVmI4RGJBdFB2aEhNT1YtZ3lDNGhKbElmWDRldEdEVkNZWkdQTHVaczhXZ1F0WVFleFFFdVFBMnp2c2NENlA?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "SKYAI’s 26% rally looks strong – Until you check THIS data - Bitget",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wTGFabHBSa1RYdnhqMk5CY1ZjLVhtb0M4SVpVSGhRME53Sk9JbEs1VUw5cTdnUTJoTkJObmp6N21zcEUtSGpVSlRPd3A1U1FIZGJYTmEtdWo2TVdSSEHSAWNBVV95cUxOTGxwQjVaQ3lobUJhTnd3OTNQeU12VnV3SXRSVnFjU1A5OXJFNkdwMG5lcVVrM25lWUZ0VGE2MExLcG9hNzl5U1BPVlNGX3YxYlhSUlA1YUp5NGFLN3hLdmg2Q3M?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Bitget lists SKYAI (SKYAI) for Spot Trading - markets.businessinsider.com",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWVmdFpibkcwSE5Zd2FpbE9nWl9oYm1GTDdlQXM5U3B1ZlpBcXlpSWJubDVVQVE3OGczZW9YX0I0REJSSE4zTmRnOTNMVW1JZk1ydEwzbjM0RFZ1Y3NLSmFVVEVmT3lxc3ZXaVp3QlE4NERtQWtaZWpfOTZhWlJrbEs3cm14SmptSWNURVJ0ajJEaVNKMmU4SGZWb1E1d2Jpdnc?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "SkyAI is an all-in-one AI ecosystem powered by MCP, designed to seamlessly integrate intelligent solutions across industries.",
-    "reportIntro": "SkyAI stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
