@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-16",
+    "slug": "2026-06-16-lab",
+    "coinId": "lab",
+    "coinName": "LAB",
+    "symbol": "LAB",
+    "title": "Why LAB Went Up Yesterday",
+    "priceChange24h": 39.5,
+    "volumeLabel": "Strong",
+    "marketCap": "$4.4B",
+    "summary": "LAB was one of the strongest crypto movers yesterday, gaining 39.5% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 39.5% move.",
+      "Roughly $60M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "LAB token surges 37.2% amid biotech partnerships, leading crypto gainers. - Pluang",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3AycERZTU5WbW1aZXBqdmk3UG9UTVNSMi1XOGVhNzQ0RnMyZkszZ1ZMOFRyQW1QVHJpMHlKb3dQNkRwZlRPZjZJaUJzTzRaSVlFeUNBTzBKNzk3SE1xdkZURVg0MHY5cTV0TFpva0NnOHN2NzhHUlFFWktkZmwwUXJMcnFCMnRz?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "LAB Surges 70% to All-Time High as Locked Holders Sit on Untouchable Profits - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNF9pYmpNNlJ1WjdEU05jSFQzd0JSX0FpT25QZWhoYmUyUnpzMUhmemVRYTFrUjFlalVQd3JJZFRtVmlRT0RpQXA5NlV3TW5qZ29WZjExM3dOdnIwWm03dThrcU5Dc1h6TEF5dDVMWkx0dktiNHpJVEtkU0tqcm1RRWJacWIyMHhpWVlBcnJNbVR1UQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "LAB Token Soars 192%—Discover What’s Fueling the Surge! - Phemex",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uYUlwczZxV2JfWWN5TWZOSlRtcTFkVjhudHFfc3d0Uk1EZUppXzFYNzU4cXJlaHpaMncwUmJuWVd0bXY3azVXS1FGRDhseFlRb3IwdlJIOC1kckM4RkVQeQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "LAB is the first all-in-one trading ecosystem, enabling faster execution, the lowest market fees, and a viral incentive layer powered by $LAB. Integrated with existing trading platforms it allows to tap into an established network while creating a unified environment for a new trading experience. LAB brings together tr",
+    "reportIntro": "LAB stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-15",
     "slug": "2026-06-15-jito-governance-token",
     "coinId": "jito-governance-token",
@@ -77,46 +117,6 @@
     ],
     "about": "The mission of the Worldcoin project is to build the world’s largest identity and financial network as a public utility, giving ownership to everyone. A key component of the Worldcoin project is the development of the foundational infrastructure that will be important for a world where AI plays an increasingly large ro",
     "reportIntro": "Worldcoin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-06-13",
-    "slug": "2026-06-13-humanity",
-    "coinId": "humanity",
-    "coinName": "Humanity",
-    "symbol": "H",
-    "title": "Why H Went Up Yesterday",
-    "priceChange24h": 48.4,
-    "volumeLabel": "Strong",
-    "marketCap": "$599M",
-    "summary": "Humanity was one of the strongest crypto movers yesterday, gaining 48.4% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 48.4% move.",
-      "Roughly $95M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Humanity Protocol Token Crashes 88% Following Private Key Breach - Yahoo Finance",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1lpNTliVWo1bVZMbzhSbXJQXzFhMWRYNTVFSlRsV0gxRWllNEFBZ2R2TTJ3ZTVPdkJWU1hpcFphaFBtY3lTMEFUczJKOFl3M2FyWDQ3RWpvQUE2cTJrYkYxcUdvOUo0MzFvQkJiTmVPMFFhUy1zS3c0TkNMVktfWnVxbTNzcVZHM05hQXZLNl9GeTBwVXRST2dCT1dHaS1U?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Humanity Protocol token crashes more than 80% after a $32 million private-key hack - CoinDesk",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUThlQXZMNEdCM09qdXdjVUZPcl9LdVA4NERUenpRYS1wQ2lRQk9tQ1diRHpBUERUQnMwOWVfXzNsMjNRcERyQ2JqWjZHX1RicVR3N0NnbG5KSDNRMHN0V1VqaWJPOUxsRVBTTDJGaThIVzB4VjhRcmxqRTZrY05rMGV5LU9kRzlFOHdSanVHdFRmNDB1dVhOYUxWWXM3YkZjdFptaElPT2RkZFA1YXFtNmU5S2ZNSEJiTHFaMTlSZlhLZw?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Humanity Protocol (H) Price Prediction: Daily, Weekly 2026 - 2040 - CoinDCX",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2o2dEJzTXRiaXVQdkgwdXdZNUh3ZzRrQmdfX09iNTNzNEJMMUZXNVdtUkRQMy02RkxsajFXUWR5U0ZLcnZrcklBZEFZSTRtUE9FcmYtNFhUUFJnUFhaWU8tUVphemY3TW44VmpjVDBMcnM1R1plZERDQW1kSFBIVWE0dV8?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "Humanity Protocol is a blockchain featuring a native Proof of Humanity (PoH) consensus mechanism that verifies users' uniqueness as humans through decentralized identifiers (DID) and verifiable credentials (VC), combining privacy-preserving human recognition, decentralized storage, and zero-knowledge proofs to enable s",
-    "reportIntro": "Humanity stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
