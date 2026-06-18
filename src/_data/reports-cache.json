@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-17",
+    "slug": "2026-06-17-home",
+    "coinId": "home",
+    "coinName": "HOME",
+    "symbol": "HOME",
+    "title": "Why HOME Went Up Yesterday",
+    "priceChange24h": 31.3,
+    "volumeLabel": "Strong",
+    "marketCap": "$142M",
+    "summary": "HOME was one of the strongest crypto movers yesterday, gaining 31.3% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 31.3% move.",
+      "Roughly $47M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "UFC to pay White House fighters in crypto issued by Trump company - The Guardian",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHhCa0diS0hxYk1YUmQ3NHNYTTNnNnRlU0FrZ0pSdGhEWUtYcTg3RHZRWGxEUEx5UEQwVVRVNHFxY0dnbzZiM29xMUduN3FUOGE4VlRSOENaYnBXdFRTZ2FMRkRuZmd3RlRzckJrNW8teWp0X1d3RU15ZFRRVW9aQTBQT1VjUQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "I’m Starting to Think the White House UFC Fight Was All Just a Weird Crypto Scam - Esquire",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeXVnclZGVzBNZ2VTYUlWV1Z6dlBjakJHMllJUDh5NGhDbVlXUzRDNjl6RXp4dWJzSWRtV1ppeDdpdllWRXBUVXl2QVZ6c1JwTnZ1a28yUHdOMUYtaHRCZlNJOHFZckF4UElNZFdPNXZyTXRLeDBUS2k1UFJKQmFqMkN1bEVoN1BQQ2lnMW94VQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Key US House Committee Preparing Legislation to Forge Crypto Tax Structure - Bloomberg",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWF9KUEQ0ZENYMTFITFFDa1dmS0pFc25ZWnhIOVlqbmplZ21fNzRzMTY4UUNjS0N2dG8wT3FnX1NMMFQ4TVJxR3ViQllaaFlaS2hZRGJMZjBsOFJRRjhtcllEWGprRE15bnFTaTR5RHBPUDFoY25ibTQ5MHYybTZjVlVzT3lEeG92R21URC1PQWxINGhVTFh1WEw5ZVVveGF1MTFpRXBHNmJwOHljT0F2MklTYjVCdFhKQ2pyek84UUhvRTg?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Crypto's \"Everything App\" that makes DeFi as easy as using an iPhone, combining instant cross-chain swaps, yield farming, and perps trading with zero gas fees, zero bridging and full self-custody. Decentralized finance has massive potential, but several challenges have consistently held it back from broader adoption: -",
+    "reportIntro": "HOME stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-16",
     "slug": "2026-06-16-lab",
     "coinId": "lab",
@@ -77,46 +117,6 @@
     ],
     "about": "JTO is the governance token of the Jito Network. Jito Network is a major contributor to the Solana ecosystem through its JitoSOL liquid staking pool, and its collection of MEV products. Users can exchange their SOL for JitoSOL. In return, holders maintain SOL’s liquidity and DeFi opportunities while earning yield from ",
     "reportIntro": "Jito stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-06-14",
-    "slug": "2026-06-14-worldcoin-wld",
-    "coinId": "worldcoin-wld",
-    "coinName": "Worldcoin",
-    "symbol": "WLD",
-    "title": "Why WLD Went Up Yesterday",
-    "priceChange24h": 20.1,
-    "volumeLabel": "Very High",
-    "marketCap": "$2.0B",
-    "summary": "Worldcoin was one of the strongest crypto movers yesterday, gaining 20.1% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 20.1% move.",
-      "Roughly $827M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Worldcoin (WLD) Price Prediction: WLD Holds Key Support After 120% Rally, Is a Return to $0.64 Next? - Brave New Coin",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejVhOW9nZEpxNmVjVWViWGpqVk9ETnFnd3NZQ2JMR1NELTh6Ui1YU3M5d3REai1PbmVEXzBhRTZkMUpkYnNjNzlYZE5tejJTQTlTVHZkM3k5Y2ZFYkp4LUlScG1sQTdIMWlmeGtESjJrTTBvVm9MTEhaSXZpbTBCLTdjWkp6alFXaXhjZTBzMnJoVW9wSHA4MmcwZHFESFhpRkl1MzlYZ01Wemh6Q0NQYXNrTWJkcjRBUk9NYTg0TGE2elBkOGc?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Sam Altman's Worldcoin Rallies After OpenAI Joins Wave Of AI Giants Eyeing Public Markets - Yahoo Finance",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjZwM0tDTXNwYkw3LUtmdTZLcjVSZEVSU0RJWkVDTlQzb1YybVc2VnFKeTNKTnJtbjAwR2xEaDloRmxmNmFybGVVUXFRSkV3Q25zZDktWXR5Z05OQjdEYW9VNzllbFV2STVhUVhyRkJudXJqWGJJTU9neDYyQm5zQXFnVWtoN2JjNVlsbjVGbFNNenVQSjdnc19pWkNnc2pZSXA4?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Sam Altman’s Worldcoin Hits 4-Month High Following Arthur Hayes’ $10 WLD Price Target - Stocktwits",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZEIxSnZ6OElWeEtZcUhtdnJzVlNCV3lxOE94MHFVM3RMTW1RVTk2aDd0aWxlUVVKOVBtVFhSdzRjeWtQaEVjU2czUHJ1U2VmYkxBYnFRYmRoMV9EMm51SnVoYXdzREg1NUtXWG1OckJYYVVXWFpBVGx2MnQ5TnlVLTFfUU9TaU92RDRQeTZfOGpVdUI2a0IzQl9mVnNtamNMaGtVVmhINXpCWXFXNEtaSjBfMHR6SGFzaWdaS0xjM3JuUkE1cnA4V0h5YWZTWnRCNVRESg?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "The mission of the Worldcoin project is to build the world’s largest identity and financial network as a public utility, giving ownership to everyone. A key component of the Worldcoin project is the development of the foundational infrastructure that will be important for a world where AI plays an increasingly large ro",
-    "reportIntro": "Worldcoin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]

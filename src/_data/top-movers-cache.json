@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-06-17T05:07:12.453Z",
+  "updatedAt": "2026-06-18T04:57:10.970Z",
   "items": [
     {
       "rank": 1,
+      "id": "home",
+      "name": "HOME",
+      "symbol": "HOME",
+      "image": "https://coin-images.coingecko.com/coins/images/54873/large/defi-app.png?1742235743",
+      "price": "$0.04",
+      "change24h": 31.3,
+      "marketCap": "$141.95M",
+      "volume": "$46.89M"
+    },
+    {
+      "rank": 2,
+      "id": "plasma",
+      "name": "Plasma",
+      "symbol": "XPL",
+      "image": "https://coin-images.coingecko.com/coins/images/66489/large/Plasma-symbol-green-1.png?1755142558",
+      "price": "$0.10",
+      "change24h": 8.9,
+      "marketCap": "$261.75M",
+      "volume": "$348.06M"
+    },
+    {
+      "rank": 3,
+      "id": "block-street",
+      "name": "Block Street",
+      "symbol": "BSB",
+      "image": "https://coin-images.coingecko.com/coins/images/102172257/large/bsb_400x400.jpg?1772553610",
+      "price": "$0.54",
+      "change24h": 8.4,
+      "marketCap": "$118.74M",
+      "volume": "$55.26M"
+    },
+    {
+      "rank": 4,
+      "id": "ethena",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "image": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436",
+      "price": "$0.09",
+      "change24h": 7.1,
+      "marketCap": "$861.99M",
+      "volume": "$294.56M"
+    },
+    {
+      "rank": 5,
+      "id": "ether-fi",
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "image": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562",
+      "price": "$0.36",
+      "change24h": 6.4,
+      "marketCap": "$337.46M",
+      "volume": "$75.61M"
+    },
+    {
+      "rank": 6,
+      "id": "bianrensheng",
+      "name": "币安人生 (BinanceLife)",
+      "symbol": "币安人生",
+      "image": "https://coin-images.coingecko.com/coins/images/69848/large/%E5%B8%81%E5%AE%89%E4%BA%BA%E7%94%9F.png?1759839225",
+      "price": "$0.70",
+      "change24h": 4.8,
+      "marketCap": "$701.36M",
+      "volume": "$13.55M"
+    },
+    {
+      "rank": 7,
+      "id": "stellar",
+      "name": "Stellar",
+      "symbol": "XLM",
+      "image": "https://coin-images.coingecko.com/coins/images/100/large/fmpFRHHQ_400x400.jpg?1735231350",
+      "price": "$0.23",
+      "change24h": 3.4,
+      "marketCap": "$7.83B",
+      "volume": "$626.68M"
+    },
+    {
+      "rank": 8,
       "id": "lab",
       "name": "LAB",
       "symbol": "LAB",
       "image": "https://coin-images.coingecko.com/coins/images/70014/large/lab.png?1760352822",
-      "price": "$13.90",
-      "change24h": 39.5,
-      "marketCap": "$4.37B",
-      "volume": "$59.83M"
-    },
-    {
-      "rank": 2,
-      "id": "uniswap",
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "image": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
-      "price": "$3.57",
-      "change24h": 23.8,
-      "marketCap": "$2.22B",
-      "volume": "$707.49M"
-    },
-    {
-      "rank": 3,
-      "id": "sentient",
-      "name": "Sentient",
-      "symbol": "SENT",
-      "image": "https://coin-images.coingecko.com/coins/images/70508/large/SENTIENT-Icon-BlushForce-L.png?1762267532",
-      "price": "$0.02",
-      "change24h": 22.2,
-      "marketCap": "$139.59M",
-      "volume": "$95.61M"
-    },
-    {
-      "rank": 4,
-      "id": "spx6900",
-      "name": "SPX6900",
-      "symbol": "SPX",
-      "image": "https://coin-images.coingecko.com/coins/images/31401/large/centeredcoin_%281%29.png?1737048493",
-      "price": "$0.47",
-      "change24h": 20.6,
-      "marketCap": "$442.02M",
-      "volume": "$138.37M"
-    },
-    {
-      "rank": 5,
-      "id": "celestia",
-      "name": "Celestia",
-      "symbol": "TIA",
-      "image": "https://coin-images.coingecko.com/coins/images/31967/large/tia.jpg?1696530772",
-      "price": "$0.42",
-      "change24h": 14.1,
-      "marketCap": "$391.92M",
-      "volume": "$63.83M"
-    },
-    {
-      "rank": 6,
-      "id": "worldcoin-wld",
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "image": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903",
-      "price": "$0.68",
-      "change24h": 13.8,
-      "marketCap": "$2.31B",
-      "volume": "$1.39B"
-    },
-    {
-      "rank": 7,
-      "id": "humanity",
-      "name": "Humanity",
-      "symbol": "H",
-      "image": "https://coin-images.coingecko.com/coins/images/66811/large/H_tokenLogo_original.png?1750581252",
-      "price": "$0.27",
-      "change24h": 13.5,
-      "marketCap": "$492.68M",
-      "volume": "$80.38M"
-    },
-    {
-      "rank": 8,
-      "id": "aerodrome-finance",
-      "name": "Aerodrome Finance",
-      "symbol": "AERO",
-      "image": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
-      "price": "$0.48",
-      "change24h": 12.7,
-      "marketCap": "$460.57M",
-      "volume": "$86.70M"
+      "price": "$14.36",
+      "change24h": 3,
+      "marketCap": "$4.49B",
+      "volume": "$41.14M"
     },
     {
       "rank": 9,
-      "id": "akash-network",
-      "name": "Akash Network",
-      "symbol": "AKT",
-      "image": "https://coin-images.coingecko.com/coins/images/12785/large/akash-logo.png?1696512580",
-      "price": "$0.87",
-      "change24h": 11.2,
-      "marketCap": "$254.42M",
-      "volume": "$14.05M"
+      "id": "rain",
+      "name": "Rain",
+      "symbol": "RAIN",
+      "image": "https://coin-images.coingecko.com/coins/images/69134/large/Rain_logo_1_.png?1762952191",
+      "price": "$0.01",
+      "change24h": 2.9,
+      "marketCap": "$9.05B",
+      "volume": "$41.68M"
     },
     {
       "rank": 10,
-      "id": "pendle",
-      "name": "Pendle",
-      "symbol": "PENDLE",
-      "image": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728",
-      "price": "$1.50",
-      "change24h": 10.9,
-      "marketCap": "$255.46M",
-      "volume": "$46.74M"
+      "id": "sun-token",
+      "name": "Sun Token",
+      "symbol": "SUN",
+      "image": "https://coin-images.coingecko.com/coins/images/12424/large/RSFOmQ.png?1696512245",
+      "price": "$0.02",
+      "change24h": 2.1,
+      "marketCap": "$331.59M",
+      "volume": "$68.14M"
     }
   ]
 }
