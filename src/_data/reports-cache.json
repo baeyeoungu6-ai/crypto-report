@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-19",
+    "slug": "2026-06-19-o1-exchange",
+    "coinId": "o1-exchange",
+    "coinName": "o1.exchange",
+    "symbol": "O",
+    "title": "Why O Went Up Yesterday",
+    "priceChange24h": 49.1,
+    "volumeLabel": "Strong",
+    "marketCap": "$136M",
+    "summary": "o1.exchange was one of the strongest crypto movers yesterday, gaining 49.1% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 49.1% move.",
+      "Roughly $61M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "o1.exchange Price: O/USD Live Price Chart, Market Cap &amp; News Today - CoinGecko",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zbFVQMElPa1hKd1JtUnZfZkVSR05SMUZoUGVDcVlhTXUwUXFTMnZ3MWhEOVZDczBsVkwyNmdsSVFfR25WcWFSalFLTHlsLUtKRnZUc0c2cDFMUQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Bitget lists o1.exchange (O) for Spot Trading - markets.businessinsider.com",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbWNaa0pCR0N2eFhtZEs1YXZZUTJRMzNnMk5EbmxQWGFTUlN5WmgtdlBvZlVuVmpoVjZwTGdsSzNLTTBaOE1JSWR5MVJnRnNqU2tWWHhOTXFTUjV4NHhIdi1WdDN1cmd6OG5KblRnSWF4Y0pReVBKVzhTVm1sTUNjamhva0Z3OEE2VXpNX29qMzlyQ0JPa3lsV3JxQ3BBRldNWXdXSQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Coinbase lists o1.exchange, boosting visibility and accessibility - Crypto Briefing",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON3ZyOEhqemxaa1FaM3dobVJjNFR5TGg2T2RIbngwRmliMlFDU19ra3RhMHlWbnBpYmhpdERuQUpkXzB6S0pDZUtqVk5WNWlJR0o0Z19aSk5QQ2l3QmlOLUFuVlh2SGU1UVVoQjZlejB6eGJadHlTQnFReks2QWZqbTVDZE9DaGFuUXJoR0tzN3pPXzhrYlE?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "o1.exchange is a crypto asset tracked across major exchanges.",
+    "reportIntro": "o1.exchange stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-18",
     "slug": "2026-06-18-bitway",
     "coinId": "bitway",
@@ -77,46 +117,6 @@
     ],
     "about": "Crypto's \"Everything App\" that makes DeFi as easy as using an iPhone, combining instant cross-chain swaps, yield farming, and perps trading with zero gas fees, zero bridging and full self-custody. Decentralized finance has massive potential, but several challenges have consistently held it back from broader adoption: -",
     "reportIntro": "HOME stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-06-16",
-    "slug": "2026-06-16-lab",
-    "coinId": "lab",
-    "coinName": "LAB",
-    "symbol": "LAB",
-    "title": "Why LAB Went Up Yesterday",
-    "priceChange24h": 39.5,
-    "volumeLabel": "Strong",
-    "marketCap": "$4.4B",
-    "summary": "LAB was one of the strongest crypto movers yesterday, gaining 39.5% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 39.5% move.",
-      "Roughly $60M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "LAB token surges 37.2% amid biotech partnerships, leading crypto gainers. - Pluang",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3AycERZTU5WbW1aZXBqdmk3UG9UTVNSMi1XOGVhNzQ0RnMyZkszZ1ZMOFRyQW1QVHJpMHlKb3dQNkRwZlRPZjZJaUJzTzRaSVlFeUNBTzBKNzk3SE1xdkZURVg0MHY5cTV0TFpva0NnOHN2NzhHUlFFWktkZmwwUXJMcnFCMnRz?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "LAB Surges 70% to All-Time High as Locked Holders Sit on Untouchable Profits - Yahoo Finance",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNF9pYmpNNlJ1WjdEU05jSFQzd0JSX0FpT25QZWhoYmUyUnpzMUhmemVRYTFrUjFlalVQd3JJZFRtVmlRT0RpQXA5NlV3TW5qZ29WZjExM3dOdnIwWm03dThrcU5Dc1h6TEF5dDVMWkx0dktiNHpJVEtkU0tqcm1RRWJacWIyMHhpWVlBcnJNbVR1UQ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "LAB Token Soars 192%—Discover What’s Fueling the Surge! - Phemex",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uYUlwczZxV2JfWWN5TWZOSlRtcTFkVjhudHFfc3d0Uk1EZUppXzFYNzU4cXJlaHpaMncwUmJuWVd0bXY3azVXS1FGRDhseFlRb3IwdlJIOC1kckM4RkVQeQ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "LAB is the first all-in-one trading ecosystem, enabling faster execution, the lowest market fees, and a viral incentive layer powered by $LAB. Integrated with existing trading platforms it allows to tap into an established network while creating a unified environment for a new trading experience. LAB brings together tr",
-    "reportIntro": "LAB stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]

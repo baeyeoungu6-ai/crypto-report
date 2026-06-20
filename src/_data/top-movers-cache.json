@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T05:19:42.909Z",
+  "updatedAt": "2026-06-20T04:37:14.329Z",
   "items": [
     {
       "rank": 1,
@@ -7,109 +7,109 @@
       "name": "Bitway",
       "symbol": "BTW",
       "image": "https://coin-images.coingecko.com/coins/images/71205/large/bitway.png?1766388722",
-      "price": "$0.06",
-      "change24h": 40.1,
-      "marketCap": "$129.81M",
-      "volume": "$79.67M"
+      "price": "$0.10",
+      "change24h": 80.4,
+      "marketCap": "$227.37M",
+      "volume": "$71.87M"
     },
     {
       "rank": 2,
-      "id": "velvet",
-      "name": "Velvet",
-      "symbol": "VELVET",
-      "image": "https://coin-images.coingecko.com/coins/images/67194/large/velvet.jpg?1752054592",
-      "price": "$0.46",
-      "change24h": 37.1,
-      "marketCap": "$193.28M",
-      "volume": "$34.32M"
+      "id": "o1-exchange",
+      "name": "o1.exchange",
+      "symbol": "O",
+      "image": "https://coin-images.coingecko.com/coins/images/102173974/large/o1.png?1781654491",
+      "price": "$0.85",
+      "change24h": 49.1,
+      "marketCap": "$135.58M",
+      "volume": "$61.31M"
     },
     {
       "rank": 3,
-      "id": "dexe",
-      "name": "DeXe",
-      "symbol": "DEXE",
-      "image": "https://coin-images.coingecko.com/coins/images/12713/large/DEXE_token_logo.png?1696512514",
-      "price": "$16.53",
-      "change24h": 21.6,
-      "marketCap": "$773.12M",
-      "volume": "$28.07M"
-    },
-    {
-      "rank": 4,
-      "id": "backpack",
-      "name": "Backpack",
-      "symbol": "BP",
-      "image": "https://coin-images.coingecko.com/coins/images/102171961/large/image_%285%29.png?1774269858",
-      "price": "$0.61",
-      "change24h": 18,
-      "marketCap": "$151.01M",
-      "volume": "$10.05M"
-    },
-    {
-      "rank": 5,
       "id": "eigenlayer",
       "name": "EigenCloud (prev. EigenLayer)",
       "symbol": "EIGEN",
       "image": "https://coin-images.coingecko.com/coins/images/37441/large/eigencloud.jpg?1751003565",
-      "price": "$0.22",
-      "change24h": 14.3,
-      "marketCap": "$166.58M",
-      "volume": "$41.15M"
+      "price": "$0.27",
+      "change24h": 21.4,
+      "marketCap": "$199.82M",
+      "volume": "$83.31M"
+    },
+    {
+      "rank": 4,
+      "id": "axie-infinity",
+      "name": "Axie Infinity",
+      "symbol": "AXS",
+      "image": "https://coin-images.coingecko.com/coins/images/13029/large/axie_infinity_logo.png?1696512817",
+      "price": "$1.12",
+      "change24h": 19.5,
+      "marketCap": "$195.92M",
+      "volume": "$107.65M"
+    },
+    {
+      "rank": 5,
+      "id": "aerodrome-finance",
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "image": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
+      "price": "$0.49",
+      "change24h": 14,
+      "marketCap": "$470.39M",
+      "volume": "$53.37M"
     },
     {
       "rank": 6,
-      "id": "audiera",
-      "name": "Audiera",
-      "symbol": "BEAT",
-      "image": "https://coin-images.coingecko.com/coins/images/70428/large/audiera.png?1761964064",
-      "price": "$1.95",
-      "change24h": 10.2,
-      "marketCap": "$560.18M",
-      "volume": "$55.30M"
+      "id": "the-sandbox",
+      "name": "The Sandbox",
+      "symbol": "SAND",
+      "image": "https://coin-images.coingecko.com/coins/images/12129/large/sandbox_logo.jpg?1696511971",
+      "price": "$0.05",
+      "change24h": 7.3,
+      "marketCap": "$144.81M",
+      "volume": "$36.33M"
     },
     {
       "rank": 7,
-      "id": "lab",
-      "name": "LAB",
-      "symbol": "LAB",
-      "image": "https://coin-images.coingecko.com/coins/images/70014/large/lab.png?1760352822",
-      "price": "$15.20",
-      "change24h": 6.3,
-      "marketCap": "$4.80B",
-      "volume": "$58.05M"
+      "id": "ethereum-classic",
+      "name": "Ethereum Classic",
+      "symbol": "ETC",
+      "image": "https://coin-images.coingecko.com/coins/images/453/large/ethereum-classic-logo.png?1696501717",
+      "price": "$7.62",
+      "change24h": 6.6,
+      "marketCap": "$1.19B",
+      "volume": "$83.72M"
     },
     {
       "rank": 8,
-      "id": "arweave",
-      "name": "Arweave",
-      "symbol": "AR",
-      "image": "https://coin-images.coingecko.com/coins/images/4343/large/oRt6SiEN_400x400.jpg?1696504946",
-      "price": "$2.01",
-      "change24h": 4.4,
-      "marketCap": "$131.96M",
-      "volume": "$13.53M"
+      "id": "grass",
+      "name": "Grass",
+      "symbol": "GRASS",
+      "image": "https://coin-images.coingecko.com/coins/images/40094/large/Grass.jpg?1725697048",
+      "price": "$0.42",
+      "change24h": 6.4,
+      "marketCap": "$253.29M",
+      "volume": "$24.13M"
     },
     {
       "rank": 9,
-      "id": "sky",
-      "name": "Sky",
-      "symbol": "SKY",
-      "image": "https://coin-images.coingecko.com/coins/images/39925/large/sky.jpg?1724827980",
-      "price": "$0.06",
-      "change24h": 4.1,
-      "marketCap": "$1.36B",
-      "volume": "$14.47M"
+      "id": "decentraland",
+      "name": "Decentraland",
+      "symbol": "MANA",
+      "image": "https://coin-images.coingecko.com/coins/images/878/large/decentraland-mana.png?1696502010",
+      "price": "$0.07",
+      "change24h": 6.1,
+      "marketCap": "$135.12M",
+      "volume": "$12.62M"
     },
     {
       "rank": 10,
-      "id": "midnight-3",
-      "name": "Midnight",
-      "symbol": "NIGHT",
-      "image": "https://coin-images.coingecko.com/coins/images/71015/large/midnight.png?1765193080",
-      "price": "$0.03",
-      "change24h": 4,
-      "marketCap": "$514.63M",
-      "volume": "$103.85M"
+      "id": "plasma",
+      "name": "Plasma",
+      "symbol": "XPL",
+      "image": "https://coin-images.coingecko.com/coins/images/66489/large/Plasma-symbol-green-1.png?1755142558",
+      "price": "$0.10",
+      "change24h": 5.8,
+      "marketCap": "$251.09M",
+      "volume": "$140.03M"
     }
   ]
 }
