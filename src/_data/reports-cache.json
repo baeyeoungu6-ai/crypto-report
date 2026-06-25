@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-24",
+    "slug": "2026-06-24-aave",
+    "coinId": "aave",
+    "coinName": "Aave",
+    "symbol": "AAVE",
+    "title": "Why AAVE Went Up Yesterday",
+    "priceChange24h": 14.8,
+    "volumeLabel": "High",
+    "marketCap": "$1.3B",
+    "summary": "Aave was one of the strongest crypto movers yesterday, gaining 14.8% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 14.8% move.",
+      "Roughly $426M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "DeFi lending giant Aave could reach $3,500 by 2030, Standard Chartered forecasts - CoinDesk",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY09RNDQzbVItbzVRWWlkUWRnTXEzMjM5cGxVT1VZM09vVG5uM1I4VnR2ZDlBeUdacEpDSFpsMk11UHpsY3BDZkowMTZPeDN0VElNOXRDY1JaOHNidjVsdWJBNHRJckdkR1BDdkdNNEQwd29NZ0NDZHd0RGc0V0x4aDNHRnFmbklpbFJGMndvaG9jeWRwbmxKUFhQQ0RCY1ZpcVl0MjJzdVZHbnJacXh3?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Aave Token Could Climb 50x by End of 2030, Standard Chartered Says—Here's Why - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzdUUWVIYzRsb1doenB4Wm5sbHJKTTRqWVZZNlA4WnVRV20xRzRFMkRtMVJCT2Y0SDBMZ1hXT1l4WXFMS3E3WGpZNHJkNF9kYTM0TV9zLW9EMXJIaW1wTUdXaFlsc05lVEZoc3M4Vnk3RWRjTUtpSkdBM09VS1FsQ0g3TzBHY0FPeTBEN0NmYkd6VGUxM0E?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Standard Chartered Says Forget Bitcoin, ETH Because AAVE Can Do A 50X By 2030 - Benzinga",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORGRibnl0RWNvaENucV9CU1FTMENaM3U0WWVfNUtnbWszeFVTR3hjZVQ1eTJxUm42WlBELXZka2sxRVBVZW9GeWxhU1JRVE1qTGQ0VU4zLUwwODZEMzhWMjlDNG1zaC1RaFgwYzJtUUFpdHpDMUZVOVJzU05HLXJNSi10VzFmcjNDS3hZS1hyQ0YwZVZPU3NXR1RnRlFuMkJsQ2Y5MUd2V1oyVVo3NjF5Z2cwbXZCWWg3dnlSajBzNXZHaGpTT1dBZjNNR056TFV1bDJ6eg?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Aave is a decentralized money market protocol where users can lend and borrow cryptocurrency across 20 different assets as collateral. The protocol has a native token called AAVE, which is also a governance token that lets the community decide the direction of the protocol in a collective manner. Lenders can&nbsp;earn ",
+    "reportIntro": "Aave stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-23",
     "slug": "2026-06-23-bitway",
     "coinId": "bitway",
@@ -77,46 +117,6 @@
     ],
     "about": "1. Using the DeXe Utility token in the ecosystem: 1.1 Programmed redemption and burning of tokens for a certain % of the traders’ compensation. 1.2 Control over DeXe treasury better. One of the DeXe functionality includes farming rewards with DeXe.network from social trading activity. 1.3 Use of the token by the holder",
     "reportIntro": "DeXe stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-06-21",
-    "slug": "2026-06-21-unibase",
-    "coinId": "unibase",
-    "coinName": "Unibase",
-    "symbol": "UB",
-    "title": "Why UB Went Up Yesterday",
-    "priceChange24h": 51.4,
-    "volumeLabel": "Strong",
-    "marketCap": "$324M",
-    "summary": "Unibase was one of the strongest crypto movers yesterday, gaining 51.4% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 51.4% move.",
-      "Roughly $44M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Unibase plunges 30% as key support crumbles – How low can UB go? - AMBCrypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15TXRsWUhLQXU1OGZxSHJCdDg3aVJ1RzBmR05Fa0NKSGNOcmlRME4wemE0anNQb2M1MGJmdzc2N1RQOEU1RVHSAZABQVVfeXFMT2VkMHlYT1JyV2FseXB0NXltMWVYMVI0R28zM2ZwZm9kNjF0QW12MnJ0ZUltdDJPNEhyUldYSUJqLUVpcU84d0NwaWZ4endveGxVVW1sZUF1ZkVaaEVLRVVJTk5fSlNjTDZYZzFQVDBxdFBIOWtTOC0wODhWNmR5emtZUU0ybV9kV0NqeEVCdk5n?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Unibase token plunges over 30%, breaks key support, signaling potential further decline. - Pluang",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3dLVE5IZFRma0J2eHFDVWFJTkU4V1d5OVJ1eFlsOVdEenhDWUFQRk5BTEhwWUIxNG04VjR4WTd3dXp0QkwtdnBTTng3ZjdOVktIT1lydllrRW9sdTdhNTM5RVNIbU4zSzVFWUh0aHZVMTlxRHZLNHE1WWMtYVVqamdVTG4za05ZbGJYTE9MZ1I4TXJXWGtiS2pYcE95OXVRYlJCZGJZWVZ1dkRpcGVv?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Unibase price today, UB to USD live price, marketcap and chart - CoinMarketCap",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkRk9SLThmcmxyclViVnJLb05CaTFObHAyUHZTN2hvSndRQUlIV2pGM0J3MkQ3ZnVkZHRybzZHbS1JUEpObEpzOEpwNm5uNjlqMUg2RXo0YUY?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "Unibase is the first high-performance decentralized AI memory layer. It equips AI agents with long-term memory and cross-platform interoperability, enabling them to learn, evolve, and collaborate autonomously. Unibase is building the foundation for the Open Agent Internet — a modular, verifiable, and composable AI agen",
-    "reportIntro": "Unibase stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
