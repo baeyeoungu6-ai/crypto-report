@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-29",
+    "slug": "2026-06-29-tac",
+    "coinId": "tac",
+    "coinName": "TAC",
+    "symbol": "TAC",
+    "title": "Why TAC Went Up Yesterday",
+    "priceChange24h": 178.6,
+    "volumeLabel": "Strong",
+    "marketCap": "$284M",
+    "summary": "TAC was one of the strongest crypto movers yesterday, gaining 178.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 178.6% move.",
+      "Roughly $37M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "TAC - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1TUnpWckxmazFyY01Za2NYaU9FRnhfWVh2MUZiUTZqSlRjQ3VMVXQyYnduUEM5NjdmREh2bHg0S2lCd2xPLVNN?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Convert TAC to CVE | TAC/CVE Conversion Calculator - KuCoin",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzZ0VrT0VJcklyM2Flc05JRkJVdGE3a3RhWC1BLUZTX1lfcmdXdHU1ekZ3YzduWWZhWkxybzJRMnZDbXRKX2ZjVHYwb0xUb3RDZnc?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "TAC Suffers $2.8M Cross-Chain Exploit, Vows Full User Compensation - CryptoRank",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BeVh1SlRmRkdZUlZ5aGhuQWJGY3lDYjV3ZmxCM0VIWGZEXzRKSDUtLURHdDl3bzc5M2d1anZlNzlfd2wyRzRuRTkzeU5uUk5yVU1idUhCY3J1bGNDZG94MFpzeUV3eXdlZU5sMC1OazFLeXNGWGVKbDJ3VDQtVHM?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "TAC is a crypto asset tracked across major exchanges.",
+    "reportIntro": "TAC stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-28",
     "slug": "2026-06-28-ethgas-2",
     "coinId": "ethgas-2",
@@ -77,46 +117,6 @@
     ],
     "about": "BNB Attestation Service is a crypto asset tracked across major exchanges.",
     "reportIntro": "BNB Attestation Service stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-06-26",
-    "slug": "2026-06-26-velvet",
-    "coinId": "velvet",
-    "coinName": "Velvet",
-    "symbol": "VELVET",
-    "title": "Why VELVET Went Up Yesterday",
-    "priceChange24h": 70.4,
-    "volumeLabel": "Elevated",
-    "marketCap": "$349M",
-    "summary": "Velvet was one of the strongest crypto movers yesterday, gaining 70.4% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 70.4% move.",
-      "Roughly $25M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Velvet Price Prediction: Can VELVET Sustain Its Explosive Rally Above $1 After an 885% Surge? - CryptoRank",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWlB1bGZZWlBWSFRXeWpLY1FLUWFvOUtDZTBSbURGWGJsQU5DS0tlYm5haldRZ3pzSE9fdzdlTVJta3ZVWWhxU1VERjJ4UzV6Tm1YcHlZd2NsU0RvS0dvVkFjYTlPYS1kZlIxWkpvUU80SW1mSk9kVDA2cHlUbWZoUF9YUTlVOHVra2R2T0tMRU0yVmlEYk5iWHVzem9KSTlwYVFaSkJRWHJ6QlI1S2wyMTVURXl3bVE3S0VyZGpiNWRLWEZvX3c?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "RAIN, Canton, and Velvet Eye New Highs As Traders Watch Weekend Breakouts - Coinpedia",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeU96U3RmSWhzbXFSWjBndzl6OWdKTXVqUWFCMF9nS2wyd3pVa1A0b3VVblZjTnZGWTI2OXpJTEY1WmppMV9NZFVzSE40cWZzUXRiWHlHXzRWd2FGRkxQNTZ3TWxlV1dqOXduVDVJY1d1ODRaamU5RkJxWjl6STdYdWhWUjZHRGtHeGNXdmNzSzhBc3I3ZFNxb3lzR2FkOG5aSTRmY1B4Z3BzVUZ4ZFHSAbMBQVVfeXFMTXpLZFlVd1BPaTBkWDVvQjVLYlJfaFYyOU5vcC13RllEZG0xRkFDU3IzdHJiOHpEbDZiQWZzVkZmSGl6cTdReXVYVDR4MlQzYmt0eVZ3WHVNUHJDOHlNUGdGS3hNcm9IMHhRcWtFOGtYeXBQd2ZodDBoYUhXazRMNnl1dUw5UzJaMGxRbGVnNEtLSHJjVWJCV0ZmTFo2THFSenYzSmJmd2Excm5NYUcyaC0tS0k?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "6 Best Crypto Presales as BEAT and VELVET Explode While Retail Hunts the Next Early Runner - StreetInsider",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT3d0MTAxOHNrZXdvc1VYSmE0cjRmNGozWHpBZ2FNUjd5WkpvTHIxa1NfMTRaY3hITGZUM0JqYzJFckROZ1hEaXNXb1dWTG03dklVWEJ2WGVKWkZhVkd1dlRvWWcwN1dvaVI2Z0ZiMzZZN2xMNUYwV1BRMjU5MGlpX0xHYXFNd0FNZ1VyNWpKdl9XNEpHNml1NTVsSUxweWN0T0VYZVoxanRURkxvUXhmMUoxSFRESEhzcERtSU1FNUlUZzJ1YlY3N0hkcEdsb1NoZkF2bEZBeWkzSlVKdnV2c3NYUXY?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "Velvet is a crypto asset tracked across major exchanges.",
-    "reportIntro": "Velvet stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
