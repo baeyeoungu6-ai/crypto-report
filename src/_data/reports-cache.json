@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-30",
+    "slug": "2026-06-30-dydx-chain",
+    "coinId": "dydx-chain",
+    "coinName": "dYdX",
+    "symbol": "DYDX",
+    "title": "Why DYDX Went Up Yesterday",
+    "priceChange24h": 42.5,
+    "volumeLabel": "Strong",
+    "marketCap": "$191M",
+    "summary": "dYdX was one of the strongest crypto movers yesterday, gaining 42.5% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 42.5% move.",
+      "Roughly $33M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "dYdX (DYDX) Price Prediction &amp; Forecast 2026, 2027, 2028 - 2032 - OKX",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKNkZqR2Y5b0twOGRTRnF4TmZNbzl4UFlPN0p1WjVIWGVGaGNFdDlJS2t1U29wNWEwb0w1aDVvRGZyb0lHamF6R0hMWkgzdEVOZTZ3aTVVUTY3N2tuVEE?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Where Can I buy Dydx? GOPAX, Apps &amp; Key Things to Know - Kabul University",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wNVNvc0I3Z3VObnYzX2tOVldvVGgxVFVRZTJncXNWbHhLNl9TUjBxWnl4MVhhZXRrMVlrSEs4QTRzY3V0MUdFZERRSmpyMXJxWl9zUEJpeVVKVzBZWGNOcDNKS0REczlPT0lJNkFHVUg5VjdsQzJJeFREU2s?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Kevin Warsh Confirmed as Fed Chair With Crypto Holdings on Record - CoinMarketCap",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnk1RVl5M29nTU9NUWJneExkR0pJRVNqajBGYkxDQWVZMTBWZG9qUjlGa2t2aDA3Zk81UThzQmgzcHl5RU5XRm9WalRYbzdJa1N3SURwNUZ4VnNXU1V6RXRVSTNFVldEOTB5WlcyRnVvSXRMSFhOOVJPYmVLd1JCbjdJX1RuSngtZE5N?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "dYdX is DeFi’s pro trading platform and a pioneer in decentralized finance, known for being the first to offer decentralized margin trading and derivatives, as well as inventing flash loans and DEX aggregators in 2018. Built on a custom Layer-1 blockchain using the Cosmos SDK, dYdX provides a professional-grade, decent",
+    "reportIntro": "dYdX stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-29",
     "slug": "2026-06-29-tac",
     "coinId": "tac",
@@ -77,46 +117,6 @@
     ],
     "about": "ETHGas is a Blockspace Infrastructure protocol that decomposes Ethereum blockspace into tradable, composable block units, enabling real‑time block production and laying the foundation for a crypto‑native commodities market for gas. By restructuring gas as a financial primitive, ETHGas unlocks: - Faster block times (sub",
     "reportIntro": "ETHGas stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-06-27",
-    "slug": "2026-06-27-bas",
-    "coinId": "bas",
-    "coinName": "BNB Attestation Service",
-    "symbol": "BAS",
-    "title": "Why BAS Went Up Yesterday",
-    "priceChange24h": 25.5,
-    "volumeLabel": "Elevated",
-    "marketCap": "$121M",
-    "summary": "BNB Attestation Service was one of the strongest crypto movers yesterday, gaining 25.5% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 25.5% move.",
-      "Roughly $14M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "BAS - BNB Attestation Service - AMBCrypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5DTkNvOGs5M3RhdHZUSXZ6SHBoX2lXUXVwaVRWS0syT0FFcXgtX2d1SzJBaWY2eDMtenhLZUhsQmJTMm8zcGU0?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Convert BAS to CVE | BAS/CVE Conversion Calculator - KuCoin",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82NjJ0UmdHTV84Z19GTWJuSTYxcV9NVFc1SDBzMjJKZVBqUnFZSFFaaElIa05GOHlmZmlSOTBSM29XT2pSVkREZVF3T3htd2JSSVE?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "BNB Attestation Service Price Today in India | BAS to INR Live Price &amp; Chart - Binance",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KQ18zeXByaS10TG0wM0lIcmU0emdsejdLdlQ3TDNUOUNZSWp6ZEVtQ1ZWTkRWdXkyYTNzcllhd1UyQ3hmVVpnNmJvU1dXTGo3VVR5eEF6Q20zazdyZ3pWV0d3QXdFRFJVQmpn?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "BNB Attestation Service is a crypto asset tracked across major exchanges.",
-    "reportIntro": "BNB Attestation Service stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
