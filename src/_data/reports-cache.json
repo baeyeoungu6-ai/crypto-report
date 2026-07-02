@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-01",
+    "slug": "2026-07-01-memecore",
+    "coinId": "memecore",
+    "coinName": "MemeCore",
+    "symbol": "M",
+    "title": "Why M Went Up Yesterday",
+    "priceChange24h": 48.2,
+    "volumeLabel": "Elevated",
+    "marketCap": "$1.6B",
+    "summary": "MemeCore was one of the strongest crypto movers yesterday, gaining 48.2% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 48.2% move.",
+      "Roughly $23M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Memecore reclaims $1, but these factors may cap the rally - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTWxGVXowdXNMeXNsU2ZSQllTa1FqMEZwbjJaY0c0SS1jLUdqbmg4ZWZxS1o5d080U25ldlZyX2R2TXpjYXBwaTFOUkxFZmV0OXpjMlgxYWFuVm4yeGdxREZMamF4Z0ZTY21zVFhhb3B3QWJLYVFJSnlLT2xqRXp6RGx6LUHSAYoBQVVfeXFMUFF2Ri1vQjRpdHdPV3FDWU54WTJyM1NNRE41cGdtRmFXSjVoRldfbDN3SUlvUW1qLUFqbUdrQWdib2prRjNKd2tlcnZ6SGxpMFJHcHBjUlRwMXZXUVJYTVdZSjJTNXE1U0JoU245Z0c4RU15dUo0aFNYV3FHZlZBSnp2dEFRUGNKQnhn?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "How the MemeCore Crypto Crashed 71% This Week - The Motley Fool",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFMeWZIMGhsNHpUSkJtRnkzT0ludWhtOTExWVZGZE1JclZNdzZLXzJxTGsyYVJSLXYwSmYxdUJxbkhnUGlXLTZkVGpVSlNsYlVRSEFUekE1RFFoZHpTakZwY2VhT29idlA3ZmJvazA4NG0zVjBseHB1R1pLUV9NWi1NeDBrcVBzZlpMWUNaWDQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "ZachXBT Calls Out MemeCore After M Token Crashes 75%, Demands Answers From Binance and Bybit - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbXQzYXVoel8xSGVjODJlV2txRFdaam9ZZnBzazliUWVXcUlmcWN6TTBoUWtMU1dNTktITE1SbXRrWnhUZEVxdnNITUVJSlFkTHpfOExlWEc2OXRLUzZkM2RENmx1WnpUemYxUG5LQ1g5N25fbDJCbFdCU1BqYTJ4dnFuQXo2UjltY2QzSTJ4VDBZOTBmZXIzbXZzQQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "MemeCore is the first Layer 1 blockchain, built for Meme 2.0 — a new paradigm where meme coins transcend speculation to become engines of culture, value, and community coordination. In this new era, memes are not just content — they are currency, governance, and creative expression. Mission To structure and sustain the",
+    "reportIntro": "MemeCore stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-06-30",
     "slug": "2026-06-30-dydx-chain",
     "coinId": "dydx-chain",
@@ -77,46 +117,6 @@
     ],
     "about": "TAC is a crypto asset tracked across major exchanges.",
     "reportIntro": "TAC stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-06-28",
-    "slug": "2026-06-28-ethgas-2",
-    "coinId": "ethgas-2",
-    "coinName": "ETHGas",
-    "symbol": "GWEI",
-    "title": "Why GWEI Went Up Yesterday",
-    "priceChange24h": 20.2,
-    "volumeLabel": "Elevated",
-    "marketCap": "$339M",
-    "summary": "ETHGas was one of the strongest crypto movers yesterday, gaining 20.2% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 20.2% move.",
-      "Roughly $12M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Ethereum gas fees: The cost of doing (crypto) business - Britannica",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9INkxaMnF5dFRveERwaVBBRnVYcE9LRDZTSkQzNzRQZVVfTkthcDUycXh4SjVHaDFGejVfcVRQMjMzY21Ydzc3YVRkX3lfbzlKZGtOaDZQcVp3dmx4U1I1WWd6Q2k?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "ETHGas Price Today in Turkey | GWEI to TRY Live Price &amp; Chart - Binance",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iLUttM0VKdzY4QUlPOFFpUEg0eE1kSWNtaVNMWkRyY0VqR0YzN3pWVmtuejBlcVpkdUFoUUtDUGlUSzI0WTdVaVdKTHhfeUxiamRnVlBR?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "ETHGas (GWEI) Hits a New ATH, But Why Is Trading Volume Falling as Price Rises? - CryptoRank",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmE1YmhBQ01ya3ozc1VUd21Pb2xCdk1CTzl2d1hMQW1xYjBRalZORG80ampzZnhuMW9pbVdoT1FnclZHOEZUSnBxbzc0Y1d1TEpkRUwtelE1SVEtOUlDbkg2YTM0bDVERnJVRVdZaWhLN1hZREpDUmhET3I4VlBKSlo1dmtoeUhzaXhpR2FZN0JDY19UdTZUazgtVUVXLVE0V181YlppZElqMkZzYWgwaUc0WQ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "ETHGas is a Blockspace Infrastructure protocol that decomposes Ethereum blockspace into tradable, composable block units, enabling real‑time block production and laying the foundation for a crypto‑native commodities market for gas. By restructuring gas as a financial primitive, ETHGas unlocks: - Faster block times (sub",
-    "reportIntro": "ETHGas stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
