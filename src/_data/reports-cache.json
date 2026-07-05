@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-04",
+    "slug": "2026-07-04-lab",
+    "coinId": "lab",
+    "coinName": "LAB",
+    "symbol": "LAB",
+    "title": "Why LAB Went Up Yesterday",
+    "priceChange24h": 123.6,
+    "volumeLabel": "High",
+    "marketCap": "$5.2B",
+    "summary": "LAB was one of the strongest crypto movers yesterday, gaining 123.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 123.6% move.",
+      "Roughly $140M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "LAB token surges 174%, leading crypto gainers a... - Pluang",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNVllVE81VHk4SVFvTTJmTmZvSUtwUnBlMU9rVDlVc1JXMXRzcElJeld5MGNtMEJZV1NTSkJUWDFrS2JDNVVidFJtZm1fM1RMRjdWVy1EWHJYa2xWZzZwRjNLZ0hvd3BqbmRIczR3ekZZTm4tSm9QaWpxaU5La1dXcFdPN29pc1hKbUFCT3VDNlk?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Here’s why LAB price plunged over 60% in a week - Crypto News",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HdEVuc1pRRDVya2dhR3RDdVdSd2l3b0JQc1hFbmZWZTczb3p0WlpGU0dWRmd0S0pYdlpKdUVJZ21sVXhaTnlEYXNBUHlUZVc0QkJKZ293UTBHN2dvdmNEZnkxTFJjWVNlZHRTYXJzWFhxTldIVF96OGUxcTdoYUU?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Why LAB crypto’s 34% crash has traders watching THIS support - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWhvYXhVUWZFUnlqMmtrYy1CNnhIWmVjLU95aWprdGVjYlhNa1U2cGY5a1VWMUVXV0FUdmdJTzl1allpTld5VzY5N3BFbUdRVnNUMm9iRWM3TEM2WEJiR0l0akNHRFlKcHAxZlhYZTJJeE1NWjB4bkdXZ2JtNm1oSkdNTE04by1G0gGOAUFVX3lxTFBrUjZBMmJOZjllS1lxZXl6azJTYzh0MnBoaW4xaDlPbzVyeFR4d25DSE4wTzRTVXl1aE5pQkVyRE1lakgzMnVhUnlNV3o1Q2ZScExrU056emNPSHJJX1NqWWdpVUJKVDYtZGNhLUo4T1BXWTE3Yk05U2RlRFNJOG8wNm44ZWh4SldJTjNRM1E?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "LAB is the first all-in-one trading ecosystem, enabling faster execution, the lowest market fees, and a viral incentive layer powered by $LAB. Integrated with existing trading platforms it allows to tap into an established network while creating a unified environment for a new trading experience. LAB brings together tr",
+    "reportIntro": "LAB stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-03",
     "slug": "2026-07-03-the-black-bull",
     "coinId": "the-black-bull",
@@ -77,46 +117,6 @@
     ],
     "about": "Fartcoin is a meme-driven cryptocurrency where users can submit their best fart jokes or memes to earn initial tokens. Each transaction triggers a hilarious 'Gas Fee' effect, complete with a digital fart sound for maximum comedic impact.",
     "reportIntro": "Fartcoin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-01",
-    "slug": "2026-07-01-memecore",
-    "coinId": "memecore",
-    "coinName": "MemeCore",
-    "symbol": "M",
-    "title": "Why M Went Up Yesterday",
-    "priceChange24h": 48.2,
-    "volumeLabel": "Elevated",
-    "marketCap": "$1.6B",
-    "summary": "MemeCore was one of the strongest crypto movers yesterday, gaining 48.2% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 48.2% move.",
-      "Roughly $23M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Memecore reclaims $1, but these factors may cap the rally - AMBCrypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTWxGVXowdXNMeXNsU2ZSQllTa1FqMEZwbjJaY0c0SS1jLUdqbmg4ZWZxS1o5d080U25ldlZyX2R2TXpjYXBwaTFOUkxFZmV0OXpjMlgxYWFuVm4yeGdxREZMamF4Z0ZTY21zVFhhb3B3QWJLYVFJSnlLT2xqRXp6RGx6LUHSAYoBQVVfeXFMUFF2Ri1vQjRpdHdPV3FDWU54WTJyM1NNRE41cGdtRmFXSjVoRldfbDN3SUlvUW1qLUFqbUdrQWdib2prRjNKd2tlcnZ6SGxpMFJHcHBjUlRwMXZXUVJYTVdZSjJTNXE1U0JoU245Z0c4RU15dUo0aFNYV3FHZlZBSnp2dEFRUGNKQnhn?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "How the MemeCore Crypto Crashed 71% This Week - The Motley Fool",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFMeWZIMGhsNHpUSkJtRnkzT0ludWhtOTExWVZGZE1JclZNdzZLXzJxTGsyYVJSLXYwSmYxdUJxbkhnUGlXLTZkVGpVSlNsYlVRSEFUekE1RFFoZHpTakZwY2VhT29idlA3ZmJvazA4NG0zVjBseHB1R1pLUV9NWi1NeDBrcVBzZlpMWUNaWDQ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "ZachXBT Calls Out MemeCore After M Token Crashes 75%, Demands Answers From Binance and Bybit - Yahoo Finance",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbXQzYXVoel8xSGVjODJlV2txRFdaam9ZZnBzazliUWVXcUlmcWN6TTBoUWtMU1dNTktITE1SbXRrWnhUZEVxdnNITUVJSlFkTHpfOExlWEc2OXRLUzZkM2RENmx1WnpUemYxUG5LQ1g5N25fbDJCbFdCU1BqYTJ4dnFuQXo2UjltY2QzSTJ4VDBZOTBmZXIzbXZzQQ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "MemeCore is the first Layer 1 blockchain, built for Meme 2.0 — a new paradigm where meme coins transcend speculation to become engines of culture, value, and community coordination. In this new era, memes are not just content — they are currency, governance, and creative expression. Mission To structure and sustain the",
-    "reportIntro": "MemeCore stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
