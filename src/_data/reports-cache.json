@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-05",
+    "slug": "2026-07-05-lighter",
+    "coinId": "lighter",
+    "coinName": "Lighter",
+    "symbol": "LIT",
+    "title": "Why LIT Went Up Yesterday",
+    "priceChange24h": 23.6,
+    "volumeLabel": "High",
+    "marketCap": "$676M",
+    "summary": "Lighter was one of the strongest crypto movers yesterday, gaining 23.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 23.6% move.",
+      "Roughly $111M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Lighter (LIT) Price Prediction: Can LIT Hit $3 in 2026 After Its Massive Comeback? - Bitcoin Foundation",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVHRBNUdjTFA0a0JEdDdaS2I4UVpLbHEzRkpNdzFScndQbk5xcWZrMWJpampCdHIydzl0LXpwNGNvNDF6M1JBUm5ISUtQekdwSllsek1FVGY3dW5OVUliblBtajNzV2djbTFlYjh4QnlRaGV0eGo5MGlmajQzNG1JTTVNN0VWSV82Z2hESVdKODc1d2RpWEFqWks5Q3ZPcWpSbHZJcHdSdmVmWUtxRmc1YXNKUHBuZEJkTUQyR3hUTQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Lighter (LIT) Surges 17% on Robinhood Integration and Tokenomics Overhaul - CoinMarketCap",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tWGNrNk11b2xidWdrVEd4M1Q1dlVVWTJIWHVVdEIxMXpocHZaNjJsRTlaM01vOU9tUDRELU0yd2FTQlNFdmZCZk5uNkxhRXZiRjFTMkd4LUk1NEROY2N5YjY3ZEJyRzN2ZUUwUVZxNlo?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Lighter reclaims KEY support – Mapping LIT’s path to the $2.50 target - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZHd4WWduMmdhMWhadm1WSThUYTFmb2ladzN6NzZycVpNZTdNNDBuUlVJS05fM3p4R21jVnlEYU12ME5SYVZvc1liRUtRQ1FwQzlESy1OY2h6VlQ2Nzc2WHFMWEhMTm1QNFVEODJGUld6a0hUTzFPYjJKd2hqeGtVTE8yWWFsUTlTVDR4eUV0ZXJXZ9IBlwFBVV95cUxNamxOWW0yV3RaOE1hU0dwQ044ejE2TDJiRUcxbHNzNm9GLVR4LXRPUWxGRFNFaElwNFRjRFpSclRmVEVmNTVZNjB2ZzRHNGMzbENEUFVxVVdjbHdmWHBXUUZXWEkxcjEzb01VSnhNT2Z6bDdrSERobzFjdHMyRlJDR1VGTVpISnJPeU81VVFrUnBmUndKZnVj?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Lighter is a decentralized trading platform built for unmatched security and scale. It’s the first exchange to offer verifiable order matching and liquidations while delivering best-in-class performance on par with traditional exchanges.",
+    "reportIntro": "Lighter stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-04",
     "slug": "2026-07-04-lab",
     "coinId": "lab",
@@ -77,46 +117,6 @@
     ],
     "about": "The Black Bull ($ANSEM) is a transparent, community-driven memecoin on Solana built around one creed: charge forward no matter what. The project is frontend-first and fully verifiable — its website reads live on-chain and market data directly from Solana, including price, liquidity, volume, market cap, and holder distr",
     "reportIntro": "The Black Bull stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-02",
-    "slug": "2026-07-02-fartcoin",
-    "coinId": "fartcoin",
-    "coinName": "Fartcoin",
-    "symbol": "FARTCOIN",
-    "title": "Why FARTCOIN Went Up Yesterday",
-    "priceChange24h": 19.2,
-    "volumeLabel": "Strong",
-    "marketCap": "$167M",
-    "summary": "Fartcoin was one of the strongest crypto movers yesterday, gaining 19.2% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 19.2% move.",
-      "Roughly $38M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "How can I buy Fartcoin: Comprehensive Crypto Manual - Kabul University",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM0dwREhEbEVqellaVVNJRGV0cHA1Z3hFYl9HSjdGLW1wWHBkeWRIcjN6SkFfMjl4bkZfYXl2TFV6Vy1MOU55TWpZSzkwQ29pNDRhWm5XMkNrc29pTWVjSlFCekI5ZkxfZDJQQ0paZEpHTDRBUGZSMUNBVmcxd1VubA?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "FARTCOIN Bulls Take the Wheel: Can It Power Toward an Explosive Run? - CryptoRank",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVUZBVFc2YXg3bkhJNG82THBHUEl2ZHN0WHN4bXR2aEVyWjRvLTkwNHR5ZWxvY3FOODJOYjRjY0lGSE14eGJISGh0QWlWczBxU08yXzNKSFRsSHdueEZ0UTNVNW8tZnl1TGVHdUtIU0RlTEdMVE96VmN1WXZVZ0d1bEhaOVl0SEtIaHZzY1hWY2o5d0dLcXhaMUxrT0tSVDZxYmxlUkdmNA?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Fartcoin’s Price Crashes 50% As Leveraged Bet Implodes - Yahoo Finance",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHd0Y3pBRFRIUXU3dnRiUkFzXzJwSnZvNzUybTBsbWFVeml3aEhuMFZMLXV6aFhXTHpSTW5zcXU4YVYwWV9xN0NVREg1emtsU1I4S2FOcGpSaUdYaGhETjV1cWtZV2FRLXc5MHlqQmMteGFsa0hjTzJNdFh6NUV1a0RsTmRoclVnSTV0RmdTeHRGYU9YVk5wNUNHSVNXVUNmekE?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "Fartcoin is a meme-driven cryptocurrency where users can submit their best fart jokes or memes to earn initial tokens. Each transaction triggers a hilarious 'Gas Fee' effect, complete with a digital fart sound for maximum comedic impact.",
-    "reportIntro": "Fartcoin stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
