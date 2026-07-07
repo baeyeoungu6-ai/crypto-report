@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-06T04:23:53.935Z",
+  "updatedAt": "2026-07-07T04:12:39.583Z",
   "items": [
     {
       "rank": 1,
-      "id": "lighter",
-      "name": "Lighter",
-      "symbol": "LIT",
-      "image": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098",
-      "price": "$2.70",
-      "change24h": 23.6,
-      "marketCap": "$675.93M",
-      "volume": "$111.10M"
+      "id": "edgex",
+      "name": "edgeX",
+      "symbol": "EDGE",
+      "image": "https://coin-images.coingecko.com/coins/images/102172616/large/edgex.png?1774332310",
+      "price": "$0.32",
+      "change24h": 28.7,
+      "marketCap": "$113.15M",
+      "volume": "$20.49M"
     },
     {
       "rank": 2,
+      "id": "rif-token",
+      "name": "Rootstock Infrastructure Framework",
+      "symbol": "RIF",
+      "image": "https://coin-images.coingecko.com/coins/images/7460/large/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png?1705501867",
+      "price": "$0.13",
+      "change24h": 25.9,
+      "marketCap": "$129.76M",
+      "volume": "$15.71M"
+    },
+    {
+      "rank": 3,
       "id": "the-black-bull",
       "name": "The Black Bull",
       "symbol": "ANSEM",
       "image": "https://coin-images.coingecko.com/coins/images/102174035/large/IMG_9497.jpeg?1782005339",
-      "price": "$0.33",
-      "change24h": 14.9,
-      "marketCap": "$135.85M",
-      "volume": "$49.28M"
+      "price": "$0.39",
+      "change24h": 20.4,
+      "marketCap": "$163.05M",
+      "volume": "$70.32M"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "id": "dexe",
+      "name": "DeXe",
+      "symbol": "DEXE",
+      "image": "https://coin-images.coingecko.com/coins/images/12713/large/DEXE_token_logo.png?1696512514",
+      "price": "$27.67",
+      "change24h": 11.7,
+      "marketCap": "$1.29B",
+      "volume": "$46.26M"
+    },
+    {
+      "rank": 5,
       "id": "monad",
       "name": "Monad",
       "symbol": "MON",
       "image": "https://coin-images.coingecko.com/coins/images/38927/large/mon.png?1766029057",
       "price": "$0.02",
-      "change24h": 8.9,
-      "marketCap": "$263.29M",
-      "volume": "$311.90M"
-    },
-    {
-      "rank": 4,
-      "id": "unibase",
-      "name": "Unibase",
-      "symbol": "UB",
-      "image": "https://coin-images.coingecko.com/coins/images/69108/large/unibase.png?1757501820",
-      "price": "$0.11",
-      "change24h": 8.8,
-      "marketCap": "$265.91M",
-      "volume": "$12.16M"
-    },
-    {
-      "rank": 5,
-      "id": "pump-fun",
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "image": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376",
-      "price": "$0.00",
-      "change24h": 7.9,
-      "marketCap": "$668.54M",
-      "volume": "$64.97M"
+      "change24h": 11,
+      "marketCap": "$291.06M",
+      "volume": "$150.72M"
     },
     {
       "rank": 6,
-      "id": "bitway",
-      "name": "Bitway",
-      "symbol": "BTW",
-      "image": "https://coin-images.coingecko.com/coins/images/71205/large/bitway.png?1766388722",
-      "price": "$0.07",
-      "change24h": 6.9,
-      "marketCap": "$147.95M",
-      "volume": "$21.64M"
-    },
-    {
-      "rank": 7,
-      "id": "plasma",
-      "name": "Plasma",
-      "symbol": "XPL",
-      "image": "https://coin-images.coingecko.com/coins/images/66489/large/Plasma-symbol-green-1.png?1755142558",
-      "price": "$0.11",
-      "change24h": 6.8,
-      "marketCap": "$288.57M",
-      "volume": "$73.41M"
-    },
-    {
-      "rank": 8,
       "id": "pyth-network",
       "name": "Pyth Network",
       "symbol": "PYTH",
       "image": "https://coin-images.coingecko.com/coins/images/31924/large/pyth.png?1701245725",
       "price": "$0.04",
-      "change24h": 6.2,
-      "marketCap": "$323.32M",
-      "volume": "$32.54M"
+      "change24h": 8.3,
+      "marketCap": "$350.00M",
+      "volume": "$65.42M"
+    },
+    {
+      "rank": 7,
+      "id": "ultima",
+      "name": "Ultima",
+      "symbol": "ULTIMA",
+      "image": "https://coin-images.coingecko.com/coins/images/31844/large/ULTIMA-200x200.png?1763090865",
+      "price": "$2795.61",
+      "change24h": 7.9,
+      "marketCap": "$236.83M",
+      "volume": "$12.27M"
+    },
+    {
+      "rank": 8,
+      "id": "syrup",
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "image": "https://coin-images.coingecko.com/coins/images/51232/large/_syrup_token_logo.png?1747292046",
+      "price": "$0.18",
+      "change24h": 7,
+      "marketCap": "$205.58M",
+      "volume": "$19.38M"
     },
     {
       "rank": 9,
-      "id": "layerzero",
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "image": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208",
-      "price": "$0.96",
-      "change24h": 6,
-      "marketCap": "$242.31M",
-      "volume": "$20.95M"
+      "id": "jito-governance-token",
+      "name": "Jito",
+      "symbol": "JTO",
+      "image": "https://coin-images.coingecko.com/coins/images/33228/large/jto.png?1701137022",
+      "price": "$0.77",
+      "change24h": 6.1,
+      "marketCap": "$379.78M",
+      "volume": "$54.21M"
     },
     {
       "rank": 10,
-      "id": "sun-token",
-      "name": "Sun Token",
-      "symbol": "SUN",
-      "image": "https://coin-images.coingecko.com/coins/images/12424/large/RSFOmQ.png?1696512245",
+      "id": "sentient",
+      "name": "Sentient",
+      "symbol": "SENT",
+      "image": "https://coin-images.coingecko.com/coins/images/70508/large/SENTIENT-Icon-BlushForce-L.png?1762267532",
       "price": "$0.02",
-      "change24h": 6,
-      "marketCap": "$344.63M",
-      "volume": "$79.80M"
+      "change24h": 5.8,
+      "marketCap": "$111.72M",
+      "volume": "$29.59M"
     }
   ]
 }
