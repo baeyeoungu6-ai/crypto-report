@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T04:12:39.583Z",
+  "updatedAt": "2026-07-08T03:37:59.585Z",
   "items": [
     {
       "rank": 1,
@@ -7,109 +7,109 @@
       "name": "edgeX",
       "symbol": "EDGE",
       "image": "https://coin-images.coingecko.com/coins/images/102172616/large/edgex.png?1774332310",
-      "price": "$0.32",
-      "change24h": 28.7,
-      "marketCap": "$113.15M",
-      "volume": "$20.49M"
+      "price": "$0.39",
+      "change24h": 20.4,
+      "marketCap": "$138.73M",
+      "volume": "$31.93M"
     },
     {
       "rank": 2,
+      "id": "lido-dao",
+      "name": "Lido DAO",
+      "symbol": "LDO",
+      "image": "https://coin-images.coingecko.com/coins/images/13573/large/Lido_DAO.png?1696513326",
+      "price": "$0.32",
+      "change24h": 15.7,
+      "marketCap": "$271.72M",
+      "volume": "$69.32M"
+    },
+    {
+      "rank": 3,
+      "id": "memecore",
+      "name": "MemeCore",
+      "symbol": "M",
+      "image": "https://coin-images.coingecko.com/coins/images/53247/large/square-bg-transparent.png?1752637478",
+      "price": "$1.39",
+      "change24h": 12.2,
+      "marketCap": "$1.83B",
+      "volume": "$15.61M"
+    },
+    {
+      "rank": 4,
+      "id": "zcash",
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "image": "https://coin-images.coingecko.com/coins/images/486/large/circle-zcash-color.png?1696501740",
+      "price": "$483.37",
+      "change24h": 8.1,
+      "marketCap": "$8.12B",
+      "volume": "$570.66M"
+    },
+    {
+      "rank": 5,
+      "id": "apecoin",
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "image": "https://coin-images.coingecko.com/coins/images/24383/large/APECOIN.png?1756551529",
+      "price": "$0.14",
+      "change24h": 5.7,
+      "marketCap": "$143.71M",
+      "volume": "$24.20M"
+    },
+    {
+      "rank": 6,
+      "id": "pendle",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "image": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728",
+      "price": "$1.49",
+      "change24h": 5.6,
+      "marketCap": "$254.71M",
+      "volume": "$39.85M"
+    },
+    {
+      "rank": 7,
+      "id": "zebec-network",
+      "name": "Zebec Network",
+      "symbol": "ZBCN",
+      "image": "https://coin-images.coingecko.com/coins/images/37052/large/zbcn.jpeg?1713168241",
+      "price": "$0.00",
+      "change24h": 5.3,
+      "marketCap": "$223.47M",
+      "volume": "$14.23M"
+    },
+    {
+      "rank": 8,
       "id": "rif-token",
       "name": "Rootstock Infrastructure Framework",
       "symbol": "RIF",
       "image": "https://coin-images.coingecko.com/coins/images/7460/large/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png?1705501867",
       "price": "$0.13",
-      "change24h": 25.9,
-      "marketCap": "$129.76M",
-      "volume": "$15.71M"
-    },
-    {
-      "rank": 3,
-      "id": "the-black-bull",
-      "name": "The Black Bull",
-      "symbol": "ANSEM",
-      "image": "https://coin-images.coingecko.com/coins/images/102174035/large/IMG_9497.jpeg?1782005339",
-      "price": "$0.39",
-      "change24h": 20.4,
-      "marketCap": "$163.05M",
-      "volume": "$70.32M"
-    },
-    {
-      "rank": 4,
-      "id": "dexe",
-      "name": "DeXe",
-      "symbol": "DEXE",
-      "image": "https://coin-images.coingecko.com/coins/images/12713/large/DEXE_token_logo.png?1696512514",
-      "price": "$27.67",
-      "change24h": 11.7,
-      "marketCap": "$1.29B",
-      "volume": "$46.26M"
-    },
-    {
-      "rank": 5,
-      "id": "monad",
-      "name": "Monad",
-      "symbol": "MON",
-      "image": "https://coin-images.coingecko.com/coins/images/38927/large/mon.png?1766029057",
-      "price": "$0.02",
-      "change24h": 11,
-      "marketCap": "$291.06M",
-      "volume": "$150.72M"
-    },
-    {
-      "rank": 6,
-      "id": "pyth-network",
-      "name": "Pyth Network",
-      "symbol": "PYTH",
-      "image": "https://coin-images.coingecko.com/coins/images/31924/large/pyth.png?1701245725",
-      "price": "$0.04",
-      "change24h": 8.3,
-      "marketCap": "$350.00M",
-      "volume": "$65.42M"
-    },
-    {
-      "rank": 7,
-      "id": "ultima",
-      "name": "Ultima",
-      "symbol": "ULTIMA",
-      "image": "https://coin-images.coingecko.com/coins/images/31844/large/ULTIMA-200x200.png?1763090865",
-      "price": "$2795.61",
-      "change24h": 7.9,
-      "marketCap": "$236.83M",
-      "volume": "$12.27M"
-    },
-    {
-      "rank": 8,
-      "id": "syrup",
-      "name": "Maple Finance",
-      "symbol": "SYRUP",
-      "image": "https://coin-images.coingecko.com/coins/images/51232/large/_syrup_token_logo.png?1747292046",
-      "price": "$0.18",
-      "change24h": 7,
-      "marketCap": "$205.58M",
-      "volume": "$19.38M"
+      "change24h": 5.1,
+      "marketCap": "$134.30M",
+      "volume": "$17.01M"
     },
     {
       "rank": 9,
-      "id": "jito-governance-token",
-      "name": "Jito",
-      "symbol": "JTO",
-      "image": "https://coin-images.coingecko.com/coins/images/33228/large/jto.png?1701137022",
-      "price": "$0.77",
-      "change24h": 6.1,
-      "marketCap": "$379.78M",
-      "volume": "$54.21M"
+      "id": "tezos",
+      "name": "Tezos",
+      "symbol": "XTZ",
+      "image": "https://coin-images.coingecko.com/coins/images/976/large/Tezos-logo.png?1696502091",
+      "price": "$0.26",
+      "change24h": 5,
+      "marketCap": "$282.11M",
+      "volume": "$23.16M"
     },
     {
       "rank": 10,
-      "id": "sentient",
-      "name": "Sentient",
-      "symbol": "SENT",
-      "image": "https://coin-images.coingecko.com/coins/images/70508/large/SENTIENT-Icon-BlushForce-L.png?1762267532",
+      "id": "sun-token",
+      "name": "Sun Token",
+      "symbol": "SUN",
+      "image": "https://coin-images.coingecko.com/coins/images/12424/large/RSFOmQ.png?1696512245",
       "price": "$0.02",
-      "change24h": 5.8,
-      "marketCap": "$111.72M",
-      "volume": "$29.59M"
+      "change24h": 4,
+      "marketCap": "$357.38M",
+      "volume": "$77.91M"
     }
   ]
 }

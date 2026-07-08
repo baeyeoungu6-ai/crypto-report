@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-07",
+    "slug": "2026-07-07-lido-dao",
+    "coinId": "lido-dao",
+    "coinName": "Lido DAO",
+    "symbol": "LDO",
+    "title": "Why LDO Went Up Yesterday",
+    "priceChange24h": 15.7,
+    "volumeLabel": "Strong",
+    "marketCap": "$272M",
+    "summary": "Lido DAO was one of the strongest crypto movers yesterday, gaining 15.7% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 15.7% move.",
+      "Roughly $69M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Why is Lido DAO rallying? - FXStreet",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT0N4Z0hSNDhqTS1Nd0dMek56RUpKNUtqMlpJd0xLVlhEUUktQ0Fja2FwMkVuWXRjNWdUaVJfaTROQ0o0NEEyeUdVSVliaU1GTlFTZHVWdTIwendsVEcyNzRPV1pHSzM3cWdaUmVNT3R3QkpfdDBnWFZKWlQ0X1NTQ3VqQkV1YnhlYnlmSFZUQlVJNlM5NXY1Mzl5SG11U3dFLTRydEdpTW1MMVNYa0hHUjN6UXF2MVhZVEJIUnUycXk?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "LDO Down 96%, Lido DAO Proposes $20M Buyback - CoinMarketCap",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY2tMYnNiczBIZXplZk41elU3bEJybC1WbG5tcWxCQnkwTl90UWczZktqVTV0N2x2NVJ3dkFheXc1NXdBZXVTcmt2Q2gzaURGUjJKcUtzdjdjdS0yc1dWVkJ4WV9mN2RMMy1wRm5jVUFETmdqRjRZUTNtZEJKd0w0dU5IcXZGcUZDUlVJWnBlZG5PNU5CSHVaZWJJSmQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Lido DAO Surges to 10-Week High: What’s Driving the Rally? - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORG1OVlpqdjRoMFdqemRRUVRXeXlSaUVDVUhpZ3FrcUNicjBUUlBhdERnSWxjZVZMVm5UVXEwQ2c5c1Y1OHY5ZWFtWUNpR0lIZE54Q29feTJ4dkFRS0l3cTR0eVlQOTVBU3hWN0NQZktHbUxtLU9DRUQyaDlZNmtVMXUyLTNPOUFEQlg0dWRlZXAwQQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Lido DAO is a crypto asset tracked across major exchanges.",
+    "reportIntro": "Lido DAO stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-06",
     "slug": "2026-07-06-edgex",
     "coinId": "edgex",
@@ -77,46 +117,6 @@
     ],
     "about": "Lighter is a decentralized trading platform built for unmatched security and scale. It’s the first exchange to offer verifiable order matching and liquidations while delivering best-in-class performance on par with traditional exchanges.",
     "reportIntro": "Lighter stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-04",
-    "slug": "2026-07-04-lab",
-    "coinId": "lab",
-    "coinName": "LAB",
-    "symbol": "LAB",
-    "title": "Why LAB Went Up Yesterday",
-    "priceChange24h": 123.6,
-    "volumeLabel": "High",
-    "marketCap": "$5.2B",
-    "summary": "LAB was one of the strongest crypto movers yesterday, gaining 123.6% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 123.6% move.",
-      "Roughly $140M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "LAB token surges 174%, leading crypto gainers a... - Pluang",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNVllVE81VHk4SVFvTTJmTmZvSUtwUnBlMU9rVDlVc1JXMXRzcElJeld5MGNtMEJZV1NTSkJUWDFrS2JDNVVidFJtZm1fM1RMRjdWVy1EWHJYa2xWZzZwRjNLZ0hvd3BqbmRIczR3ekZZTm4tSm9QaWpxaU5La1dXcFdPN29pc1hKbUFCT3VDNlk?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Here’s why LAB price plunged over 60% in a week - Crypto News",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HdEVuc1pRRDVya2dhR3RDdVdSd2l3b0JQc1hFbmZWZTczb3p0WlpGU0dWRmd0S0pYdlpKdUVJZ21sVXhaTnlEYXNBUHlUZVc0QkJKZ293UTBHN2dvdmNEZnkxTFJjWVNlZHRTYXJzWFhxTldIVF96OGUxcTdoYUU?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Why LAB crypto’s 34% crash has traders watching THIS support - AMBCrypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWhvYXhVUWZFUnlqMmtrYy1CNnhIWmVjLU95aWprdGVjYlhNa1U2cGY5a1VWMUVXV0FUdmdJTzl1allpTld5VzY5N3BFbUdRVnNUMm9iRWM3TEM2WEJiR0l0akNHRFlKcHAxZlhYZTJJeE1NWjB4bkdXZ2JtNm1oSkdNTE04by1G0gGOAUFVX3lxTFBrUjZBMmJOZjllS1lxZXl6azJTYzh0MnBoaW4xaDlPbzVyeFR4d25DSE4wTzRTVXl1aE5pQkVyRE1lakgzMnVhUnlNV3o1Q2ZScExrU056emNPSHJJX1NqWWdpVUJKVDYtZGNhLUo4T1BXWTE3Yk05U2RlRFNJOG8wNm44ZWh4SldJTjNRM1E?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "LAB is the first all-in-one trading ecosystem, enabling faster execution, the lowest market fees, and a viral incentive layer powered by $LAB. Integrated with existing trading platforms it allows to tap into an established network while creating a unified environment for a new trading experience. LAB brings together tr",
-    "reportIntro": "LAB stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
