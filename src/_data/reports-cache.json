@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-08",
+    "slug": "2026-07-08-eigenlayer",
+    "coinId": "eigenlayer",
+    "coinName": "EigenCloud (prev. EigenLayer)",
+    "symbol": "EIGEN",
+    "title": "Why EIGEN Went Up Yesterday",
+    "priceChange24h": 17.4,
+    "volumeLabel": "Strong",
+    "marketCap": "$187M",
+    "summary": "EigenCloud (prev. EigenLayer) was one of the strongest crypto movers yesterday, gaining 17.4% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 17.4% move.",
+      "Roughly $45M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Foundation behind restaking protocol EigenLayer plans bigger rewards for active users - CoinDesk",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTllqYjhjRVViLTVnZW1kd05RMThzZjBqVlI5enZWSTQ4MEExbnU4REVUNjJ6dkVYS3ppT1FKWkUwbUFwSHotcEJQNnEycXROMFFkb0tOeFhKandIdkZWVjNWcV94MU9UN3p5WTBwYkV6QW5UaV96aHNUcENkQmdJZGFzdGJVRmJoeUYyOVF0NU5vd1B6VGdKVXNuRUh0WGVKbEdJcnRjTEtqMnhncnFudGxwQk4tZDVRa3RNUW1tSnNiQUhJUTZjaHhB?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Bithumb to Rename EigenLayer (EIGEN) to EigenCloud - CryptoRank",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90QnAzNmM3MnJHem1fZkJ2NGl4WEVSVlc2eGFGcURkZlBFdWFyQ2dIbzY0UzBkbG5WUW9qVmtBZjhJZ3k1Q2NSb3dmR2NRbEFwNzJiZGd3Q3VISUMwbERzbWNXYUV3dmYzVFZ6RHhac202UmEyWGVDeWtrSUpZSkU?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "EigenCloud (prev. EigenLayer) Price: EIGEN/USD Live Price Chart, Market Cap &amp; News Today - CoinGecko",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UZ1NQRlBsdTAtb25hS2w2U3dmUUZublRRRlpxTDN2bHBZcm5VdkdiX1NNTzVRMVpPTDc5V0xualEwNkZpX1ZhbjQzOThoektqQWg2RnFYQWQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "EigenCloud is a developer platform that makes any app onchain or offchain provably verifiable. A platform for verifiable apps, services, and AI powered by the EIGEN token.",
+    "reportIntro": "EigenCloud (prev. EigenLayer) stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-07",
     "slug": "2026-07-07-lido-dao",
     "coinId": "lido-dao",
@@ -77,46 +117,6 @@
     ],
     "about": "edgeX is a 24/7 decentralized trading layer for global assets, offering perpetuals across commodities, equities, and crypto, alongside spot markets. Powered by its own EDGE Chain, edgeX is designed to deliver capital-efficient, self-custodied and 24/7 trading for users globally. Backed by Circle and integrated with nat",
     "reportIntro": "edgeX stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-05",
-    "slug": "2026-07-05-lighter",
-    "coinId": "lighter",
-    "coinName": "Lighter",
-    "symbol": "LIT",
-    "title": "Why LIT Went Up Yesterday",
-    "priceChange24h": 23.6,
-    "volumeLabel": "High",
-    "marketCap": "$676M",
-    "summary": "Lighter was one of the strongest crypto movers yesterday, gaining 23.6% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 23.6% move.",
-      "Roughly $111M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Lighter (LIT) Price Prediction: Can LIT Hit $3 in 2026 After Its Massive Comeback? - Bitcoin Foundation",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVHRBNUdjTFA0a0JEdDdaS2I4UVpLbHEzRkpNdzFScndQbk5xcWZrMWJpampCdHIydzl0LXpwNGNvNDF6M1JBUm5ISUtQekdwSllsek1FVGY3dW5OVUliblBtajNzV2djbTFlYjh4QnlRaGV0eGo5MGlmajQzNG1JTTVNN0VWSV82Z2hESVdKODc1d2RpWEFqWks5Q3ZPcWpSbHZJcHdSdmVmWUtxRmc1YXNKUHBuZEJkTUQyR3hUTQ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Lighter (LIT) Surges 17% on Robinhood Integration and Tokenomics Overhaul - CoinMarketCap",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tWGNrNk11b2xidWdrVEd4M1Q1dlVVWTJIWHVVdEIxMXpocHZaNjJsRTlaM01vOU9tUDRELU0yd2FTQlNFdmZCZk5uNkxhRXZiRjFTMkd4LUk1NEROY2N5YjY3ZEJyRzN2ZUUwUVZxNlo?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Lighter reclaims KEY support – Mapping LIT’s path to the $2.50 target - AMBCrypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZHd4WWduMmdhMWhadm1WSThUYTFmb2ladzN6NzZycVpNZTdNNDBuUlVJS05fM3p4R21jVnlEYU12ME5SYVZvc1liRUtRQ1FwQzlESy1OY2h6VlQ2Nzc2WHFMWEhMTm1QNFVEODJGUld6a0hUTzFPYjJKd2hqeGtVTE8yWWFsUTlTVDR4eUV0ZXJXZ9IBlwFBVV95cUxNamxOWW0yV3RaOE1hU0dwQ044ejE2TDJiRUcxbHNzNm9GLVR4LXRPUWxGRFNFaElwNFRjRFpSclRmVEVmNTVZNjB2ZzRHNGMzbENEUFVxVVdjbHdmWHBXUUZXWEkxcjEzb01VSnhNT2Z6bDdrSERobzFjdHMyRlJDR1VGTVpISnJPeU81VVFrUnBmUndKZnVj?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "Lighter is a decentralized trading platform built for unmatched security and scale. It’s the first exchange to offer verifiable order matching and liquidations while delivering best-in-class performance on par with traditional exchanges.",
-    "reportIntro": "Lighter stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
