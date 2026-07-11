@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-10",
+    "slug": "2026-07-10-build-on",
+    "coinId": "build-on",
+    "coinName": "BUILDon",
+    "symbol": "B",
+    "title": "Why B Went Up Yesterday",
+    "priceChange24h": 45.6,
+    "volumeLabel": "Strong",
+    "marketCap": "$236M",
+    "summary": "BUILDon was one of the strongest crypto movers yesterday, gaining 45.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 45.6% move.",
+      "Roughly $34M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "BUILDon: Can B hold 12% price gains while facing THIS hurdle - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjViaFJHR1dWT1RYU0lOQkxvWmhPblZXMlExbEVvdVVVcXJyZDdNUF9Pam43dmVvOEFnNTRNZlFVdG1PVnM5NGN5bUJTNERQN2hZRnNiWVRYQ2JlekZLOVhBeERJc2Z4eFpZTzhETUtDRmtWVDMtbkRJbUFNVk80NmtqM0E3akh10gGOAUFVX3lxTFA4R0dmeVBiN2N6Q1k0U1ZRVk53VWZxUnZGc0pIUFI3WEhQdVlZOGFLNjNzaTYzcTlVbi0yZ0hHdHFhYUp3SUtldEJvNm5RTmdNbjNaMlM3bEVRYm5USllCVVlVWHhNZGFiM3ZsYlVGbXZMZTRFTWNKQkJBOWJhUkdKWWVyWUFLTV9kbVUyWXc?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "The crypto market sees a broad rebound, with the RWA sector rising over 4% and BTC stabilizing above $63,000 - odaily.news",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zaVR3dGZzTldRRmllS3poYWo2LXVYbXVlNUxnZmgxS0hWcTkxVWREUkFaMEdicEpvVkM0STA4aktUbm1NNTVoXzFCbVgwTGRPUnJzTG5R?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "BUILDon price rallies – Can Bitcoin’s 81% correlation drive more gains? - Cryptonews.net",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92aHpJS1BEWldHRXhTemdkaFVmVDIySmNERU1zdVhQYnVFNEdIdmtRS3h3TDI5dEVINUNId25FNUpSaWVWWmlkOFBna09XeWVFUGpfNkYwQzU3S2s?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "BUILDon is a crypto asset tracked across major exchanges.",
+    "reportIntro": "BUILDon stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-09",
     "slug": "2026-07-09-cash-cat",
     "coinId": "cash-cat",
@@ -77,46 +117,6 @@
     ],
     "about": "EigenCloud is a developer platform that makes any app onchain or offchain provably verifiable. A platform for verifiable apps, services, and AI powered by the EIGEN token.",
     "reportIntro": "EigenCloud (prev. EigenLayer) stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-07",
-    "slug": "2026-07-07-lido-dao",
-    "coinId": "lido-dao",
-    "coinName": "Lido DAO",
-    "symbol": "LDO",
-    "title": "Why LDO Went Up Yesterday",
-    "priceChange24h": 15.7,
-    "volumeLabel": "Strong",
-    "marketCap": "$272M",
-    "summary": "Lido DAO was one of the strongest crypto movers yesterday, gaining 15.7% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 15.7% move.",
-      "Roughly $69M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Why is Lido DAO rallying? - FXStreet",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT0N4Z0hSNDhqTS1Nd0dMek56RUpKNUtqMlpJd0xLVlhEUUktQ0Fja2FwMkVuWXRjNWdUaVJfaTROQ0o0NEEyeUdVSVliaU1GTlFTZHVWdTIwendsVEcyNzRPV1pHSzM3cWdaUmVNT3R3QkpfdDBnWFZKWlQ0X1NTQ3VqQkV1YnhlYnlmSFZUQlVJNlM5NXY1Mzl5SG11U3dFLTRydEdpTW1MMVNYa0hHUjN6UXF2MVhZVEJIUnUycXk?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "LDO Down 96%, Lido DAO Proposes $20M Buyback - CoinMarketCap",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY2tMYnNiczBIZXplZk41elU3bEJybC1WbG5tcWxCQnkwTl90UWczZktqVTV0N2x2NVJ3dkFheXc1NXdBZXVTcmt2Q2gzaURGUjJKcUtzdjdjdS0yc1dWVkJ4WV9mN2RMMy1wRm5jVUFETmdqRjRZUTNtZEJKd0w0dU5IcXZGcUZDUlVJWnBlZG5PNU5CSHVaZWJJSmQ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Lido DAO Surges to 10-Week High: What’s Driving the Rally? - Yahoo Finance",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORG1OVlpqdjRoMFdqemRRUVRXeXlSaUVDVUhpZ3FrcUNicjBUUlBhdERnSWxjZVZMVm5UVXEwQ2c5c1Y1OHY5ZWFtWUNpR0lIZE54Q29feTJ4dkFRS0l3cTR0eVlQOTVBU3hWN0NQZktHbUxtLU9DRUQyaDlZNmtVMXUyLTNPOUFEQlg0dWRlZXAwQQ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "Lido DAO is a crypto asset tracked across major exchanges.",
-    "reportIntro": "Lido DAO stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
