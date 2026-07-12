@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-11",
+    "slug": "2026-07-11-ultima",
+    "coinId": "ultima",
+    "coinName": "Ultima",
+    "symbol": "ULTIMA",
+    "title": "Why ULTIMA Went Up Yesterday",
+    "priceChange24h": 10.4,
+    "volumeLabel": "Elevated",
+    "marketCap": "$205M",
+    "summary": "Ultima was one of the strongest crypto movers yesterday, gaining 10.4% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 10.4% move.",
+      "Roughly $9M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Ultima Price Prediction 2026-2030: Can ULTIMA Cross $6800 in 2026? - CoinDCX",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82azlNQ29pTnBrUzdWTjJVSUFZMlRKdmhfTEJLdVBsODc4UmFKd1N3Njh5M05xTmpWbGJ3ZG5SYW1DaWlDMWsxZUYzbVJKV2N5N21BYTRTTk15US1SR2xvcWFtRDJPUk51ZmZXMUdMUjlaMVJtVXc?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Top 50 leaders and CEOs of 2026 - Gulf Business",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTJIQ2RLeklNWHUxcl9qTjBNTDJEVUREcFpVYThaV0R2aktfTWEweXBYdXBKdmpFRHFKUWt6M3IyRloxMUxpRDNnUml1clFfWlhNY1BpVXpjUTVoUzRZTF80MnJOYXNZTktOV0hmaTZhM0RXNmJlVU51NEYzZ0tiU05OMDRjdHUwMkg4cU5B?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Ultima (ULTIMA) - UCONVENTION - 18 Apr 2026 - TradingView",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObU5IS2h1M0RqSDFPeFY4Y01XaEZJM3JWWkFFdTNvay0tazJjOFVLUU9LbFMzX3ctRFNSZWhUa0FLUEl5NEdhYUVLWnllamVfVWtXZy12TDhmWkQ2Z2RhR0Yxai1sTVBEWUpqZ1pCQzRVX2xZRTJkNDI2YVEyTWktUVR5bkFSNDdmdFlxZ3JJSnBmZUxpV1IyZUpxTWJ0MlJib0JV?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Ultima (ULTIMA) is the infrastructure token of the Ultima ecosystem. This cryptocurrency is based on an easily scalable Smart Blockchain that runs on the DPoS (Delegated Proof of Stake) consensus algorithm. The Smart Blockchain network is known by its unique throughput — it can conduct up to 2000 transactions per secon",
+    "reportIntro": "Ultima stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-10",
     "slug": "2026-07-10-build-on",
     "coinId": "build-on",
@@ -77,46 +117,6 @@
     ],
     "about": "Cash Cat is a crypto asset tracked across major exchanges.",
     "reportIntro": "Cash Cat stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-08",
-    "slug": "2026-07-08-eigenlayer",
-    "coinId": "eigenlayer",
-    "coinName": "EigenCloud (prev. EigenLayer)",
-    "symbol": "EIGEN",
-    "title": "Why EIGEN Went Up Yesterday",
-    "priceChange24h": 17.4,
-    "volumeLabel": "Strong",
-    "marketCap": "$187M",
-    "summary": "EigenCloud (prev. EigenLayer) was one of the strongest crypto movers yesterday, gaining 17.4% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 17.4% move.",
-      "Roughly $45M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Foundation behind restaking protocol EigenLayer plans bigger rewards for active users - CoinDesk",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTllqYjhjRVViLTVnZW1kd05RMThzZjBqVlI5enZWSTQ4MEExbnU4REVUNjJ6dkVYS3ppT1FKWkUwbUFwSHotcEJQNnEycXROMFFkb0tOeFhKandIdkZWVjNWcV94MU9UN3p5WTBwYkV6QW5UaV96aHNUcENkQmdJZGFzdGJVRmJoeUYyOVF0NU5vd1B6VGdKVXNuRUh0WGVKbEdJcnRjTEtqMnhncnFudGxwQk4tZDVRa3RNUW1tSnNiQUhJUTZjaHhB?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Bithumb to Rename EigenLayer (EIGEN) to EigenCloud - CryptoRank",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90QnAzNmM3MnJHem1fZkJ2NGl4WEVSVlc2eGFGcURkZlBFdWFyQ2dIbzY0UzBkbG5WUW9qVmtBZjhJZ3k1Q2NSb3dmR2NRbEFwNzJiZGd3Q3VISUMwbERzbWNXYUV3dmYzVFZ6RHhac202UmEyWGVDeWtrSUpZSkU?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "EigenCloud (prev. EigenLayer) Price: EIGEN/USD Live Price Chart, Market Cap &amp; News Today - CoinGecko",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UZ1NQRlBsdTAtb25hS2w2U3dmUUZublRRRlpxTDN2bHBZcm5VdkdiX1NNTzVRMVpPTDc5V0xualEwNkZpX1ZhbjQzOThoektqQWg2RnFYQWQ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "EigenCloud is a developer platform that makes any app onchain or offchain provably verifiable. A platform for verifiable apps, services, and AI powered by the EIGEN token.",
-    "reportIntro": "EigenCloud (prev. EigenLayer) stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
