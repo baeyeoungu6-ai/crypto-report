@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-13",
+    "slug": "2026-07-13-velvet",
+    "coinId": "velvet",
+    "coinName": "Velvet",
+    "symbol": "VELVET",
+    "title": "Why VELVET Went Up Yesterday",
+    "priceChange24h": 21,
+    "volumeLabel": "Elevated",
+    "marketCap": "$267M",
+    "summary": "Velvet was one of the strongest crypto movers yesterday, gaining 21.0% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 21.0% move.",
+      "Roughly $23M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "VELVET crypto rallies 29% – Can 2,500 new holders sustain the rally? - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWXFYNGliSDZ4eENBWXJjYldxQVhtOVhZb3RQUktZVlRoY2N0R0RPWGNmWl9uRzZlU2JkS2pLYU9BQkRObzdMdEFsSm5ENXctVWNFazRUNWhmQmpxWTFXRkdnTE1OLWRqUHlCRXB6OHZXV3Q1VVlscGZfeHFQRmhGRVpnbnpINmc3STRYZWQwMNIBlAFBVV95cUxQSVdWaXBGYWJtc1FlMG1QMURNNkFOVGVUOUVFWnREOE1vaXhiTjVwWk1BYmwydWN5N3diamJNbm4xTlVEaml3ZlB1Y1FOLVctRkJoQlYtak5kQ1Jhb3k0WldnbVRCT0hOSzBLdUc0SkprRlFzRjloTzB4VUpHcVJNNDdTYVVweVZuNUlrcVpGZGRzekVG?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "How VELVET Became Top Crypto Gainer in June 2026 — VELVET Price Forecast - Bitcoin Foundation",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTdUM1hqNG1EVnRiRzRMZi12V1A5NmpScVZuaUxGT2tzRlh4UFlydHZad2pKeVdZOVhUYnBXWURlclhZWmdvMUJwTGNOeDkxLVNNN1NGTEwxbDljSTZkMkZ5Vkl5cHlMTTdSd3BtXzNxR1ZMNTNvMjRIQkxMTmxzQ1gyT2hqUHNidURnem9jRklyRm05ZXJlNG1MY00wclhSV25LUnVGX0FTaUJ1OFZnSWtqX1FyQQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Velvet (VELVET) Price Prediction: Daily, Weekly 2026 – 2040 - CoinDCX",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KUTFxT2FjdUt0SnhYMkc4LV80ai01UC1vRzF3SW1NcS1zWHlCRDEtbU92anB1TFdrZng4XzRfMTZFM3ZGc1F1Y2Y2ck81YTdVMU10ZGNsaE1KZ05yTjBjb01fbjc2UVZVbDJ1M0pRdVB5c3A0LTRIMWdaYzFuR0E?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Velvet is a crypto asset tracked across major exchanges.",
+    "reportIntro": "Velvet stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-12",
     "slug": "2026-07-12-decred",
     "coinId": "decred",
@@ -77,46 +117,6 @@
     ],
     "about": "Ultima (ULTIMA) is the infrastructure token of the Ultima ecosystem. This cryptocurrency is based on an easily scalable Smart Blockchain that runs on the DPoS (Delegated Proof of Stake) consensus algorithm. The Smart Blockchain network is known by its unique throughput — it can conduct up to 2000 transactions per secon",
     "reportIntro": "Ultima stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-10",
-    "slug": "2026-07-10-build-on",
-    "coinId": "build-on",
-    "coinName": "BUILDon",
-    "symbol": "B",
-    "title": "Why B Went Up Yesterday",
-    "priceChange24h": 45.6,
-    "volumeLabel": "Strong",
-    "marketCap": "$236M",
-    "summary": "BUILDon was one of the strongest crypto movers yesterday, gaining 45.6% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 45.6% move.",
-      "Roughly $34M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "BUILDon: Can B hold 12% price gains while facing THIS hurdle - AMBCrypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjViaFJHR1dWT1RYU0lOQkxvWmhPblZXMlExbEVvdVVVcXJyZDdNUF9Pam43dmVvOEFnNTRNZlFVdG1PVnM5NGN5bUJTNERQN2hZRnNiWVRYQ2JlekZLOVhBeERJc2Z4eFpZTzhETUtDRmtWVDMtbkRJbUFNVk80NmtqM0E3akh10gGOAUFVX3lxTFA4R0dmeVBiN2N6Q1k0U1ZRVk53VWZxUnZGc0pIUFI3WEhQdVlZOGFLNjNzaTYzcTlVbi0yZ0hHdHFhYUp3SUtldEJvNm5RTmdNbjNaMlM3bEVRYm5USllCVVlVWHhNZGFiM3ZsYlVGbXZMZTRFTWNKQkJBOWJhUkdKWWVyWUFLTV9kbVUyWXc?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "The crypto market sees a broad rebound, with the RWA sector rising over 4% and BTC stabilizing above $63,000 - odaily.news",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zaVR3dGZzTldRRmllS3poYWo2LXVYbXVlNUxnZmgxS0hWcTkxVWREUkFaMEdicEpvVkM0STA4aktUbm1NNTVoXzFCbVgwTGRPUnJzTG5R?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "BUILDon price rallies – Can Bitcoin’s 81% correlation drive more gains? - Cryptonews.net",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92aHpJS1BEWldHRXhTemdkaFVmVDIySmNERU1zdVhQYnVFNEdIdmtRS3h3TDI5dEVINUNId25FNUpSaWVWWmlkOFBna09XeWVFUGpfNkYwQzU3S2s?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "BUILDon is a crypto asset tracked across major exchanges.",
-    "reportIntro": "BUILDon stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
