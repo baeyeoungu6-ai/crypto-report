@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-14",
+    "slug": "2026-07-14-derive",
+    "coinId": "derive",
+    "coinName": "Derive",
+    "symbol": "DRV",
+    "title": "Why DRV Went Up Yesterday",
+    "priceChange24h": 20.6,
+    "volumeLabel": "Elevated",
+    "marketCap": "$141M",
+    "summary": "Derive was one of the strongest crypto movers yesterday, gaining 20.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 20.6% move.",
+      "Roughly $22M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Upbit and Bithumb Listings Send Derive (DRV) Soaring Nearly 30% - Yahoo Finance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHpEMU91MHMtNklMa2l5dUNPbkVnejFtMG9IVjhvVWh5cEd5Vl9aREhCVGtuem50U3JpU3M0aFR0THNWb3pMSmNndnhjUXVWYTJ6OUZSUFJ2a2VGYVd6bjRISFYwOWlqLTBGWGVqUG9MSldUS0MwT1oxVGdiaU9DbGNKSllyb1dsaDA1MGNIS25WS1BVLUxHWWE3ZGJheFZm?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Upbit lists Derive (DRV) with KRW, BTC and USDT trading pairs - Crypto News",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMHFuSUxHNnE3Y3RwLTBJLWExNUNNd1NuWXc2N2JBOG9OZ0hJUW96OVlnOVkzc0dlQmhENXl2WllEdzdkNVI2ejZldkY2Z05wMnk2RmNoTDlZQk81UGtyTTY4cmJ3Y1c4XzJuZ0IwYWZ5RE44Qkp1eXM5UjlmRlVfckpSdVp1QQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Upbit and Bithumb Listings Send Derive (DRV) Soaring Nearly 30% - CryptoRank",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3d4MjF5RFU4T0YyVTNaeEhKWk5mRUw0ZHozWWthWkpkZ2N2T3lGLXpraDFwYUlnODc0Tmd6Uk5jNGhnNWlIM2VYb3lwMzhQcUVFUXhuQzMyZV9qMWVERzd6UTh0eDFJYlJUQVhTdi1wS0h4Mkk2YjM4UDF1ZFl5ZS1JOA?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Derive is a decentralized protocol that creates programmable onchain options, perpetuals, and structured products. Derive is deployed and operates on Derive Chain, an Ethereum rollup built using the OP stack and is the home of the Derive Protocol. It is a permission-less smart contract platform. The Derive DAO earns tr",
+    "reportIntro": "Derive stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-13",
     "slug": "2026-07-13-velvet",
     "coinId": "velvet",
@@ -77,46 +117,6 @@
     ],
     "about": "Decred aims to build a community-directed digital currency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.",
     "reportIntro": "Decred stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-11",
-    "slug": "2026-07-11-ultima",
-    "coinId": "ultima",
-    "coinName": "Ultima",
-    "symbol": "ULTIMA",
-    "title": "Why ULTIMA Went Up Yesterday",
-    "priceChange24h": 10.4,
-    "volumeLabel": "Elevated",
-    "marketCap": "$205M",
-    "summary": "Ultima was one of the strongest crypto movers yesterday, gaining 10.4% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 10.4% move.",
-      "Roughly $9M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Ultima Price Prediction 2026-2030: Can ULTIMA Cross $6800 in 2026? - CoinDCX",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82azlNQ29pTnBrUzdWTjJVSUFZMlRKdmhfTEJLdVBsODc4UmFKd1N3Njh5M05xTmpWbGJ3ZG5SYW1DaWlDMWsxZUYzbVJKV2N5N21BYTRTTk15US1SR2xvcWFtRDJPUk51ZmZXMUdMUjlaMVJtVXc?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Top 50 leaders and CEOs of 2026 - Gulf Business",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTJIQ2RLeklNWHUxcl9qTjBNTDJEVUREcFpVYThaV0R2aktfTWEweXBYdXBKdmpFRHFKUWt6M3IyRloxMUxpRDNnUml1clFfWlhNY1BpVXpjUTVoUzRZTF80MnJOYXNZTktOV0hmaTZhM0RXNmJlVU51NEYzZ0tiU05OMDRjdHUwMkg4cU5B?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Ultima (ULTIMA) - UCONVENTION - 18 Apr 2026 - TradingView",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObU5IS2h1M0RqSDFPeFY4Y01XaEZJM3JWWkFFdTNvay0tazJjOFVLUU9LbFMzX3ctRFNSZWhUa0FLUEl5NEdhYUVLWnllamVfVWtXZy12TDhmWkQ2Z2RhR0Yxai1sTVBEWUpqZ1pCQzRVX2xZRTJkNDI2YVEyTWktUVR5bkFSNDdmdFlxZ3JJSnBmZUxpV1IyZUpxTWJ0MlJib0JV?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "Ultima (ULTIMA) is the infrastructure token of the Ultima ecosystem. This cryptocurrency is based on an easily scalable Smart Blockchain that runs on the DPoS (Delegated Proof of Stake) consensus algorithm. The Smart Blockchain network is known by its unique throughput — it can conduct up to 2000 transactions per secon",
-    "reportIntro": "Ultima stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
