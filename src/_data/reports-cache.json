@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-15",
+    "slug": "2026-07-15-unibase",
+    "coinId": "unibase",
+    "coinName": "Unibase",
+    "symbol": "UB",
+    "title": "Why UB Went Up Yesterday",
+    "priceChange24h": 13.9,
+    "volumeLabel": "Elevated",
+    "marketCap": "$202M",
+    "summary": "Unibase was one of the strongest crypto movers yesterday, gaining 13.9% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 13.9% move.",
+      "Roughly $15M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Unibase plunges 30% as key support crumbles – How low can UB go? - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHV6QWxOT2RIOW1Lc0J1QjdQSzRRc0ZLVWkzNmlwRXZmaHVreVQ5TVAtTGZJRXNIQi1uTm1XVmFBZ3lJc1R5SEtCcS1kZE1mNU1nR1FKVWZxUnBXNGQtazBhMlM4R2RLVDBNY0lnN09PSzN1amMtV0x3OWZlVjlpM2JzOWRvOEZQUjk00gGQAUFVX3lxTE9lZDB5WE9ScldhbHlwdDV5bTFlWDFSNEdvMzNmcGZvZDYxdEFtdjJydGVJbXQyTzRIclJXWElCai1FaXFPOHdDcGlmeHp3b3hsVVVtbGVBdWZFWmhFS0VVSU5OX0pTY0w2WGcxUFQwcXRQSDlrUzgtMDg4VjZkeXprWVFNMm1fZFdDanhFQnZOZw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Unibase price today, UB to USD live price, marketcap and chart - CoinMarketCap",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkRk9SLThmcmxyclViVnJLb05CaTFObHAyUHZTN2hvSndRQUlIV2pGM0J3MkQ3ZnVkZHRybzZHbS1JUEpObEpzOEpwNm5uNjlqMUg2RXo0YUY?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "UB Token Explodes After Unibase Agent Market Launch - TradingView",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnlvVUZLLUppcEJscXN6dXJrYjdmcVRORG9fcHlQeFhHVE4tNTdQcExlV1NXRWxBd0xwS1RaeUpaRjJRWHN5d1QtdGxRUFZVcFhvQldfV2xrTEE1VC11a3RFZ1BXaVR2Q2ZPa25PRHhETWlkMXQ5eEdOSDVwRlVOTnlMb1JhcE5XbUZlOWNnWllEXzNHRFVHREFNNkZaZWx5c0t5VjRhejNqd0h6MGJ3?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Unibase is the first high-performance decentralized AI memory layer. It equips AI agents with long-term memory and cross-platform interoperability, enabling them to learn, evolve, and collaborate autonomously. Unibase is building the foundation for the Open Agent Internet — a modular, verifiable, and composable AI agen",
+    "reportIntro": "Unibase stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-14",
     "slug": "2026-07-14-derive",
     "coinId": "derive",
@@ -77,46 +117,6 @@
     ],
     "about": "Velvet is a crypto asset tracked across major exchanges.",
     "reportIntro": "Velvet stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-12",
-    "slug": "2026-07-12-decred",
-    "coinId": "decred",
-    "coinName": "Decred",
-    "symbol": "DCR",
-    "title": "Why DCR Went Up Yesterday",
-    "priceChange24h": 29.2,
-    "volumeLabel": "Elevated",
-    "marketCap": "$253M",
-    "summary": "Decred was one of the strongest crypto movers yesterday, gaining 29.2% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 29.2% move.",
-      "Roughly $10M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Decred (DCR) Price Prediction 2026–2030: Can DCR Reach $550? - Bitget",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZjZQWmw4ZWoyb3BRNlFDQXBRbjdVRk91UlhGZkNmOUlMMzZxaFNQUHIzVExuQU5zWEpWSldqTWZTLUFHTFM1ekFsVmxNZVFPM18zNEZ2SDFpU0Q0ZGItZFhCVFV2MUVkMEHSAWpBVV95cUxNQWY2UFpsOGVqMm9wUTZRQ0FwUW43VUZPdVJYRmZDZjlJTDM2cWhTUFByM1RMbkFOc1hKVkpXak1mUy1BR0xTNXpBbFZsTWVRTzNfMzRGdkgxaVNENGRiLWRYQlRVdjFFZDBB?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Decred (DCR) Price Prediction 2026, 2027 – 2030: Will Decred Price Hit $1000? - Coinpedia",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Zbk1UbUd2aFYwbnoweHRhWTNJNGlRX0tBUndKN2F5TktOREt6Y0F3Ujg4MTlTWWRteTJmQm9NQ0s2S2JfMXpwVEYtSGpqbnRONXVNLU5ZT3JRRG5zQktZaWhtcngwcW5DOHMxQV9ER3BQaVNoenfSAXtBVV95cUxPX0RTd0l1bjNGaU5RNnNWSTBrSjV2Rkh6aV82dmtWaWszSWlLWElsUjN3YzJpVDZpaFE2RXVpX20tUlRPZWVwRk1sYnlkdWdhWVlYR0JDSzlCb0VJeXotbm15b3JTemZCRThBN1lGRTgtOXRHUHl5Nk1UaDg?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Decred (DCR) Price Soars 80% as Crypto Sentiment Improves—Is $50 the Next Target? - TradingView",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbHpKUGgyWVBtcVpPX20zVnRjb0ZCV2dGT0ZxajB1Z0R3cFQ3MHl3VkNWUXM5OUVSRHFVLWFzUGp5RXVkc0pvd3ZLMnl0TjRIYktOZjd4SmhoV1AxTmJQOFplOVEzanhaTGc5LUFkd1d6ZXBXSmhCVnFNQlU5MDZFQ3A1ZFcteURiWU9FNWN1R0FselpEUWt1ckUtV2hGUWVqcVY3SVYtNXBFcXNjWFEzVzd6SDl5RV9rZ0tVakFKSU5kN2gySHFQLTUxQ3B1TUtWVHc?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "Decred aims to build a community-directed digital currency whose security, adaptability, and sustainability make it a superior long-term store of value. It is achieving this aim by building the world's first truly decentralized autonomous organization.",
-    "reportIntro": "Decred stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
