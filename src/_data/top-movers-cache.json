@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-16T03:30:47.198Z",
+  "updatedAt": "2026-07-17T03:31:45.323Z",
   "items": [
     {
       "rank": 1,
+      "id": "kaito",
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "image": "https://coin-images.coingecko.com/coins/images/54411/large/Qm4DW488_400x400.jpg?1739552780",
+      "price": "$0.84",
+      "change24h": 11.6,
+      "marketCap": "$204.04M",
+      "volume": "$49.17M"
+    },
+    {
+      "rank": 2,
+      "id": "stable-2",
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "image": "https://coin-images.coingecko.com/coins/images/69242/large/stable-logotype-framed-square-light.png?1762753913",
+      "price": "$0.04",
+      "change24h": 7.2,
+      "marketCap": "$971.12M",
+      "volume": "$16.69M"
+    },
+    {
+      "rank": 3,
+      "id": "crypto-com-chain",
+      "name": "Cronos",
+      "symbol": "CRO",
+      "image": "https://coin-images.coingecko.com/coins/images/7310/large/cro_token_logo.png?1696507599",
+      "price": "$0.06",
+      "change24h": 6.1,
+      "marketCap": "$2.72B",
+      "volume": "$36.79M"
+    },
+    {
+      "rank": 4,
+      "id": "arbitrum",
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "image": "https://coin-images.coingecko.com/coins/images/16547/large/arb.jpg?1721358242",
+      "price": "$0.09",
+      "change24h": 4.2,
+      "marketCap": "$578.27M",
+      "volume": "$58.27M"
+    },
+    {
+      "rank": 5,
       "id": "unibase",
       "name": "Unibase",
       "symbol": "UB",
       "image": "https://coin-images.coingecko.com/coins/images/69108/large/unibase.png?1757501820",
       "price": "$0.08",
-      "change24h": 13.9,
-      "marketCap": "$202.29M",
-      "volume": "$15.22M"
-    },
-    {
-      "rank": 2,
-      "id": "ecash",
-      "name": "eCash",
-      "symbol": "XEC",
-      "image": "https://coin-images.coingecko.com/coins/images/16646/large/Logo_final-22.png?1696516207",
-      "price": "$0.00",
-      "change24h": 13.8,
-      "marketCap": "$130.19M",
-      "volume": "$39.50M"
-    },
-    {
-      "rank": 3,
-      "id": "ondo-finance",
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "image": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
-      "price": "$0.36",
-      "change24h": 13.3,
-      "marketCap": "$1.78B",
-      "volume": "$189.45M"
-    },
-    {
-      "rank": 4,
-      "id": "rif-token",
-      "name": "Rootstock Infrastructure Framework",
-      "symbol": "RIF",
-      "image": "https://coin-images.coingecko.com/coins/images/7460/large/8befc44a46c247e8a3f7fc8abba586b1_%283%29.png?1705501867",
-      "price": "$0.13",
-      "change24h": 11.6,
-      "marketCap": "$134.32M",
-      "volume": "$13.09M"
-    },
-    {
-      "rank": 5,
-      "id": "lido-dao",
-      "name": "Lido DAO",
-      "symbol": "LDO",
-      "image": "https://coin-images.coingecko.com/coins/images/13573/large/Lido_DAO.png?1696513326",
-      "price": "$0.37",
-      "change24h": 11.1,
-      "marketCap": "$306.41M",
-      "volume": "$49.57M"
+      "change24h": 4,
+      "marketCap": "$210.32M",
+      "volume": "$11.20M"
     },
     {
       "rank": 6,
-      "id": "ether-fi",
-      "name": "Ether.fi",
-      "symbol": "ETHFI",
-      "image": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562",
-      "price": "$0.44",
-      "change24h": 10.6,
-      "marketCap": "$408.75M",
-      "volume": "$55.94M"
+      "id": "beldex",
+      "name": "Beldex",
+      "symbol": "BDX",
+      "image": "https://coin-images.coingecko.com/coins/images/5111/large/Beldex.png?1696505631",
+      "price": "$0.09",
+      "change24h": 3.9,
+      "marketCap": "$696.91M",
+      "volume": "$17.03M"
     },
     {
       "rank": 7,
-      "id": "virtual-protocol",
-      "name": "Virtuals Protocol",
-      "symbol": "VIRTUAL",
-      "image": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054",
-      "price": "$0.63",
-      "change24h": 7.4,
-      "marketCap": "$411.84M",
-      "volume": "$98.98M"
+      "id": "mantle",
+      "name": "Mantle",
+      "symbol": "MNT",
+      "image": "https://coin-images.coingecko.com/coins/images/30980/large/MNT_Token_Logo.png?1765516974",
+      "price": "$0.44",
+      "change24h": 3.4,
+      "marketCap": "$1.46B",
+      "volume": "$33.75M"
     },
     {
       "rank": 8,
-      "id": "kite-2",
-      "name": "Kite",
-      "symbol": "KITE",
-      "image": "https://coin-images.coingecko.com/coins/images/70426/large/KITE-ICON.png?1762328605",
-      "price": "$0.13",
-      "change24h": 5.5,
-      "marketCap": "$300.81M",
-      "volume": "$27.99M"
+      "id": "decentraland",
+      "name": "Decentraland",
+      "symbol": "MANA",
+      "image": "https://coin-images.coingecko.com/coins/images/878/large/decentraland-mana.png?1696502010",
+      "price": "$0.07",
+      "change24h": 3,
+      "marketCap": "$142.11M",
+      "volume": "$12.72M"
     },
     {
       "rank": 9,
-      "id": "morpho",
-      "name": "Morpho",
-      "symbol": "MORPHO",
-      "image": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
-      "price": "$2.11",
-      "change24h": 4.9,
-      "marketCap": "$1.38B",
-      "volume": "$20.64M"
+      "id": "pyth-network",
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "image": "https://coin-images.coingecko.com/coins/images/31924/large/pyth.png?1701245725",
+      "price": "$0.05",
+      "change24h": 2.7,
+      "marketCap": "$398.95M",
+      "volume": "$40.39M"
     },
     {
       "rank": 10,
-      "id": "eigenlayer",
-      "name": "EigenCloud (prev. EigenLayer)",
-      "symbol": "EIGEN",
-      "image": "https://coin-images.coingecko.com/coins/images/37441/large/eigencloud.jpg?1751003565",
-      "price": "$0.25",
-      "change24h": 4.1,
-      "marketCap": "$182.67M",
-      "volume": "$31.07M"
+      "id": "venice-token",
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "image": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
+      "price": "$10.98",
+      "change24h": 2.1,
+      "marketCap": "$519.75M",
+      "volume": "$25.83M"
     }
   ]
 }
