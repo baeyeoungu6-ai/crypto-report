@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-17T03:31:45.323Z",
+  "updatedAt": "2026-07-18T03:23:56.938Z",
   "items": [
     {
       "rank": 1,
-      "id": "kaito",
-      "name": "KAITO",
-      "symbol": "KAITO",
-      "image": "https://coin-images.coingecko.com/coins/images/54411/large/Qm4DW488_400x400.jpg?1739552780",
-      "price": "$0.84",
-      "change24h": 11.6,
-      "marketCap": "$204.04M",
-      "volume": "$49.17M"
+      "id": "ecash",
+      "name": "eCash",
+      "symbol": "XEC",
+      "image": "https://coin-images.coingecko.com/coins/images/16646/large/Logo_final-22.png?1696516207",
+      "price": "$0.00",
+      "change24h": 17.1,
+      "marketCap": "$156.28M",
+      "volume": "$75.52M"
     },
     {
       "rank": 2,
-      "id": "stable-2",
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "image": "https://coin-images.coingecko.com/coins/images/69242/large/stable-logotype-framed-square-light.png?1762753913",
-      "price": "$0.04",
-      "change24h": 7.2,
-      "marketCap": "$971.12M",
-      "volume": "$16.69M"
+      "id": "pi-network",
+      "name": "Pi Network",
+      "symbol": "PI",
+      "image": "https://coin-images.coingecko.com/coins/images/54342/large/pi_network.jpg?1739347576",
+      "price": "$0.08",
+      "change24h": 8.2,
+      "marketCap": "$912.31M",
+      "volume": "$20.30M"
     },
     {
       "rank": 3,
-      "id": "crypto-com-chain",
-      "name": "Cronos",
-      "symbol": "CRO",
-      "image": "https://coin-images.coingecko.com/coins/images/7310/large/cro_token_logo.png?1696507599",
-      "price": "$0.06",
-      "change24h": 6.1,
-      "marketCap": "$2.72B",
-      "volume": "$36.79M"
-    },
-    {
-      "rank": 4,
-      "id": "arbitrum",
-      "name": "Arbitrum",
-      "symbol": "ARB",
-      "image": "https://coin-images.coingecko.com/coins/images/16547/large/arb.jpg?1721358242",
-      "price": "$0.09",
-      "change24h": 4.2,
-      "marketCap": "$578.27M",
-      "volume": "$58.27M"
-    },
-    {
-      "rank": 5,
       "id": "unibase",
       "name": "Unibase",
       "symbol": "UB",
       "image": "https://coin-images.coingecko.com/coins/images/69108/large/unibase.png?1757501820",
-      "price": "$0.08",
-      "change24h": 4,
-      "marketCap": "$210.32M",
-      "volume": "$11.20M"
+      "price": "$0.09",
+      "change24h": 7.6,
+      "marketCap": "$227.85M",
+      "volume": "$12.29M"
+    },
+    {
+      "rank": 4,
+      "id": "injective-protocol",
+      "name": "Injective",
+      "symbol": "INJ",
+      "image": "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
+      "price": "$5.20",
+      "change24h": 6.6,
+      "marketCap": "$519.76M",
+      "volume": "$93.85M"
+    },
+    {
+      "rank": 5,
+      "id": "official-trump",
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "image": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
+      "price": "$1.64",
+      "change24h": 5.7,
+      "marketCap": "$389.13M",
+      "volume": "$71.62M"
     },
     {
       "rank": 6,
-      "id": "beldex",
-      "name": "Beldex",
-      "symbol": "BDX",
-      "image": "https://coin-images.coingecko.com/coins/images/5111/large/Beldex.png?1696505631",
-      "price": "$0.09",
-      "change24h": 3.9,
-      "marketCap": "$696.91M",
-      "volume": "$17.03M"
+      "id": "dexe",
+      "name": "DeXe",
+      "symbol": "DEXE",
+      "image": "https://coin-images.coingecko.com/coins/images/12713/large/DEXE_token_logo.png?1696512514",
+      "price": "$36.22",
+      "change24h": 5.7,
+      "marketCap": "$1.69B",
+      "volume": "$112.84M"
     },
     {
       "rank": 7,
-      "id": "mantle",
-      "name": "Mantle",
-      "symbol": "MNT",
-      "image": "https://coin-images.coingecko.com/coins/images/30980/large/MNT_Token_Logo.png?1765516974",
-      "price": "$0.44",
-      "change24h": 3.4,
-      "marketCap": "$1.46B",
-      "volume": "$33.75M"
+      "id": "ethereum-name-service",
+      "name": "Ethereum Name Service",
+      "symbol": "ENS",
+      "image": "https://coin-images.coingecko.com/coins/images/19785/large/ENS.jpg?1727872989",
+      "price": "$4.55",
+      "change24h": 4.8,
+      "marketCap": "$186.35M",
+      "volume": "$43.07M"
     },
     {
       "rank": 8,
-      "id": "decentraland",
-      "name": "Decentraland",
-      "symbol": "MANA",
-      "image": "https://coin-images.coingecko.com/coins/images/878/large/decentraland-mana.png?1696502010",
-      "price": "$0.07",
-      "change24h": 3,
-      "marketCap": "$142.11M",
-      "volume": "$12.72M"
+      "id": "memecore",
+      "name": "MemeCore",
+      "symbol": "M",
+      "image": "https://coin-images.coingecko.com/coins/images/53247/large/square-bg-transparent.png?1752637478",
+      "price": "$1.27",
+      "change24h": 4.8,
+      "marketCap": "$1.68B",
+      "volume": "$14.10M"
     },
     {
       "rank": 9,
-      "id": "pyth-network",
-      "name": "Pyth Network",
-      "symbol": "PYTH",
-      "image": "https://coin-images.coingecko.com/coins/images/31924/large/pyth.png?1701245725",
-      "price": "$0.05",
-      "change24h": 2.7,
-      "marketCap": "$398.95M",
-      "volume": "$40.39M"
-    },
-    {
-      "rank": 10,
       "id": "venice-token",
       "name": "Venice Token",
       "symbol": "VVV",
       "image": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
-      "price": "$10.98",
-      "change24h": 2.1,
-      "marketCap": "$519.75M",
-      "volume": "$25.83M"
+      "price": "$11.46",
+      "change24h": 4.8,
+      "marketCap": "$542.77M",
+      "volume": "$28.69M"
+    },
+    {
+      "rank": 10,
+      "id": "cardano",
+      "name": "Cardano",
+      "symbol": "ADA",
+      "image": "https://coin-images.coingecko.com/coins/images/975/large/cardano.png?1696502090",
+      "price": "$0.17",
+      "change24h": 4.7,
+      "marketCap": "$6.27B",
+      "volume": "$390.62M"
     }
   ]
 }
