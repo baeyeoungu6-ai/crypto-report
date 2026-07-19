@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-18",
+    "slug": "2026-07-18-build-on",
+    "coinId": "build-on",
+    "coinName": "BUILDon",
+    "symbol": "B",
+    "title": "Why B Went Up Yesterday",
+    "priceChange24h": 50.6,
+    "volumeLabel": "Elevated",
+    "marketCap": "$171M",
+    "summary": "BUILDon was one of the strongest crypto movers yesterday, gaining 50.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 50.6% move.",
+      "Roughly $20M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "BUILDon (B) Explodes 55% in 24 Hours, Is $0.74 the Next Stop? - BeInCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMW1VbU9fNW4wZXRiOXpWdG1zU2V6TTc3dW53emZSeGtJb1FqcWx0LWRpOWYtblhyT3FiZVFsV1pUaklVSmN2Wm5INUtPRDQxUklDenpMMENqOTlJNEtrQWxRTU1PNzBNeXJjWDh4Uy1KVVFMeEVmTlg0QU9UQlN5UU5KTTdvZw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "BUILDon: Can B hold 12% price gains while facing THIS hurdle - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjViaFJHR1dWT1RYU0lOQkxvWmhPblZXMlExbEVvdVVVcXJyZDdNUF9Pam43dmVvOEFnNTRNZlFVdG1PVnM5NGN5bUJTNERQN2hZRnNiWVRYQ2JlekZLOVhBeERJc2Z4eFpZTzhETUtDRmtWVDMtbkRJbUFNVk80NmtqM0E3akh10gGOAUFVX3lxTFA4R0dmeVBiN2N6Q1k0U1ZRVk53VWZxUnZGc0pIUFI3WEhQdVlZOGFLNjNzaTYzcTlVbi0yZ0hHdHFhYUp3SUtldEJvNm5RTmdNbjNaMlM3bEVRYm5USllCVVlVWHhNZGFiM3ZsYlVGbXZMZTRFTWNKQkJBOWJhUkdKWWVyWUFLTV9kbVUyWXc?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "BUILDon (B) Surges 28.92% on Bitcoin Rally and Meme Momentum - CoinMarketCap",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdmxmeVhodmhETjZ4WTI2Mks2bndwUE5MbVk4ODhzMzVjOG9OdzVKakFuQ0syRnhHb2IyZXlMTnhIMXRNdW9XeWdfQkdTVkZWSWxhUzVMNG5CaE91QzFUS1pScnpJVmJyWkRHdm1Yb2M?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "BUILDon is a crypto asset tracked across major exchanges.",
+    "reportIntro": "BUILDon stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-17",
     "slug": "2026-07-17-ecash",
     "coinId": "ecash",
@@ -77,46 +117,6 @@
     ],
     "about": "$KAITO is the native token and the fundamental building block of the AI-powered InfoFi network.",
     "reportIntro": "KAITO stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-15",
-    "slug": "2026-07-15-unibase",
-    "coinId": "unibase",
-    "coinName": "Unibase",
-    "symbol": "UB",
-    "title": "Why UB Went Up Yesterday",
-    "priceChange24h": 13.9,
-    "volumeLabel": "Elevated",
-    "marketCap": "$202M",
-    "summary": "Unibase was one of the strongest crypto movers yesterday, gaining 13.9% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 13.9% move.",
-      "Roughly $15M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Unibase plunges 30% as key support crumbles – How low can UB go? - AMBCrypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHV6QWxOT2RIOW1Lc0J1QjdQSzRRc0ZLVWkzNmlwRXZmaHVreVQ5TVAtTGZJRXNIQi1uTm1XVmFBZ3lJc1R5SEtCcS1kZE1mNU1nR1FKVWZxUnBXNGQtazBhMlM4R2RLVDBNY0lnN09PSzN1amMtV0x3OWZlVjlpM2JzOWRvOEZQUjk00gGQAUFVX3lxTE9lZDB5WE9ScldhbHlwdDV5bTFlWDFSNEdvMzNmcGZvZDYxdEFtdjJydGVJbXQyTzRIclJXWElCai1FaXFPOHdDcGlmeHp3b3hsVVVtbGVBdWZFWmhFS0VVSU5OX0pTY0w2WGcxUFQwcXRQSDlrUzgtMDg4VjZkeXprWVFNMm1fZFdDanhFQnZOZw?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Unibase price today, UB to USD live price, marketcap and chart - CoinMarketCap",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkRk9SLThmcmxyclViVnJLb05CaTFObHAyUHZTN2hvSndRQUlIV2pGM0J3MkQ3ZnVkZHRybzZHbS1JUEpObEpzOEpwNm5uNjlqMUg2RXo0YUY?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "UB Token Explodes After Unibase Agent Market Launch - TradingView",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnlvVUZLLUppcEJscXN6dXJrYjdmcVRORG9fcHlQeFhHVE4tNTdQcExlV1NXRWxBd0xwS1RaeUpaRjJRWHN5d1QtdGxRUFZVcFhvQldfV2xrTEE1VC11a3RFZ1BXaVR2Q2ZPa25PRHhETWlkMXQ5eEdOSDVwRlVOTnlMb1JhcE5XbUZlOWNnWllEXzNHRFVHREFNNkZaZWx5c0t5VjRhejNqd0h6MGJ3?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "Unibase is the first high-performance decentralized AI memory layer. It equips AI agents with long-term memory and cross-platform interoperability, enabling them to learn, evolve, and collaborate autonomously. Unibase is building the foundation for the Open Agent Internet — a modular, verifiable, and composable AI agen",
-    "reportIntro": "Unibase stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
