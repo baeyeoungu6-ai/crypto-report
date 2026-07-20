@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-19",
+    "slug": "2026-07-19-pump-fun",
+    "coinId": "pump-fun",
+    "coinName": "Pump.fun",
+    "symbol": "PUMP",
+    "title": "Why PUMP Went Up Yesterday",
+    "priceChange24h": 19.6,
+    "volumeLabel": "High",
+    "marketCap": "$787M",
+    "summary": "Pump.fun was one of the strongest crypto movers yesterday, gaining 19.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 19.6% move.",
+      "Roughly $122M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Pump.fun leads crypto gains with a 22.33% surge amid altcoin market shifts. - Pluang",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMU9nLXdHbThGQ2VMNzJwdGVGdklaTlB2T1ZMVHNyNE45ajFodVZJb3AyNGhuVHdOaG8wdUN6TmFRSlJ1bDRkaHd5TnZ2SEV2UnFxOWo4SmcyclNPUWgwMzdaeVZ2T2JVVnE4SncwakUyY2FiQVRuWFZ1Tjd0WjBxOUFiYXQ5Y3BJT3plSDZ6S1REYnNZdHhIczhvbmQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Crypto Market Overview: Bitcoin nears $65,000 as Pi Network and Pump.fun rebound - FXStreet",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUkJGVVFsUlhuQjNGdmprUTdVUHVfMVpaQzB2UTBHdE43aTRreUNrS1l5NnFCZmktX0ktZWR0VFFiWjRQSm5pbEtfaWN4Zzg5azZPVHd2eGZzN1ByVzNmczFQMGxZMUxYN1ZDMWxST3UtZDBmaG1lWEVNWmdFMnZocmFyS2JsU1QzMjVHdXBSWDYzaklHN2VqN3lxRWh3RmZ1alcwVWdsSDgxZmZPSGtvTW5LM2Y2aU9tM1Rod2cwbFJoU1A5YkZGVTRxTkh5dEFobnhV?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Pump.fun unlocks $86M in PUMP as three-year vesting begins - Crypto News",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVNDYkw2TTNKZWtwY2Y4UmdhVEk3WEVzS1ZEM0k4di1lVVRMVTNxc2V1SU95V1FVejcyZXo4dWZHcXJXa0NFVk1oVWdPZGlzcXUweEppVlJKREdpU25sWVYzelZ4eVVsaXBhVjd6bThra3l1Q0tjd1lsUklyYVJxVFlkRTM?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Pump.fun is a crypto asset tracked across major exchanges.",
+    "reportIntro": "Pump.fun stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-18",
     "slug": "2026-07-18-build-on",
     "coinId": "build-on",
@@ -77,46 +117,6 @@
     ],
     "about": "eCash (XEC) is a Layer-1 digital cash network, developed by Bitcoin ABC. It was created on Nov 15th, 2020, and has since distinguished itself from its predecessors and other Bitcoin clients by integrating the breakthrough Avalanche consensus with its core proof-of-work (PoW) layer, extending its security and fundamenta",
     "reportIntro": "eCash stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-16",
-    "slug": "2026-07-16-kaito",
-    "coinId": "kaito",
-    "coinName": "KAITO",
-    "symbol": "KAITO",
-    "title": "Why KAITO Went Up Yesterday",
-    "priceChange24h": 11.6,
-    "volumeLabel": "Strong",
-    "marketCap": "$204M",
-    "summary": "KAITO was one of the strongest crypto movers yesterday, gaining 11.6% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 11.6% move.",
-      "Roughly $49M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "KAITO (KAITO) Price Prediction 2026 2027 2028 - 2040 - Changelly",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9laHZPU1MzMjFLMTdwd08tWHl3bllwclM3aEYzNVRCX2k0MkYtYUJTZnY3QU1JMlVoUW14QUtOUGNsWUxJZzM4YU9xekFkSGY4MDgtSjVJNzZFcFZSZkRQSl8xQ2tfYVE?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "KAITO (KAITO) Price Today: KAITO Live Price, Charts, News - Crypto.com",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWRTI3Vk5uSGRnZHFSd1hPWk8zNVl0MjFjMEJ2WE51bzByVndpN1JGZFd6c3ZVc09LN1NfQ1JaUGNDTldoOXNOXw?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Coinbase perps shake-up hits KAITO, CAKE, VET and more - Crypto News",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nMkJ1VXozM2wxczdHd1RKUlNEUmM2UUVsblpNakZzaGZPN0dBS3Q4VHdlZEdBY25VV2JHSF9faWNSLU9iYmVqX0RJT0ZuQU9VbjdYZERmY1R6b3RiUkFodWN2SUJNSEFoNG9GNV9FajlpWnhER3UyN1o4YTlXUQ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "$KAITO is the native token and the fundamental building block of the AI-powered InfoFi network.",
-    "reportIntro": "KAITO stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]

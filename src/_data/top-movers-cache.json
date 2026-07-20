@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T03:45:00.493Z",
+  "updatedAt": "2026-07-20T03:57:16.465Z",
   "items": [
     {
       "rank": 1,
@@ -7,109 +7,109 @@
       "name": "BUILDon",
       "symbol": "B",
       "image": "https://coin-images.coingecko.com/coins/images/55974/large/T7asvmCb_400x400.jpg?1747902862",
-      "price": "$0.17",
-      "change24h": 50.6,
-      "marketCap": "$171.33M",
-      "volume": "$19.84M"
+      "price": "$0.23",
+      "change24h": 34.1,
+      "marketCap": "$231.66M",
+      "volume": "$49.05M"
     },
     {
       "rank": 2,
-      "id": "allora",
-      "name": "Allora",
-      "symbol": "ALLO",
-      "image": "https://coin-images.coingecko.com/coins/images/70609/large/allo-token.png?1763451165",
-      "price": "$0.45",
-      "change24h": 17.6,
-      "marketCap": "$108.22M",
-      "volume": "$42.79M"
+      "id": "pump-fun",
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "image": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376",
+      "price": "$0.00",
+      "change24h": 19.6,
+      "marketCap": "$786.65M",
+      "volume": "$121.52M"
     },
     {
       "rank": 3,
-      "id": "bitway",
-      "name": "Bitway",
-      "symbol": "BTW",
-      "image": "https://coin-images.coingecko.com/coins/images/71205/large/bitway.png?1766388722",
-      "price": "$0.06",
-      "change24h": 8.1,
-      "marketCap": "$142.32M",
-      "volume": "$10.33M"
+      "id": "origintrail",
+      "name": "OriginTrail",
+      "symbol": "TRAC",
+      "image": "https://coin-images.coingecko.com/coins/images/1877/large/TRAC.jpg?1696502873",
+      "price": "$0.31",
+      "change24h": 18.5,
+      "marketCap": "$139.04M",
+      "volume": "$46.57M"
     },
     {
       "rank": 4,
-      "id": "ecash",
-      "name": "eCash",
-      "symbol": "XEC",
-      "image": "https://coin-images.coingecko.com/coins/images/16646/large/Logo_final-22.png?1696516207",
-      "price": "$0.00",
-      "change24h": 7.1,
-      "marketCap": "$168.36M",
-      "volume": "$99.71M"
-    },
-    {
-      "rank": 5,
-      "id": "neo",
-      "name": "NEO",
-      "symbol": "NEO",
-      "image": "https://coin-images.coingecko.com/coins/images/480/large/NEO_512_512.png?1696501735",
-      "price": "$2.06",
-      "change24h": 5.8,
-      "marketCap": "$144.96M",
-      "volume": "$32.98M"
-    },
-    {
-      "rank": 6,
-      "id": "jasmycoin",
-      "name": "JasmyCoin",
-      "symbol": "JASMY",
-      "image": "https://coin-images.coingecko.com/coins/images/13876/large/JASMY200x200.jpg?1696513620",
-      "price": "$0.00",
-      "change24h": 5.6,
-      "marketCap": "$236.96M",
-      "volume": "$22.40M"
-    },
-    {
-      "rank": 7,
-      "id": "starknet",
-      "name": "Starknet",
-      "symbol": "STRK",
-      "image": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507",
-      "price": "$0.03",
-      "change24h": 5.3,
-      "marketCap": "$196.33M",
-      "volume": "$17.45M"
-    },
-    {
-      "rank": 8,
-      "id": "rain",
-      "name": "Rain",
-      "symbol": "RAIN",
-      "image": "https://coin-images.coingecko.com/coins/images/69134/large/Rain_logo_1_.png?1762952191",
-      "price": "$0.01",
-      "change24h": 4.1,
-      "marketCap": "$9.71B",
-      "volume": "$18.22M"
-    },
-    {
-      "rank": 9,
       "id": "pi-network",
       "name": "Pi Network",
       "symbol": "PI",
       "image": "https://coin-images.coingecko.com/coins/images/54342/large/pi_network.jpg?1739347576",
-      "price": "$0.09",
-      "change24h": 3.7,
-      "marketCap": "$936.22M",
-      "volume": "$12.46M"
+      "price": "$0.10",
+      "change24h": 15,
+      "marketCap": "$1.08B",
+      "volume": "$36.89M"
+    },
+    {
+      "rank": 5,
+      "id": "kaito",
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "image": "https://coin-images.coingecko.com/coins/images/54411/large/Qm4DW488_400x400.jpg?1739552780",
+      "price": "$0.98",
+      "change24h": 15,
+      "marketCap": "$237.72M",
+      "volume": "$60.14M"
+    },
+    {
+      "rank": 6,
+      "id": "adi-token",
+      "name": "ADI",
+      "symbol": "ADI",
+      "image": "https://coin-images.coingecko.com/coins/images/68846/large/ADI_Token-min.png?1765296433",
+      "price": "$7.18",
+      "change24h": 13.5,
+      "marketCap": "$900.48M",
+      "volume": "$11.21M"
+    },
+    {
+      "rank": 7,
+      "id": "jito-governance-token",
+      "name": "Jito",
+      "symbol": "JTO",
+      "image": "https://coin-images.coingecko.com/coins/images/33228/large/jto.png?1701137022",
+      "price": "$0.60",
+      "change24h": 10,
+      "marketCap": "$300.00M",
+      "volume": "$36.69M"
+    },
+    {
+      "rank": 8,
+      "id": "havven",
+      "name": "Synthetix",
+      "symbol": "SNX",
+      "image": "https://coin-images.coingecko.com/coins/images/3406/large/SNX.png?1696504103",
+      "price": "$0.24",
+      "change24h": 5.5,
+      "marketCap": "$136.66M",
+      "volume": "$14.18M"
+    },
+    {
+      "rank": 9,
+      "id": "pepe",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "image": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
+      "price": "$0.00",
+      "change24h": 5,
+      "marketCap": "$1.21B",
+      "volume": "$190.03M"
     },
     {
       "rank": 10,
-      "id": "litecoin",
-      "name": "Litecoin",
-      "symbol": "LTC",
-      "image": "https://coin-images.coingecko.com/coins/images/2/large/litecoin.png?1696501400",
-      "price": "$46.91",
-      "change24h": 3.2,
-      "marketCap": "$3.63B",
-      "volume": "$282.14M"
+      "id": "bitcoin-cash-sv",
+      "name": "Bitcoin SV",
+      "symbol": "BSV",
+      "image": "https://coin-images.coingecko.com/coins/images/6799/large/BSV.png?1696507128",
+      "price": "$14.04",
+      "change24h": 4.3,
+      "marketCap": "$281.66M",
+      "volume": "$10.50M"
     }
   ]
 }
