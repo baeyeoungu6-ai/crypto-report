@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-20",
+    "slug": "2026-07-20-bonk",
+    "coinId": "bonk",
+    "coinName": "Bonk",
+    "symbol": "BONK",
+    "title": "Why BONK Went Up Yesterday",
+    "priceChange24h": 14,
+    "volumeLabel": "High",
+    "marketCap": "$281M",
+    "summary": "Bonk was one of the strongest crypto movers yesterday, gaining 14.0% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 14.0% move.",
+      "Roughly $115M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Price of Bonk (BONK) today in EUR – Quote and market trends - Bit2Me",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBSdHVmT2tZM29KcmNVcHV0d2xUeHVnSy1BcWpCV0lJX0VIU3hQa2U5ajNFd3hHU3FxbUNkZXgtZVMwZlJmNVUw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Dogecoin Has a Chance, but Shiba Inu, Bonk Labeled 'Worthless' - Analyst Predicts No New Peaks - Benzinga",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTjdBQzBZd2cyOHBKQk45a0dJREJibFlsUUo2LXhIcnAyWXA0bm82UTFCTlJpTmd6TXBVc0hYc2R2WE9XTjhRODc1RVlMTm5MUUwxazdkVEhwNjFjdVBCNHlUZWNCcWU3TlpIZ0VmLUltM0hyUmtWcTQzb25zNFdSZW13MlE0VG92R0x3dkNIbWxKTTZ0UmFjTEE5dXZLZTJQaGJXblliRDNEVUZJdEhNTEVnWThFUldTZzVyXy1sRWFrZWMxS0tTOFMtX0pCVUxJVWVyY01PZHdjYV8wemdyYWlZcFM?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "BONK Recovers After Sell-Off While PEPE Tests Key Resistance—Here’s What’s Next for These Popular Memecoins - Coinpedia",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQamM4dGRxbjJVbWhQZnNldU4zbXcwSGd6Q3ZxbVZEY3JqeWFkbHpKVGhKaTRoQ1BEMjZ4MGpnd3dpM2VDbHBrUGt2Z2h5Z0VNRUM3TVhhbTNzMmlxcTdzZEdCUS1hT2tMSXd1NVdpZUE5ZFBmclF4cmZneXhCRHpmWEhEeHRSUmhMRXIxTnQ4S21WdE9WdUJRckFUaVJfd2dJbVlsUDZJMGhiZ1ZxYzN6dDRTTmZLeE9PUHp4MGpfMWdQWVVWSHJkclRocHU1ZnIzTUFkOThOcG11SmPSAeABQVVfeXFMUFc0U0tCTEZQaEw1aF83ay03aWJ5ejNuSUF1cTRzaEdTNW9rZ2xtZGVXb2ZGWlMwdnJ2V3lVVUs0bVlfUkxrYldJRTFhVmdIRlNnRmJpMnBiUDRIX3loTG5LRUtXNjFVRlkzVkp2S3BtdEUzaFduVjZTRUlvZlZEZ2JLUmVKc2VyUS1KQzRsNXU3Q2MyZmR4WHMyTGNxQXMzSGNSUEhGWEotd1R0aXpaLS03ejdfb2ltLWRaZ2NNa2lhUnl4QkxvVEdwU3JOUEVxQ2czTkdiQ2Y3dW5wSFhPaHM?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Bonk is a dog-themed memecoin on the Solana blockchain, launched on Christmas Day 2022 to revitalize the Solana community following the FTX collapse. Created by an anonymous team of 22 Solana developers and builders, Bonk distributed 50% of its total 100 trillion token supply via airdrop to community members including ",
+    "reportIntro": "Bonk stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-19",
     "slug": "2026-07-19-pump-fun",
     "coinId": "pump-fun",
@@ -77,46 +117,6 @@
     ],
     "about": "BUILDon is a crypto asset tracked across major exchanges.",
     "reportIntro": "BUILDon stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-17",
-    "slug": "2026-07-17-ecash",
-    "coinId": "ecash",
-    "coinName": "eCash",
-    "symbol": "XEC",
-    "title": "Why XEC Went Up Yesterday",
-    "priceChange24h": 17.1,
-    "volumeLabel": "Strong",
-    "marketCap": "$156M",
-    "summary": "eCash was one of the strongest crypto movers yesterday, gaining 17.1% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 17.1% move.",
-      "Roughly $76M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "eCash (XEC) Price Prediction 2026, 2027-2030 and Beyond - CoinDCX",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DRHBRSDJoclpXbnFNZ2hBWk5pSF94d1JzSW1IWmhIZlVndzk3YnI5V2pybWNlellRM3hsSHV0VS1qRzlpaWh4UE1tM0ozTjNDeUdqWVA3eG9QTDJ0STJtS0t5amtGZkgtOVBLV21kNEhLSWw1MXhtVE9n?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "eCash (XEC) Price Crashes 98%, Risks New Record Low — What’s Driving the Collapse? - CCN.com",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2dMSFJGTWlpY3hDTldTbXhYQmRYWjZGV3p3dnNWOF9iLWN1dFRBS2NSdEFCVGNva1dtSXJiM3ZYa3ZzbkJLaFhTRWlBWFcxZ0xKOFhVQURseDZEY2tiOV9HNFhzeXlxclZBSW1uVE1xeUdUeHIzSUVpOHBNSEZDbW10WUJnelF4MXZrNFVGUkhQdHh3d0ZDOU9n?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "ECash Released Bitcoin ABC v.0.33.7 on July 1st - TradingView",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmpRcDAyTEphR01HME8wa3QxMXY2c2VVSE5LdXdYQ3BQX2FIYkloUmdpWngydUpweVVqaE84YlBWa3V5UU5zSTdKWnNHeXNpOHRXZ0U2U0JlZzdWTGZNa1laNTRJbjZyMGROcnRDS0ZzSmRLNTlIcDdlV21vYmZFRC0xWUV2a1c4YlB1VmZEVGxzTXpiNGdWSl9VbzZXSkZjUXM0S19HMGQ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "eCash (XEC) is a Layer-1 digital cash network, developed by Bitcoin ABC. It was created on Nov 15th, 2020, and has since distinguished itself from its predecessors and other Bitcoin clients by integrating the breakthrough Avalanche consensus with its core proof-of-work (PoW) layer, extending its security and fundamenta",
-    "reportIntro": "eCash stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
