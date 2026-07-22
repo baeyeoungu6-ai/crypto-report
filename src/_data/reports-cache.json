@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-21",
+    "slug": "2026-07-21-midnight-3",
+    "coinId": "midnight-3",
+    "coinName": "Midnight",
+    "symbol": "NIGHT",
+    "title": "Why NIGHT Went Up Yesterday",
+    "priceChange24h": 35,
+    "volumeLabel": "Strong",
+    "marketCap": "$402M",
+    "summary": "Midnight was one of the strongest crypto movers yesterday, gaining 35.0% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 35.0% move.",
+      "Roughly $96M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Wanchain Bridge Breach Sends Midnight Token to All-Time Low - BeInCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5THFQYXZlR2ZWVEg3UURLaTlJZC1wUWxFN0NoUWNxMWdSZkpBVkNrX2pLbnFaOXQ2ZXNSRHVMRzVIWGoxSndkYUQ5OFpwV1NIWnZmSU1QZk95T01HS2o4bE93VlJsQVUwdGJtNDZlSQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Wanchain Bridge Breach Sends Midnight Token to All-Time Low - CryptoRank",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGwwTmdFQkdpVk5vczJEdjlLS0Z3cHdkMWdjbDBKZ2h6TjBVY0ZTU05aOHFUVnpYcDBrVkJabXlTMGdmRDFxTWdNWmw2eVZFNlJqYzNNTmUtN3BOdUlkbUF2aFJWN3BuXy1mLUllazBGWVM1TFlUYmgzNWl1eGxiNDFB?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Midnight’s 515M NIGHT hack sends token down 32% – Will $0.015 hold? - AMBCrypto",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkVIT09xdFExV3pXZ29zeXpXTWpQeENjbHZONEotcldxVDhpeEp3YmlzVnVVTnhwRHhwN0pXenhsaVV6ZTloUXpVelZYREN6SnlBbUdLQkVDRXV3TGhTWG1BaWVBRUY3UEJlTlFhZDJRSnYzekdMZDhRZnRjVjAwbkh4cld4YTZra3hmRdIBkgFBVV95cUxNSDBVSDNmazM1RlEtcFpFUWFBVU53akZDcEQxMklpcm0xLVp6ZVloeVZObkNiVHVEYmdPbURsUmFXTll6Zk1DUVhiSE51bGNERTQ0dkNsUjlDOU1nVU5BWV9vQlhRUDg3dWpmcnRFdVRublVNVzcwcGQ0bzAtTHJQTjAxbXJTV0RPbmhlR0IzM0RvUQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Midnight is a privacy-first blockchain that blends public verifiability with confidential data handling. You can use Midnight's selective disclosure and ZK proofs to build apps.",
+    "reportIntro": "Midnight stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-20",
     "slug": "2026-07-20-bonk",
     "coinId": "bonk",
@@ -77,46 +117,6 @@
     ],
     "about": "Pump.fun is a crypto asset tracked across major exchanges.",
     "reportIntro": "Pump.fun stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-18",
-    "slug": "2026-07-18-build-on",
-    "coinId": "build-on",
-    "coinName": "BUILDon",
-    "symbol": "B",
-    "title": "Why B Went Up Yesterday",
-    "priceChange24h": 50.6,
-    "volumeLabel": "Elevated",
-    "marketCap": "$171M",
-    "summary": "BUILDon was one of the strongest crypto movers yesterday, gaining 50.6% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 50.6% move.",
-      "Roughly $20M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "BUILDon (B) Explodes 55% in 24 Hours, Is $0.74 the Next Stop? - BeInCrypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMW1VbU9fNW4wZXRiOXpWdG1zU2V6TTc3dW53emZSeGtJb1FqcWx0LWRpOWYtblhyT3FiZVFsV1pUaklVSmN2Wm5INUtPRDQxUklDenpMMENqOTlJNEtrQWxRTU1PNzBNeXJjWDh4Uy1KVVFMeEVmTlg0QU9UQlN5UU5KTTdvZw?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "BUILDon: Can B hold 12% price gains while facing THIS hurdle - AMBCrypto",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjViaFJHR1dWT1RYU0lOQkxvWmhPblZXMlExbEVvdVVVcXJyZDdNUF9Pam43dmVvOEFnNTRNZlFVdG1PVnM5NGN5bUJTNERQN2hZRnNiWVRYQ2JlekZLOVhBeERJc2Z4eFpZTzhETUtDRmtWVDMtbkRJbUFNVk80NmtqM0E3akh10gGOAUFVX3lxTFA4R0dmeVBiN2N6Q1k0U1ZRVk53VWZxUnZGc0pIUFI3WEhQdVlZOGFLNjNzaTYzcTlVbi0yZ0hHdHFhYUp3SUtldEJvNm5RTmdNbjNaMlM3bEVRYm5USllCVVlVWHhNZGFiM3ZsYlVGbXZMZTRFTWNKQkJBOWJhUkdKWWVyWUFLTV9kbVUyWXc?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "BUILDon (B) Surges 28.92% on Bitcoin Rally and Meme Momentum - CoinMarketCap",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdmxmeVhodmhETjZ4WTI2Mks2bndwUE5MbVk4ODhzMzVjOG9OdzVKakFuQ0syRnhHb2IyZXlMTnhIMXRNdW9XeWdfQkdTVkZWSWxhUzVMNG5CaE91QzFUS1pScnpJVmJyWkRHdm1Yb2M?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "BUILDon is a crypto asset tracked across major exchanges.",
-    "reportIntro": "BUILDon stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
