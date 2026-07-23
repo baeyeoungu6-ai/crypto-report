@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-22T03:36:59.098Z",
+  "updatedAt": "2026-07-23T03:38:08.515Z",
   "items": [
     {
       "rank": 1,
-      "id": "midnight-3",
-      "name": "Midnight",
-      "symbol": "NIGHT",
-      "image": "https://coin-images.coingecko.com/coins/images/71015/large/midnight.png?1765193080",
-      "price": "$0.02",
-      "change24h": 35,
-      "marketCap": "$401.89M",
-      "volume": "$96.15M"
+      "id": "zama",
+      "name": "Zama",
+      "symbol": "ZAMA",
+      "image": "https://coin-images.coingecko.com/coins/images/70921/large/zama.png?1764591992",
+      "price": "$0.05",
+      "change24h": 27.7,
+      "marketCap": "$110.09M",
+      "volume": "$59.48M"
     },
     {
       "rank": 2,
-      "id": "talus",
-      "name": "Talus",
-      "symbol": "US",
-      "image": "https://coin-images.coingecko.com/coins/images/70693/large/us-icon.png?1763129786",
-      "price": "$0.04",
-      "change24h": 14.1,
-      "marketCap": "$125.76M",
-      "volume": "$13.73M"
-    },
-    {
-      "rank": 3,
-      "id": "rain",
-      "name": "Rain",
-      "symbol": "RAIN",
-      "image": "https://coin-images.coingecko.com/coins/images/69134/large/Rain_logo_1_.png?1762952191",
-      "price": "$0.02",
-      "change24h": 11.1,
-      "marketCap": "$10.89B",
-      "volume": "$23.57M"
-    },
-    {
-      "rank": 4,
-      "id": "ondo-finance",
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "image": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
-      "price": "$0.40",
-      "change24h": 9.4,
-      "marketCap": "$1.94B",
-      "volume": "$224.23M"
-    },
-    {
-      "rank": 5,
-      "id": "genius-3",
-      "name": "Genius",
-      "symbol": "GENIUS",
-      "image": "https://coin-images.coingecko.com/coins/images/71660/large/genius.png?1768804210",
-      "price": "$0.36",
-      "change24h": 9.4,
-      "marketCap": "$119.12M",
-      "volume": "$19.45M"
-    },
-    {
-      "rank": 6,
-      "id": "the-open-network",
-      "name": "Gram (prev. Toncoin)",
-      "symbol": "GRAM",
-      "image": "https://coin-images.coingecko.com/coins/images/17980/large/Gram_Circular_Badge.png?1781524778",
-      "price": "$1.57",
-      "change24h": 8.7,
-      "marketCap": "$4.29B",
-      "volume": "$72.84M"
-    },
-    {
-      "rank": 7,
-      "id": "1inch",
-      "name": "1INCH",
-      "symbol": "1INCH",
-      "image": "https://coin-images.coingecko.com/coins/images/13469/large/1inch-logo.jpeg?1759404663",
-      "price": "$0.08",
-      "change24h": 8.2,
-      "marketCap": "$115.00M",
-      "volume": "$22.75M"
-    },
-    {
-      "rank": 8,
       "id": "unibase",
       "name": "Unibase",
       "symbol": "UB",
       "image": "https://coin-images.coingecko.com/coins/images/69108/large/unibase.png?1757501820",
-      "price": "$0.11",
-      "change24h": 7.9,
-      "marketCap": "$264.44M",
-      "volume": "$14.47M"
+      "price": "$0.12",
+      "change24h": 8.9,
+      "marketCap": "$287.77M",
+      "volume": "$15.64M"
+    },
+    {
+      "rank": 3,
+      "id": "kite-2",
+      "name": "Kite",
+      "symbol": "KITE",
+      "image": "https://coin-images.coingecko.com/coins/images/70426/large/KITE-ICON.png?1762328605",
+      "price": "$0.13",
+      "change24h": 8.5,
+      "marketCap": "$303.04M",
+      "volume": "$159.28M"
+    },
+    {
+      "rank": 4,
+      "id": "audiera",
+      "name": "Audiera",
+      "symbol": "BEAT",
+      "image": "https://coin-images.coingecko.com/coins/images/70428/large/audiera.png?1761964064",
+      "price": "$2.64",
+      "change24h": 6.6,
+      "marketCap": "$819.29M",
+      "volume": "$10.23M"
+    },
+    {
+      "rank": 5,
+      "id": "talus",
+      "name": "Talus",
+      "symbol": "US",
+      "image": "https://coin-images.coingecko.com/coins/images/70693/large/us-icon.png?1763129786",
+      "price": "$0.05",
+      "change24h": 5.6,
+      "marketCap": "$133.67M",
+      "volume": "$10.17M"
+    },
+    {
+      "rank": 6,
+      "id": "ethena",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "image": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436",
+      "price": "$0.09",
+      "change24h": 4.9,
+      "marketCap": "$869.92M",
+      "volume": "$142.24M"
+    },
+    {
+      "rank": 7,
+      "id": "uniswap",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "image": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
+      "price": "$3.80",
+      "change24h": 3.4,
+      "marketCap": "$2.37B",
+      "volume": "$168.09M"
+    },
+    {
+      "rank": 8,
+      "id": "stable-2",
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "image": "https://coin-images.coingecko.com/coins/images/69242/large/stable-logotype-framed-square-light.png?1762753913",
+      "price": "$0.04",
+      "change24h": 3.3,
+      "marketCap": "$922.44M",
+      "volume": "$12.15M"
     },
     {
       "rank": 9,
-      "id": "venice-token",
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "image": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
-      "price": "$12.59",
-      "change24h": 6.2,
-      "marketCap": "$597.19M",
-      "volume": "$39.08M"
+      "id": "hedera-hashgraph",
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "image": "https://coin-images.coingecko.com/coins/images/3688/large/hbar.png?1696504364",
+      "price": "$0.07",
+      "change24h": 3.2,
+      "marketCap": "$3.17B",
+      "volume": "$87.47M"
     },
     {
       "rank": 10,
-      "id": "ecash",
-      "name": "eCash",
-      "symbol": "XEC",
-      "image": "https://coin-images.coingecko.com/coins/images/16646/large/Logo_final-22.png?1696516207",
-      "price": "$0.00",
-      "change24h": 5.5,
-      "marketCap": "$158.19M",
-      "volume": "$23.34M"
+      "id": "allora",
+      "name": "Allora",
+      "symbol": "ALLO",
+      "image": "https://coin-images.coingecko.com/coins/images/70609/large/allo-token.png?1763451165",
+      "price": "$0.50",
+      "change24h": 3.1,
+      "marketCap": "$120.17M",
+      "volume": "$16.81M"
     }
   ]
 }

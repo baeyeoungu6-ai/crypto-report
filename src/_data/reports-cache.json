@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-22",
+    "slug": "2026-07-22-zama",
+    "coinId": "zama",
+    "coinName": "Zama",
+    "symbol": "ZAMA",
+    "title": "Why ZAMA Went Up Yesterday",
+    "priceChange24h": 27.7,
+    "volumeLabel": "Strong",
+    "marketCap": "$110M",
+    "summary": "Zama was one of the strongest crypto movers yesterday, gaining 27.7% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 27.7% move.",
+      "Roughly $59M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Zama Price Today | Live ZAMA Price, Chart &amp; Market Data - Binance",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lZkQ1YTBPaWFyYUhsM2pINE1PakN4YnFmdlJXd0JKd1JVN0lVT0FGSkFNMmRPR0Q2ZUN2MVJZbXZxWEdlT1ZDVlRzSHY4QQ?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Zama and Elliptic Partner to Define Compliant Confidential Finance By Chainwire - Investing.com",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2lhakVvSXZYaVJXNzV2Q3phYzdEMllBS2lWOUdGTVRCemdNZkdlRzRBVThkVVRyUEF5WXRBOHVodnFqcHFqRm5udG5IcDFxNDJ0bzRoTU9mMUFDT2dIdnc5QWNOU2ZUWHRvelpWZkJOQ1RoS3dvbXJBNVNkdmpMS1luanFaaGJmYlFabTVVODVhUHdhUG9Ra0dsSDRqSlFub1pjeTlaQ2pKNnRYbTJma29KNEo0UElYNE1rNWgyM0dwLXBl?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Zama price today, ZAMA to USD live price, marketcap and chart - CoinMarketCap",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hUTVLMkRDLWd0OHlIUEUwaDFlc1RXdkdualF0ZTl5cWliYUM4RnlRQXFQUVVVQmhJdTdNVkJ3eEJsWVFUQjRwdkFLb3hsaEw1RFVqMg?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Zama is an open source cryptography company that builds state-of-the-art Fully Homomorphic Encryption (FHE) solutions for blockchain.",
+    "reportIntro": "Zama stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-21",
     "slug": "2026-07-21-midnight-3",
     "coinId": "midnight-3",
@@ -77,46 +117,6 @@
     ],
     "about": "Bonk is a dog-themed memecoin on the Solana blockchain, launched on Christmas Day 2022 to revitalize the Solana community following the FTX collapse. Created by an anonymous team of 22 Solana developers and builders, Bonk distributed 50% of its total 100 trillion token supply via airdrop to community members including ",
     "reportIntro": "Bonk stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-19",
-    "slug": "2026-07-19-pump-fun",
-    "coinId": "pump-fun",
-    "coinName": "Pump.fun",
-    "symbol": "PUMP",
-    "title": "Why PUMP Went Up Yesterday",
-    "priceChange24h": 19.6,
-    "volumeLabel": "High",
-    "marketCap": "$787M",
-    "summary": "Pump.fun was one of the strongest crypto movers yesterday, gaining 19.6% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 19.6% move.",
-      "Roughly $122M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Pump.fun leads crypto gains with a 22.33% surge amid altcoin market shifts. - Pluang",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMU9nLXdHbThGQ2VMNzJwdGVGdklaTlB2T1ZMVHNyNE45ajFodVZJb3AyNGhuVHdOaG8wdUN6TmFRSlJ1bDRkaHd5TnZ2SEV2UnFxOWo4SmcyclNPUWgwMzdaeVZ2T2JVVnE4SncwakUyY2FiQVRuWFZ1Tjd0WjBxOUFiYXQ5Y3BJT3plSDZ6S1REYnNZdHhIczhvbmQ?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Crypto Market Overview: Bitcoin nears $65,000 as Pi Network and Pump.fun rebound - FXStreet",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUkJGVVFsUlhuQjNGdmprUTdVUHVfMVpaQzB2UTBHdE43aTRreUNrS1l5NnFCZmktX0ktZWR0VFFiWjRQSm5pbEtfaWN4Zzg5azZPVHd2eGZzN1ByVzNmczFQMGxZMUxYN1ZDMWxST3UtZDBmaG1lWEVNWmdFMnZocmFyS2JsU1QzMjVHdXBSWDYzaklHN2VqN3lxRWh3RmZ1alcwVWdsSDgxZmZPSGtvTW5LM2Y2aU9tM1Rod2cwbFJoU1A5YkZGVTRxTkh5dEFobnhV?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Pump.fun unlocks $86M in PUMP as three-year vesting begins - Crypto News",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVNDYkw2TTNKZWtwY2Y4UmdhVEk3WEVzS1ZEM0k4di1lVVRMVTNxc2V1SU95V1FVejcyZXo4dWZHcXJXa0NFVk1oVWdPZGlzcXUweEppVlJKREdpU25sWVYzelZ4eVVsaXBhVjd6bThra3l1Q0tjd1lsUklyYVJxVFlkRTM?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "Pump.fun is a crypto asset tracked across major exchanges.",
-    "reportIntro": "Pump.fun stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
