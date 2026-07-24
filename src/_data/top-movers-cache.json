@@ -1,115 +1,115 @@
 {
-  "updatedAt": "2026-07-23T03:38:08.515Z",
+  "updatedAt": "2026-07-24T03:36:09.940Z",
   "items": [
     {
       "rank": 1,
-      "id": "zama",
-      "name": "Zama",
-      "symbol": "ZAMA",
-      "image": "https://coin-images.coingecko.com/coins/images/70921/large/zama.png?1764591992",
-      "price": "$0.05",
-      "change24h": 27.7,
-      "marketCap": "$110.09M",
-      "volume": "$59.48M"
+      "id": "world-liberty-financial",
+      "name": "World Liberty Financial",
+      "symbol": "WLFI",
+      "image": "https://coin-images.coingecko.com/coins/images/50767/large/wlfi.png?1756438915",
+      "price": "$0.06",
+      "change24h": 9.1,
+      "marketCap": "$1.82B",
+      "volume": "$159.23M"
     },
     {
       "rank": 2,
+      "id": "bianrensheng",
+      "name": "币安人生 (BinanceLife)",
+      "symbol": "币安人生",
+      "image": "https://coin-images.coingecko.com/coins/images/69848/large/%E5%B8%81%E5%AE%89%E4%BA%BA%E7%94%9F.png?1759839225",
+      "price": "$0.67",
+      "change24h": 8.9,
+      "marketCap": "$670.41M",
+      "volume": "$35.75M"
+    },
+    {
+      "rank": 3,
       "id": "unibase",
       "name": "Unibase",
       "symbol": "UB",
       "image": "https://coin-images.coingecko.com/coins/images/69108/large/unibase.png?1757501820",
       "price": "$0.12",
-      "change24h": 8.9,
-      "marketCap": "$287.77M",
-      "volume": "$15.64M"
-    },
-    {
-      "rank": 3,
-      "id": "kite-2",
-      "name": "Kite",
-      "symbol": "KITE",
-      "image": "https://coin-images.coingecko.com/coins/images/70426/large/KITE-ICON.png?1762328605",
-      "price": "$0.13",
-      "change24h": 8.5,
-      "marketCap": "$303.04M",
-      "volume": "$159.28M"
+      "change24h": 8.7,
+      "marketCap": "$308.89M",
+      "volume": "$17.65M"
     },
     {
       "rank": 4,
-      "id": "audiera",
-      "name": "Audiera",
-      "symbol": "BEAT",
-      "image": "https://coin-images.coingecko.com/coins/images/70428/large/audiera.png?1761964064",
-      "price": "$2.64",
-      "change24h": 6.6,
-      "marketCap": "$819.29M",
-      "volume": "$10.23M"
+      "id": "tezos",
+      "name": "Tezos",
+      "symbol": "XTZ",
+      "image": "https://coin-images.coingecko.com/coins/images/976/large/Tezos-logo.png?1696502091",
+      "price": "$0.24",
+      "change24h": 4.1,
+      "marketCap": "$256.75M",
+      "volume": "$11.91M"
     },
     {
       "rank": 5,
-      "id": "talus",
-      "name": "Talus",
-      "symbol": "US",
-      "image": "https://coin-images.coingecko.com/coins/images/70693/large/us-icon.png?1763129786",
-      "price": "$0.05",
-      "change24h": 5.6,
-      "marketCap": "$133.67M",
-      "volume": "$10.17M"
+      "id": "injective-protocol",
+      "name": "Injective",
+      "symbol": "INJ",
+      "image": "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
+      "price": "$5.39",
+      "change24h": 3.9,
+      "marketCap": "$539.33M",
+      "volume": "$74.13M"
     },
     {
       "rank": 6,
-      "id": "ethena",
-      "name": "Ethena",
-      "symbol": "ENA",
-      "image": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436",
-      "price": "$0.09",
-      "change24h": 4.9,
-      "marketCap": "$869.92M",
-      "volume": "$142.24M"
-    },
-    {
-      "rank": 7,
-      "id": "uniswap",
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "image": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
-      "price": "$3.80",
-      "change24h": 3.4,
-      "marketCap": "$2.37B",
-      "volume": "$168.09M"
-    },
-    {
-      "rank": 8,
-      "id": "stable-2",
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "image": "https://coin-images.coingecko.com/coins/images/69242/large/stable-logotype-framed-square-light.png?1762753913",
-      "price": "$0.04",
-      "change24h": 3.3,
-      "marketCap": "$922.44M",
-      "volume": "$12.15M"
-    },
-    {
-      "rank": 9,
-      "id": "hedera-hashgraph",
-      "name": "Hedera",
-      "symbol": "HBAR",
-      "image": "https://coin-images.coingecko.com/coins/images/3688/large/hbar.png?1696504364",
-      "price": "$0.07",
-      "change24h": 3.2,
-      "marketCap": "$3.17B",
-      "volume": "$87.47M"
-    },
-    {
-      "rank": 10,
       "id": "allora",
       "name": "Allora",
       "symbol": "ALLO",
       "image": "https://coin-images.coingecko.com/coins/images/70609/large/allo-token.png?1763451165",
-      "price": "$0.50",
+      "price": "$0.54",
+      "change24h": 3.7,
+      "marketCap": "$130.26M",
+      "volume": "$18.34M"
+    },
+    {
+      "rank": 7,
+      "id": "1inch",
+      "name": "1INCH",
+      "symbol": "1INCH",
+      "image": "https://coin-images.coingecko.com/coins/images/13469/large/1inch-logo.jpeg?1759404663",
+      "price": "$0.09",
+      "change24h": 3.4,
+      "marketCap": "$119.59M",
+      "volume": "$13.10M"
+    },
+    {
+      "rank": 8,
+      "id": "figure-heloc",
+      "name": "Figure Heloc",
+      "symbol": "FIGR_HELOC",
+      "image": "https://coin-images.coingecko.com/coins/images/68480/large/figure.png?1755863954",
+      "price": "$1.04",
       "change24h": 3.1,
-      "marketCap": "$120.17M",
-      "volume": "$16.81M"
+      "marketCap": "$21.24B",
+      "volume": "$170.90M"
+    },
+    {
+      "rank": 9,
+      "id": "kaito",
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "image": "https://coin-images.coingecko.com/coins/images/54411/large/Qm4DW488_400x400.jpg?1739552780",
+      "price": "$1.02",
+      "change24h": 2.7,
+      "marketCap": "$247.08M",
+      "volume": "$73.61M"
+    },
+    {
+      "rank": 10,
+      "id": "antfun",
+      "name": "AntFun",
+      "symbol": "ANTFUN",
+      "image": "https://coin-images.coingecko.com/coins/images/102174619/large/antfun_logo_200x200_transparent.png?1784200901",
+      "price": "$0.04",
+      "change24h": 2.6,
+      "marketCap": "$276.56M",
+      "volume": "$10.37M"
     }
   ]
 }

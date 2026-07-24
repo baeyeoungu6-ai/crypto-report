@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-07-23",
+    "slug": "2026-07-23-audiera",
+    "coinId": "audiera",
+    "coinName": "Audiera",
+    "symbol": "BEAT",
+    "title": "Why BEAT Went Up Yesterday",
+    "priceChange24h": 19.6,
+    "volumeLabel": "Elevated",
+    "marketCap": "$966M",
+    "summary": "Audiera was one of the strongest crypto movers yesterday, gaining 19.6% over 24 hours while attracting active market participation.",
+    "reasons": [
+      "The token ranked among the strongest 24-hour gainers with a 19.6% move.",
+      "Roughly $8M in 24-hour trading volume suggests active short-term participation.",
+      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
+    ],
+    "news": [
+      {
+        "title": "Audiera Price Prediction 2026-2030: BEAT Forecast &amp; Outlook - CoinDCX",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oYVk4RVVtQzZQR3BpVEp3UGdRMXA0cDRWMXVYa1Q2N3BmcjkzMm82V2FkR3JxZFlHNkctNDF5ekNVZ2d2N0hUWEJjS2JCWEVBd1g2dVk0bVVxdVk1UDFqWlByTUpxbEk3Rk5JSnItc0kxc0RRcVIw?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Audiera (BEAT) Surges 8.02% Amid Speculative Trading Frenzy - CoinMarketCap",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDck9kMTBSRFBtRXBoSllNc0F3TFJGT3dpSXY0Z0h4a1lTTVRpNC1ZOHVES3lNRlc5aVRMSGNjYjJ1OXRDdzd4ZkJwa0ZDR2FhZjQ2dlZCc1VrQndKUzRPd3ZrMWdKbDY1bEJ3Y1VEUS0?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      },
+      {
+        "title": "Audiera (BEAT) Price Prediction 2026: Will This AI Crypto Explode Or Collapse? - Bitcoin Foundation",
+        "source": "Google News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNODV6Wmg1Njh4YUNkVDkwVDNpYmZWa2JPUmNGb2o2SUYwOFlrOFpHbC1BV1hxbDVwcmRvUTdCbjFzbDJ6V2hLemJhc2FBN0dQbFJLYi1seUNfbmlBMG1oaWhraW12WVRLM05BTGwtWWF1QzJuQzVUREhwWTRrT1Jfa1RobzI2bFpkdklobS1PVWhVdDlwN0NCNVhCZ2dXcVhwVVloNHFlVEo0MFRvSGNEVnJMU2U0eGhDMDNr?oc=5",
+        "note": "Latest related coverage surfaced from Google News search."
+      }
+    ],
+    "about": "Audiera (BEAT) pioneers the agent-native participation economy, where humans and autonomous AI agents act as equal economic participants. For the first time, Audiera introduces structured agent roles and participation rules — enabling agents to perform tasks, interact with users, create music, compete in rhythm battles",
+    "reportIntro": "Audiera stood out as one of yesterday's strongest movers, supported by recent market momentum.",
+    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
+  },
+  {
     "date": "2026-07-22",
     "slug": "2026-07-22-zama",
     "coinId": "zama",
@@ -77,46 +117,6 @@
     ],
     "about": "Midnight is a privacy-first blockchain that blends public verifiability with confidential data handling. You can use Midnight's selective disclosure and ZK proofs to build apps.",
     "reportIntro": "Midnight stood out as one of yesterday's strongest movers, supported by recent market momentum.",
-    "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
-  },
-  {
-    "date": "2026-07-20",
-    "slug": "2026-07-20-bonk",
-    "coinId": "bonk",
-    "coinName": "Bonk",
-    "symbol": "BONK",
-    "title": "Why BONK Went Up Yesterday",
-    "priceChange24h": 14,
-    "volumeLabel": "High",
-    "marketCap": "$281M",
-    "summary": "Bonk was one of the strongest crypto movers yesterday, gaining 14.0% over 24 hours while attracting active market participation.",
-    "reasons": [
-      "The token ranked among the strongest 24-hour gainers with a 14.0% move.",
-      "Roughly $115M in 24-hour trading volume suggests active short-term participation.",
-      "The move may reflect renewed momentum interest as traders rotated into recent outperformers."
-    ],
-    "news": [
-      {
-        "title": "Price of Bonk (BONK) today in EUR – Quote and market trends - Bit2Me",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBSdHVmT2tZM29KcmNVcHV0d2xUeHVnSy1BcWpCV0lJX0VIU3hQa2U5ajNFd3hHU3FxbUNkZXgtZVMwZlJmNVUw?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "Dogecoin Has a Chance, but Shiba Inu, Bonk Labeled 'Worthless' - Analyst Predicts No New Peaks - Benzinga",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTjdBQzBZd2cyOHBKQk45a0dJREJibFlsUUo2LXhIcnAyWXA0bm82UTFCTlJpTmd6TXBVc0hYc2R2WE9XTjhRODc1RVlMTm5MUUwxazdkVEhwNjFjdVBCNHlUZWNCcWU3TlpIZ0VmLUltM0hyUmtWcTQzb25zNFdSZW13MlE0VG92R0x3dkNIbWxKTTZ0UmFjTEE5dXZLZTJQaGJXblliRDNEVUZJdEhNTEVnWThFUldTZzVyXy1sRWFrZWMxS0tTOFMtX0pCVUxJVWVyY01PZHdjYV8wemdyYWlZcFM?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      },
-      {
-        "title": "BONK Recovers After Sell-Off While PEPE Tests Key Resistance—Here’s What’s Next for These Popular Memecoins - Coinpedia",
-        "source": "Google News",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQamM4dGRxbjJVbWhQZnNldU4zbXcwSGd6Q3ZxbVZEY3JqeWFkbHpKVGhKaTRoQ1BEMjZ4MGpnd3dpM2VDbHBrUGt2Z2h5Z0VNRUM3TVhhbTNzMmlxcTdzZEdCUS1hT2tMSXd1NVdpZUE5ZFBmclF4cmZneXhCRHpmWEhEeHRSUmhMRXIxTnQ4S21WdE9WdUJRckFUaVJfd2dJbVlsUDZJMGhiZ1ZxYzN6dDRTTmZLeE9PUHp4MGpfMWdQWVVWSHJkclRocHU1ZnIzTUFkOThOcG11SmPSAeABQVVfeXFMUFc0U0tCTEZQaEw1aF83ay03aWJ5ejNuSUF1cTRzaEdTNW9rZ2xtZGVXb2ZGWlMwdnJ2V3lVVUs0bVlfUkxrYldJRTFhVmdIRlNnRmJpMnBiUDRIX3loTG5LRUtXNjFVRlkzVkp2S3BtdEUzaFduVjZTRUlvZlZEZ2JLUmVKc2VyUS1KQzRsNXU3Q2MyZmR4WHMyTGNxQXMzSGNSUEhGWEotd1R0aXpaLS03ejdfb2ltLWRaZ2NNa2lhUnl4QkxvVEdwU3JOUEVxQ2czTkdiQ2Y3dW5wSFhPaHM?oc=5",
-        "note": "Latest related coverage surfaced from Google News search."
-      }
-    ],
-    "about": "Bonk is a dog-themed memecoin on the Solana blockchain, launched on Christmas Day 2022 to revitalize the Solana community following the FTX collapse. Created by an anonymous team of 22 Solana developers and builders, Bonk distributed 50% of its total 100 trillion token supply via airdrop to community members including ",
-    "reportIntro": "Bonk stood out as one of yesterday's strongest movers, supported by recent market momentum.",
     "binanceUrl": "https://www.binance.com/join?ref=XETYHXNR"
   }
 ]
